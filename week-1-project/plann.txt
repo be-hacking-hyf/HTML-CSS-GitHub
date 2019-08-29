@@ -1,9 +1,0 @@
-given
-  week 1
-    main index.html with what's needed for each step
-    starter html file
-    each folder labeled
-  week 2
-    main index.html with what's needed for each step
-  week 3
-    main index.html with user stories only
