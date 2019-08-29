@@ -48,7 +48,7 @@ __To complete the weekly projects__:
 
 Take a look at the completed example to study to get an idea what's expected of you: 
 * [the live example](https://be-hacking-hyf.github.io/HTML-CSS-GitHub/to-study-feedback-form/index.html)
-* [it's source code](./to-study-feedback-form). 
+* [it's source code](https://github.com/be-hacking-hyf/HTML-CSS-GitHub/tree/master/to-study-feedback-form). 
 
 You can also preview the assignments here:
 1. [responsive TicTacToe board](./week-1-project)
