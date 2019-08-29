@@ -4,7 +4,9 @@ This repo contains all the materials for HYF module 1: HTML, CSS.  The homework 
 
 While this module is called "HTML & CSS", it's important to remember that you also need to learn how to Fork & Pull Request on GitHub, to Push and Pull your work between GitHub and your computer, and to develop locally on your computer using a browser+DevTools and a specialized text editor.  
 
-In the first weeks it's very likely that you'll spend as much time figuring out how to publish and turn in your projects as you will spend building them.  _This is totally normal and OK!_  Working like a developer takes time and practice to get good at, and at this point in your learning it's even more important than mastering HTML & CSS!  So on days when you find yourself spending a couple hours trying to push your homework or send a PR for your coach to look over your homework, remind yourself that it's all time well spent. Mastering these skills _now_ will free your time _later_ to focus on studying the more interesting and challenging skills in this course.
+In the first weeks it's very likely that you'll spend as much time figuring out how to publish and turn in your projects as you will spend building them.  _This is totally normal and OK!_  Working like a developer takes time and practice to get good at, and at this point in your learning it's even more important than mastering HTML & CSS!  
+
+So on days when you find yourself spending a couple hours trying to push your homework or send a PR for your coach to look over your homework, remind yourself that it's all time well spent. Mastering these skills _now_ will free your time _later_ to focus on studying the more interesting and challenging skills in this course.
 
 ---
 
