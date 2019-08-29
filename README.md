@@ -41,14 +41,21 @@ __To complete the weekly projects__:
 1. complete each project by the weekly deadline
 1. push your code to your fork on github
 1. send a pull request to the main HYFB repository
-  * Don't forget to tag your coach in your pull requests!
-1. Your coach will use GitHub Issues to give you feedback 
+    * Call it ```Week n: yourName```, ie. ```Week 2: Laura```
+    * Don't forget to tag your coach in your pull requests!
+1. Your coach will use GitHub Issues to give you feedback   
+    * You and your coach can discuss the feedback right in the issue
+    * Your coach will close the issue when you've addressed their feedback
+1. You'll know you've finished the project when:
+    * All the issues in your repository are closed
+    * Your coach has closed your PR in the main HYf repo. (without merging your work!)
 
-To get an idea of what you'll be learning with these projects check out [the live example](https://be-hacking-hyf.github.io/HTML-CSS-GitHub/to-study-feedback-form/index.html), and [it's source code](./to-study-feedback-form). 
+
+To get an idea of what you'll be learning with these projects check out [the live example](https://be-hacking-hyf.github.io/HTML-CSS-GitHub/to-study-feedback-form/index.html), and [it's source code](https://github.com/be-hacking-hyf/HTML-CSS/blob/master/to-study-feedback-form). 
 
 You can also preview the assignments here:
 1. [responsive TicTacToe board](./week-1-project)
-1. [](./week-2-project)
+1. [replicate DuckDuckGo](./week-2-project)
 1. [](./week-3-project)
 
 
@@ -65,4 +72,4 @@ So try being organized about this!  It'll be a lot easier to finish these exerci
 
 ___
 ___
-### <a href="https://hackyourfuture.be" target="_blank"><img src="https://pbs.twimg.com/profile_images/984474625009741824/Bs_qKx6-_400x400.jpg" width="100" height="100"></img></a>
+### <a href="https://hackyourfuture.be" target="_blank"><img src="https://user-images.githubusercontent.com/18554853/63941625-4c7c3d00-ca6c-11e9-9a76-8d5e3632fe70.jpg" width="100" height="100"></img></a>
