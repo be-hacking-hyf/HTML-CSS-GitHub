@@ -54,7 +54,7 @@ __To complete and submit the weekly projects__:
     * Your coach has closed your PR in the main HYf repo. (without merging your work!)
 
 Take a look at the completed example to study to get an idea what's expected of you:
-* [the live example](https://be-hacking-hyf.github.io/HTML-CSS-GitHub/example-project-feedback-form/index.html)
+* [the live example](https://be-hacking-hyf.github.io/HTML-CSS-GitHub/example-project-feedback-form/)
 * [it's source code](https://github.com/be-hacking-hyf/HTML-CSS-GitHub/tree/master/example-project-feedback-form).
 
 You can also preview the assignments here:
