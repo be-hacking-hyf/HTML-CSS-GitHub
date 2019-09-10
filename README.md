@@ -48,7 +48,7 @@ __To complete and submit the weekly projects__:
 1. Your coach will use GitHub Issues to give you feedback
     * You and your coach can discuss the feedback right in the issue
     * Your coach will close the issue when you've addressed their feedback
-1 (you can practice this submission process [with this exercise](https://github.com/HackYourFutureBelgium/git-github-practice/wiki/Pull-Requesting))
+1. (you can practice this submission process [with this exercise](https://github.com/HackYourFutureBelgium/git-github-practice/wiki/Pull-Requesting))
 1. You'll know you've finished the project when:
     * All the issues in your repository are closed
     * Your coach has closed your PR in the main HYf repo. (without merging your work!)
