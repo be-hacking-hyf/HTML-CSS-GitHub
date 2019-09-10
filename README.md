@@ -37,9 +37,9 @@ __Don't__
 * ... move on to the next step before the previous one is finished
 * ... include any JavaScript
 
-__To complete the weekly projects__:
-1. fork this repository
-1. clone it to your computer
+__To complete and submit the weekly projects__:
+1. fork this repository (if you haven't yet)
+1. clone it to your computer (if you haven't yet)
 1. complete each project by the weekly deadline
 1. push your code to your fork on github
 1. send a pull request to the main HYFB repository
@@ -48,6 +48,7 @@ __To complete the weekly projects__:
 1. Your coach will use GitHub Issues to give you feedback
     * You and your coach can discuss the feedback right in the issue
     * Your coach will close the issue when you've addressed their feedback
+1 (you can practice this submission process [with this exercise](https://github.com/HackYourFutureBelgium/git-github-practice/wiki/Pull-Requesting))
 1. You'll know you've finished the project when:
     * All the issues in your repository are closed
     * Your coach has closed your PR in the main HYf repo. (without merging your work!)

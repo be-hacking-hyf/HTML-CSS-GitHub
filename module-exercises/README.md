@@ -6,18 +6,21 @@ But what's this all about with exercises?  Isn't a weekly project enough?  Not i
 
 For this module, we expect you to complete the [Applied Accessiblity](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility) lessons from FreeCodeCamp then to copy your solutions into this folder.  We've completed the first exercise so you can see how we expect you to submit solutions.
 
+You can read more about Applied Accessibility [right here](https://guide.freecodecamp.org/accessibility).
+
 ---
 
 ### Live Demos
 
-Along with completing each example, we'd like you to put each one as a live web page on GitHub pages.  This will help us grade it, and help you see how much you've built so far! 
+Along with completing each example, we'd like you to put each one as a live web page on GitHub pages.  This will help us grade it, and help you see how much you've built so far!
 
 We've set up the first completed exercise as an example for you to see how this works. (ps. this will only run if you turn on GitHub pages for your repo!)
 
 [__See my Live Demos__](https://your user name.github.io/HTML-CSS/exercises):
 1. [Add an Accessible Date Picker](./1-add-an-accessible-date-picker.html)
 1. [Add a Text Alternative to Images for Visually Impaired Accessibility](fill this in!)
-1. 
+1.
+
 
 
 ---
