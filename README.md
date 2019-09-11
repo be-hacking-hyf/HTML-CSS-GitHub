@@ -18,22 +18,22 @@ To prepare for (and review!) each week's class you can go to the [HTML & CSS wik
 
 ## Weekly Projects
 
-Each week you will be required to complete a small project.  The goal of these projects is to practice planning and building projects in a methodical and structured way, and to write the cleanest and most correct code possible.  The goal of these projects _is not_ to build the fanciest most beautiful website, to use all the latest CSS tricks, or to use cool libraries and API's.
+Each week you will be required to complete a small project that integrates everything you've learned so far (HTML, CSS, GitHub, working locally, incremental development).  The goal of these projects is to practice planning and building projects in a methodical and structured way, and to write the cleanest and most correct code possible.  The goal of these projects _is not_ to build the fanciest most beautiful website, to use all the latest CSS tricks, or to use cool libraries and API's.
 
 Here's a short list of do's and don't's that can help you stay on track:
 
 __DO__
-* Use only plain HTML & CSS
-* Completely finish one step of the project before moving on to the next
-* Be very careful about your CSS classes, selectors and id's
-* Properly indent your code
-* Find the simplest solution to each step of the project
-* Start each step of the project by copy-pasting the last step
+* ... use only plain HTML & CSS (no CSS frameworks like Bootstrap or Material!)
+* ... completely finish one step of the project before moving on to the next
+* ... be very careful about your CSS classes, selectors and id's
+* ... Properly indent your code
+* ... find the simplest solution to each step of the project
+* ... start each step of the project by copy-pasting the last step
 
 __Don't__
 * ... think that your site can be pretty enough to make up for messy code
-* ... use any CSS libraries
-* ... make the the steps of the project do less _or more_ than is assigned
+* ... use any CSS libraries or frameworks
+* ... make the any steps of your project do less _or more_ than is assigned
 * ... move on to the next step before the previous one is finished
 * ... include any JavaScript
 
@@ -42,14 +42,13 @@ __To complete and submit the weekly projects__:
 1. clone it to your computer (if you haven't yet)
 1. complete each project by the weekly deadline
 1. push your code to your fork on github
-1. send a pull request to the main HYFB repository
+1. [send a pull request](https://github.com/HackYourFutureBelgium/git-github-practice/wiki/Pull-Requesting) to the main HYFB repository
     * Call it ```Week n: yourName```, ie. ```Week 2: Laura```
     * Don't forget to tag your coach in your pull requests!
-1. Your coach will use GitHub Issues to give you feedback
+1. your coach will use GitHub Issues to give you feedback
     * You and your coach can discuss the feedback right in the issue
     * Your coach will close the issue when you've addressed their feedback
-1. (you can practice this submission process [with this exercise](https://github.com/HackYourFutureBelgium/git-github-practice/wiki/Pull-Requesting))
-1. You'll know you've finished the project when:
+1. you'll know you've finished the project when:
     * All the issues in your repository are closed
     * Your coach has closed your PR in the main HYf repo. (without merging your work!)
 
@@ -58,16 +57,16 @@ Take a look at the completed example to study to get an idea what's expected of 
 * [it's source code](https://github.com/be-hacking-hyf/HTML-CSS-GitHub/tree/master/example-project-feedback-form).
 
 You can also preview the assignments here:
-1. [responsive TicTacToe board](./week-1-project)
-1. [replicate DuckDuckGo](./week-2-project)
-1. [](./week-3-project)
+1. [human-intelligence TicTacToe board](./week-1-project)
+1. [responsive Web Designer site](./week-3-project)
+1. [replicate DuckDuckGo](./week-3-project)
 
 
 ---
 
 ## Exercises
 
-Along side Sunday classes and weekly projects, you'll be expected to complete a set of focused exercises. While the project teaches how to integrate your skills, the exercises will focus on strengthening individual skills.  This module's exercises can be found [in the exercise folder](./module-exercises).
+Along side Sunday classes and weekly projects which focus on integrating your skills, you'll be expected to complete a set of exercises to focus in and practice certain skills in isolation. While the project teaches how to integrate your skills, the exercises will focus on strengthening individual skills.  This module's exercises can be found [in the exercise folder](./module-exercises).
 
 Exercises are all due at the end of the Module, we won't be checking your exercises each week (unless you have some questions of course!).  We also won't accept any homework for JavaScript 1 until you have submitted your exercises from HTML & CSS.
 
