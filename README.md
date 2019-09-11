@@ -1,22 +1,31 @@
-# HTML, CSS
+<h1 align="center">HackYourFuture Belgium</h1>
 
-This repo contains all the materials for HYF module 1: HTML, CSS.  The homework and exercises are in the main repository for you to fork and complete, all the study materials are [in the wiki](https://github.com/be-hacking-hyf/HTML-CSS-GitHub/wiki) for you to study.
+<div align="center">
+  <a href="https://hackyourfuture.be" target="_blank">
+    <img src="https://user-images.githubusercontent.com/18554853/63941625-4c7c3d00-ca6c-11e9-9a76-8d5e3632fe70.jpg" width="250" height="250"/>
+  </a>
+</div>
 
-While this module is called "HTML & CSS", it's important to remember that you also need to learn how to Fork & Pull Request on GitHub, to Push and Pull your work between GitHub and your computer, and to develop locally on your computer using a browser+DevTools and a specialized text editor.
+# Getting started
+  
+> Welcome to your first training at HYF. Please read completely this file and make sure you understand everything.  
+Happy learning 😁
+  
+This repo contains all the materials for the module 1: `HTML, CSS`.  The homework and exercises are in the main repository for you to fork and complete, all the study materials are [in the wiki](https://github.com/be-hacking-hyf/HTML-CSS-GitHub/wiki) for you to study.  
 
-In the first weeks it's very likely that you'll spend as much time figuring out how to publish and turn in your projects as you will spend building them.  _This is totally normal and OK!_  Working like a developer takes time and practice to get good at, and at this point in your learning it's even more important than mastering HTML & CSS!
+While this module is called "HTML & CSS", it's important to remember that you also need to learn how to Fork & Pull Request on GitHub, to Push and Pull your work between GitHub and your computer, and to develop locally on your computer using a browser+DevTools and a specialized text editor.  
 
-So on days when you find yourself spending a couple hours trying to push your homework or send a PR for your coach to look over your homework, remind yourself that it's all time well spent. Mastering these skills _now_ will free your time _later_ to focus on studying the more interesting and challenging skills in this course.
+In the first weeks it's very likely that you'll spend as much time figuring out how to publish and turn in your projects as you will spend building them.  _This is totally normal and OK!_  Working like a developer takes time and practice to get good at, and at this point in your learning it's even more important than mastering HTML & CSS!  
 
----
+So on days when you find yourself spending a couple hours trying to push your homework or send a PR for your coach to look over your homework, remind yourself that it's all time well spent. Mastering these skills _now_ will free your time _later_ to focus on studying the more interesting and challenging skills in this course.  
 
-## Reading Materials & Lesson Plans
+### Your mission
 
-To prepare for (and review!) each week's class you can go to the [HTML & CSS wiki](https://github.com/be-hacking-hyf/HTML-CSS-GitHub/wiki) where you'll find a summary of each week's learning objectives, in-class examples, and extra reading materials.
+- Prepare each class by reading the [wiki](https://github.com/be-hacking-hyf/HTML-CSS-GitHub/wiki) preparation work called [Prep Work (for week 1)](https://github.com/be-hacking-hyf/HTML-CSS-GitHub/wiki/Prep-Work-wk-1)
+- During class, be focus, ask questions as much as you can, help your teammates when they are struggling.
+- After class you have all the week to make your homework
 
----
-
-## Weekly Projects
+### It's not finish... yet!
 
 Each week you will be required to complete a small project.  The goal of these projects is to practice planning and building projects in a methodical and structured way, and to write the cleanest and most correct code possible.  The goal of these projects _is not_ to build the fanciest most beautiful website, to use all the latest CSS tricks, or to use cool libraries and API's.
 
@@ -61,9 +70,6 @@ You can also preview the assignments here:
 1. [responsive TicTacToe board](./week-1-project)
 1. [replicate DuckDuckGo](./week-2-project)
 1. [](./week-3-project)
-
-
----
 
 ## Exercises
 
