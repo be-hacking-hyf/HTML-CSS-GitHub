@@ -11,7 +11,7 @@
 > Welcome to your first training at HYF. Please read completely this file and make sure you understand everything.
 Happy learning 😁
 
-This repo contains all the materials for the module 1: `HTML, CSS`.  The homework and exercises are in the main repository for you to fork and complete, all the study materials are [in the wiki](https://github.com/be-hacking-hyf/HTML-CSS-GitHub/wiki) for you to study.
+This repo contains all the materials for the module 1: `HTML, CSS`.  The homework, exercises, and study code are in the main repository for you to fork and complete, all the lesson plans and weekly information are [in the wiki](https://github.com/be-hacking-hyf/HTML-CSS-GitHub/wiki).
 
 While this module is called "HTML & CSS", it's important to remember that you also need to learn how to Fork & Pull Request on GitHub, to Push and Pull your work between GitHub and your computer, and to develop locally on your computer using a browser+DevTools and a specialized text editor.
 
