@@ -8,6 +8,7 @@ We still expect your Week 3 project to be broken down into working steps with a 
 
 You'll get a chance in class next Sunday to discuss the different ways this project an be broken down into user stories.
 
+> Pay attention to how he uses HTML5 Semantic Tags to structure his web pages!
 
 ---
 ---

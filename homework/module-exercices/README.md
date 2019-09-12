@@ -16,7 +16,7 @@ Along with completing each example, we'd like you to put each one as a live web 
 
 We've set up the first completed exercise as an example for you to see how this works. (ps. this will only run if you turn on GitHub pages for your repo!)
 
-[__See my Live Demos__](https://your user name.github.io/HTML-CSS/exercises):
+[__See my Live Demos__](https://your user name.github.io/HTML-CSS-GitHub/homework/module-exercises):
 1. [Add an Accessible Date Picker](./1-add-an-accessible-date-picker.html)
 1. [Add a Text Alternative to Images for Visually Impaired Accessibility](fill this in!)
 1.
