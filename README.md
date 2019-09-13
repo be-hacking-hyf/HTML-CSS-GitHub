@@ -56,21 +56,6 @@ __Don't__
 * ... move on to the next step before the previous one is finished
 * ... include any JavaScript
 
-__To complete and submit the weekly projects__:
-1. fork this repository (if you haven't yet)
-1. clone it to your computer (if you haven't yet)
-1. complete each project by the weekly deadline
-1. push your code to your fork on github
-1. [send a pull request](https://github.com/HackYourFutureBelgium/git-github-practice/wiki/Pull-Requesting) to the main HYFB repository
-    * Call it ```Week n: yourName```, ie. ```Week 2: Laura```
-    * Don't forget to tag your coach in your pull requests!
-1. your coach will use GitHub Issues to give you feedback
-    * You and your coach can discuss the feedback right in the issue
-    * Your coach will close the issue when you've addressed their feedback
-1. you'll know you've finished the project when:
-    * All the issues in your repository are closed
-    * Your coach has closed your PR in the main HYf repo. (without merging your work!)
-
 Take a look at the completed example to study to get an idea what's expected of you:
 * [the live example](https://be-hacking-hyf.github.io/HTML-CSS-GitHub/study-code/example-project-feedback-form/)
 * [it's source code](https://github.com/be-hacking-hyf/HTML-CSS-GitHub/tree/master/study-code/example-project-feedback-form).
