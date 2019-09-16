@@ -1,8 +1,8 @@
 ## Slide Shows for HTML, CSS & GitHub
 
-* [week 1](https://be-hacking-hyf.github.io/slides/week-1.html)
-* [week 2](https://be-hacking-hyf.github.io/slides/week-2.html)
-* [week 3](https://be-hacking-hyf.github.io/slides/week-3.html)
+* [week 1](./week-1.html)
+* [week 2](./week-2.html)
+* [week 3](./week-3.html)
 
 ---
 ---
