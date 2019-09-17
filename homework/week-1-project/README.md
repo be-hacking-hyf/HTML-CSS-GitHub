@@ -1,6 +1,6 @@
 ## Week 1 Project
 
-To complete this week's project you'll need to code each user story described [in this user story table](https://be-hacking-hyf.github.io/HTML-CSS-GitHub/study-code/example-project-feedback-form/).
+To complete this week's project you'll need to code each user story described [in this user story table](https://be-hacking-hyf.github.io/HTML-CSS-GitHub/homework/week-1-project/).
 
 But wait! It's not enough to have a website that does all of these things.  We want you to also pay attention to how such a site can be broken into small steps and developed incrementally.  To show us that you are mastering this skill you will be required to save each step of your progress in a different folder, as a fully-working (but incomplete) web site. Each step will use the previous one as a starting point.
 
