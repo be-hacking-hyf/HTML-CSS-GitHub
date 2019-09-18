@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+}
+body {
+    width: 100%;
+    height: 1250px;
+    margin: 0 auto;
+    background-color: darkgrey;
+}
+header{
+    width: 1150px;
+    height: 620px;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 25px;
+    margin-top: 50px;
+    padding-top: 50px;
+    text-align: center;
+}
+figure{
+    width: 412px;
+    height: 412px;
+    background-image: url("game1.png");
+    margin-left: 350px;
+}
+h1{
+    margin-bottom: 40px;
+    background-color: brown;
+    color:white;
+    font-family: 'PT Sans Narrow', sans-serif;
+    
+}
+h3{
+    color: brown;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+p{
+    color: brown;
+    height: 30px;
+    font-family: 'Quicksand', sans-serif;
+    margin-top: 20px;
+}

@@ -19,41 +19,41 @@ header{
     padding-top: 50px;
     text-align: center;
 }
-figure{
-    width: 412px;
-    height: 412px;
-    background-image: url("game1.png");
-    margin-left: 350px;
-}
 h1{
     margin-bottom: 40px;
     background-color: brown;
     color:white;
-    font-family: 'PT Sans Narrow', sans-serif;
-    
+    font-family: 'PT Sans Narrow', sans-serif;    
 }
-h3{
-    color: brown;
-    font-family: 'PT Sans Narrow', sans-serif;
-}
-header p{
-    color: brown;
-    height: 30px;
-    font-family: 'Quicksand', sans-serif;
-    margin-top: 20px;
-    font-size: 20px;
+figure{
+    width: 640px;
+    height: 444px;
+    background-image: url("play.jpg");
+    margin-left: 255px;
 }
 main{
     width: 1150px;
-    height: 220px;
+    height: 420px;
     margin: 0 auto;
     background-color: white;
-    text-align: center;
     padding-top: 20px;
+    text-align: center;
 }
 main p {
+    font-size: 30px;
+    background-color: brown;
+    font-family: 'PT Sans Narrow', sans-serif; 
+    color: white;
+    margin-bottom: 20px;
+}
+main ol {
+    height: 250px;
+}
+main ol li {
+    height: 50px;
+    display: block;
     font-size: 20px;
     color: brown;
+    text-align: left;
     font-family: 'Quicksand', sans-serif;
-    margin-bottom: 40px;
 }
