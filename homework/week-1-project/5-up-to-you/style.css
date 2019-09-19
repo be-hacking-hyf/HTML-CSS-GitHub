@@ -50,7 +50,7 @@ img {
       .grid-container {
           display: grid;
           height: 25%;
-          width: 35%;
+          width: 40%;
           margin-left:35%;
           margin-top: 0;    
           align-content:center;
@@ -63,7 +63,7 @@ img {
         .grid-container > div {
           background-color: white;
           text-align: center;
-          padding: 40%;
+          padding: 25%;
           font-size: 30px;
        }
 
