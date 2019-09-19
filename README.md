@@ -1,3 +1,3 @@
 <p>The links of my project</p>
-<a href="homework/week-1-project/0-blank-page-setup"></a>
+<a href="https://mert1980.github.io/HTML-CSS-GitHub/homework/week-1-project/0-blank-page-setup">0-Blank Page</a>
   
