@@ -1,0 +1,29 @@
+body {
+    font-family:  Arial, Helvetica, sans-serif;
+    background-color:  aqua;
+}
+.header h1 {
+    color:  black;
+    font-size:  5rem;
+    text-align:  center;
+}
+.rules {
+    margin: 0 auto;
+    text-align:  center;
+}
+table {
+    width:  100%;
+    border-collapse:  collapse;
+}
+tr {
+    width: 33.333%;
+    border: 6px solid black;
+}
+td {
+border: 6px solid black;
+}
+td::after {
+    content: "";
+    display: block;
+    margin-top:  100%;
+}
