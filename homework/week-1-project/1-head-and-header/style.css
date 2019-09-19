@@ -1,0 +1,10 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: #EFD1C6;
+}
+
+.header h1 {
+    color: black;
+    font-size: 5rem;
+    text-align: center;
+}
