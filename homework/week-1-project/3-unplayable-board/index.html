@@ -1,23 +1,41 @@
-<body>
-<div class="text-center"id="box">
-  <header>
-    <h1>Play Tic Tac Toe</h1>
-  </header>
-<div id="message"></div>
-  <ul id="gameBoard">
-    <li class="tic"id="0">#</li>
-    <li class="tic"id="1">#</li>
-    <li class="tic"id="2">#</li>
-    <li class="tic"id="3">#</li>
-    <li class="tic"id="4">#</li>
-    <li class="tic"id="5">#</li>
-    <li class="tic"id="6">#</li>
-    <li class="tic"id="7">#</li>
-    <li class="tic"id="8">#</li>
-  </ul>
-  <div class="clearfix"></div>
-<footer>
-  <button id="reset">Reset</button>
-</footer>
-</div>
-</body>
+<html>
+    
+    <body onload="mode();"> 
+     <div id="screen">
+         <h1 class="h1" align="center">Please Choose Game Mode</h1>
+         <select id="mode">
+               <option Selected>Choose Mode</option>
+               <option value="1">Computer Vs Human</option>
+               <option value="2">Human Vs Human</option>
+               <option disabled value="3">Computer Vs Computer (comming soon)</option>
+            </select>
+    </div>
+    <h1>Tic Tac Toe </h1>
+    <div id="reset"></div>
+   <button class="btn d" id="draw">Draw!</button>
+    <button class="btn l" id="loss">You Lost!</button>
+     <button class="btn w" id="win">You Won!</button>
+       <button class="btn w1" id="p2win">Player 1 (O)Won!</button>
+       <button class="btn w1" id="p1win">Player 2 (X)Won!</button>
+    <button class="btn r" id="resetbtn" onclick="resetclick()">Reset</button>    
+    <div id="turn" style="display:none;">
+    <span id="p1" class="p1">Player2's (X)Turn</span>
+    <span id="p2" class="p2">Player1's (O)Turn</span></div>
+    <div id="turnc" style="display:none;">
+    <span id="ct" class="p1">Computer's' Turn</span>
+    <span id="yt" class="p2">Your Turn</span></div>
+    <span id="tt"></span>
+   <form  align="center" >
+<input type="button"  id="b1" value="     " onclick="btn1(mode)">
+<input  type="button" id="b2" value="     " onclick="btn2(mode)">
+<input type="button" id="b3"  value="     " onclick="btn3(mode)"><br />
+<input type="button" id="b4"  value="     " onclick="btn4(mode)">
+<input type="button" id="b5"  value="     " onclick="btn5(mode)">
+<input type="button" id="b6"  value="     " onclick="btn6(mode)"><br />
+<input type="button"  id="b7"  value="     " onclick="btn7(mode)">
+<input type="button"  id="b8"  value="     " onclick="btn8(mode)">
+<input type="button" id="b9"   value="     " onclick="btn9(mode)">
+</form>
+
+    </body>
+</html>
