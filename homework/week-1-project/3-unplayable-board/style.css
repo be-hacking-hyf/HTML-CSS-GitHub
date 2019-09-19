@@ -1,0 +1,38 @@
+<style>body {
+    bacground-color: black;
+    margin: 10%;
+    padding: 10%
+}
+
+header {
+    color: rgba(73, 171, 252, 0.925);
+    font: outline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px
+}
+
+section {
+    color: rgb(248, 194, 150);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+article {
+    color: rgb(252, 207, 170)
+}
+
+table {
+    width: 100%;
+}
+
+td {
+    width: 33.3%;
+}
+
+td:after {
+    content: "";
+    display: block;
+    margin-top: 100%;
+}
+
+</style>
