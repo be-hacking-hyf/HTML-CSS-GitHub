@@ -1,0 +1,61 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  html,
+  body {
+    padding: 0;
+    margin: 0;
+    font-size: 62.5%;
+  }
+  
+  body {
+    background-color: rgb(231, 130, 130);
+  }
+  
+  .body-wrapper {
+    background-color: rgb(231, 130, 130);
+    border-radius: 1rem;
+    width: 85vw;
+    margin: 5vh auto;
+    padding: 2vh;
+  }
+  
+  .title {
+    font-size: 4rem;
+    background-color: rgb(60, 183, 224);
+  }
+  
+  .main {
+    font-size: 1.7rem;
+  }
+  
+  @media screen and (min-width: 1000px) {
+    .body-wrapper {
+      width: 1000px;
+      padding: 1vw 5vw 3vw 5vw;
+    }
+  }
+
+  
+  
+  table#tictac td {
+    width: 5em;
+    height: 5em;
+    text-align: center;
+    vertical-align: middle;
+    font: bold 36px sans-serif;
+}
+
+td#cell0, td#cell1, td#cell2, td#cell3, td#cell4, td#cell5 {
+    border-bottom: 3px solid rgb(0, 23, 153);
+}
+
+td#cell0, td#cell1, td#cell3, td#cell4, td#cell6, td#cell7 {
+    border-right: 3px solid rgb(0, 10, 153);
+}
+
+div#result {
+    margin: 0.5em;
+    font: 24px sans-serif;
+}

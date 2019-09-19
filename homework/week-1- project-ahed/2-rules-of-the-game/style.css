@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  html,
+  body {
+    padding: 0;
+    margin: 0;
+    font-size: 62.5%;
+  }
+  
+  body {
+    background-color: rgb(231, 130, 130);
+  }
+  
+  .body-wrapper {
+    background-color: rgb(231, 130, 130);
+    border-radius: 1rem;
+    width: 85vw;
+    margin: 5vh auto;
+    padding: 2vh;
+  }
+  
+  .title {
+    font-size: 4rem;
+    background-color: rgb(60, 183, 224);
+  }
+  
+  .main {
+    font-size: 1.7rem;
+  }
+  
+  @media screen and (min-width: 1000px) {
+    .body-wrapper {
+      width: 1000px;
+      padding: 1vw 5vw 3vw 5vw;
+    }
+  }
+  
