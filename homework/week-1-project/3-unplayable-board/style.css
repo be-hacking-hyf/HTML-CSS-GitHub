@@ -2,7 +2,10 @@ body{
   background: #212121;
   color: #666;
 }
-
+h1{
+  text-align: center;
+  color: #fff;
+}
 .clearfix{
   clear: both;
 }
@@ -30,6 +33,9 @@ body{
   text-align: center;
   border-radius: 5px;
 }
+#gameBoard li:hover, #reset:hover{
+  cursor: pointer;
+  background: #000;
 }
 #reset{
   border: 0;
