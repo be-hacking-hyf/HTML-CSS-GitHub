@@ -165,7 +165,7 @@ Repeat and read again W3SCHOOL Pseudo-Class and Pseudo-Element Section
       }
 
       .accordion label{
-          padding-right: 20px;
+          margin-right: 20px;
           font-size: 90%;
       }
     
