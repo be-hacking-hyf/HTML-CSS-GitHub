@@ -8,7 +8,6 @@
     I have tried to build a non-interactive TicTacToe board. 
   </p>
   
-
   <table width="70%" border="1">
     <thead>
       <tr>
