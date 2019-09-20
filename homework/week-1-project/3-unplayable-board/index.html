@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="./style.css">
+  <link href="https://fonts.googleapis.com/css?family=Dosis|Noto+Sans+TC&display=swap" rel="stylesheet">
+  <!--Stage_1_Title added.-->
+  <title>TicTacToe</title>
+
+<body>
+    <header class="row">
+        <h1>TicTacToe Game</h1>
+    </header>
+    <main>
+        <section class="row">
+            <h3 class="col-100">Let's Play Old Childhood Paper Game! </h3>
+
+             <!--Description and Rules added.-->
+            <article class="accordion">
+                <input id="tab-1" type="checkbox" name="tab">
+                <label for="tab-1">Don't Remember Rules just check it!</label>
+                <div class="accordion_content">
+                    <p>
+                        Tic-tac-toe is originally paper and pencil game played with Xs and Os for two players,
+                        who take turns marking the spaces in a 3×3 grid. The player who succeeds in placing
+                        three of their marks in a horizontal, vertical, or diagonal row wins the game.
+                        The following example game is won by the player, X:
+                    </p>
+                    <img src="images/tic_tac_tow_win.png">
+                </div>
+            </article>
+        </section>
+        
+        <!--I used form because I can utilize it in the future.This is not necessary
+        only drawing board but if we needs to submit form (reset game for example)
+        we may use in the future. -->        
+        <form>
+            <div class="board-frame">
+                <div class="board">
+                  <div class="board-inner">
+
+                    <div class="board_square"></div>
+                    <div class="board_square"></div>
+                    <div class="board_square"></div>
+                    <div class="board_square"></div>
+                    <div class="board_square"></div>
+                    <div class="board_square"></div>
+                    <div class="board_square"></div>
+                    <div class="board_square"></div>
+                    <div class="board_square"></div>
+
+                </div>
+              </div>
+            </div>
+        </form>
+</main>
+
+</body>
+
+</html>
