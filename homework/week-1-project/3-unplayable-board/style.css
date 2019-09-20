@@ -66,7 +66,7 @@ Some cosmetic change may be applied here later on*/
 .accordion {
     position: relative;
     margin: 2px;
-    max-width: 500px;
+    max-width: 50vw;
   }
 
 /* I try to change checkbox because it could be better.*/
@@ -158,6 +158,12 @@ Repeat and read again W3SCHOOL Pseudo-Class and Pseudo-Element Section
 
 @media screen and (max-width:900px) {
 
+    .accordion {
+        position: relative;
+        margin: 2px;
+        max-width: 70vw;
+      }
+    
     .board-frame {
         overflow:hidden;
         margin:2rem 0 0 22vw;
