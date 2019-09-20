@@ -163,6 +163,11 @@ Repeat and read again W3SCHOOL Pseudo-Class and Pseudo-Element Section
         margin: 2px;
         max-width: 70vw;
       }
+
+      .accordion label{
+          padding-right: 20px;
+          font-size: 90%;
+      }
     
     .board-frame {
         overflow:hidden;
