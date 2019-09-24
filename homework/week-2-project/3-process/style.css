@@ -40,7 +40,7 @@ header a{
     text-decoration: none;
     text-transform: uppercase;
 }
-header ul{
+ul{
     margin: 0;
     padding: 0;
 }
@@ -48,4 +48,8 @@ header li {
     float: left;
     display: inline;
     padding: 0 20px 0 20px;
+}
+header a:hover {
+    color:#e71f1f;
+    font-weight: bold;
 }
