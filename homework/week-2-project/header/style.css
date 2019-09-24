@@ -11,6 +11,10 @@ background-color: #EBEDEE;
     margin: auto;
     overflow:hidden;
 }
+ul{
+    margin: 0;
+    padding: 0;
+}
 
 /* Header **/
 Header {
@@ -29,15 +33,10 @@ header a {
     font-size: 16px;
 }
 
-header  ul{
-    margin: 0;
-    padding: 0;
-}
-
 header li{
     float: left;
     display: inline;
-    padding 0 20px 0 20px;
+    padding: 0 20px 0 20px;
 }
 
 header #branding {
@@ -50,5 +49,5 @@ header #branding h1{
 
 header nav {
     float:right;
- 
+    margin-top: 10px;
 }
