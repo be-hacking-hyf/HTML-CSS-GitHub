@@ -51,3 +51,13 @@ header nav {
     float:right;
     margin-top: 10px;
 }
+
+header .highlight, header .current a{
+    color: #e8491d;
+    font-weight: bold;
+
+}
+ header a hover{
+     color: #cccccc;
+     font-weight:bold;
+ }
