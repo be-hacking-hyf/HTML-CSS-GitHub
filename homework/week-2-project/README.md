@@ -16,9 +16,11 @@ Feeling very ambitious?  Start a whole new project from scratch!
 
 ## What will we be checking for?
 
-We still expect your Week 2 project to be broken down into working steps with a table in the ```index.html``` to describe your user stories, and for each step to be saved separately in it's own folder.  Only this time we don't tell you what the steps are!  Part of your assignment is to decide when one user story begins and the next ends.  (We won't even tell you how many user stories there are ;) You'll get a chance in class next Sunday to discuss the different ways this project an be broken down into user stories.
+We still expect your Week 2 project to be broken down into working steps with a table in the ```index.html``` to describe your user stories, and for each step to be saved separately in it's own folder.  Only this time we don't tell you what the steps are!  
 
-So no matter how wonderful and responsive your website is, it's still not complete unless it's broken into steps.
+Part of your assignment is to decide when one user story begins and the next ends.  (We won't even tell you how many user stories there are ;) You'll get a chance in class next Sunday to discuss the different ways this project an be broken down into user stories.
+
+> No matter how wonderful and responsive your website is, it's still not complete unless it's broken into steps.
 
 ---
 ---
