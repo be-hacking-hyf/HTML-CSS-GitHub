@@ -18,6 +18,22 @@ header {
     min-height: 70px;
     border-bottom: #e44a4a 3px solid;
 }
+
+header #branding {
+    float: left;
+}
+header #branding h1 {
+    margin: 0;
+}
+
+header .highlight, header .current {
+    color: #e44a4a;
+    font-weight: bold;
+}
+header nav {
+    float: right;
+    margin-top: 10px;
+}
 header a{
     color: #ffffff;
     font-size: 16px;
@@ -28,7 +44,6 @@ ul{
     margin: 0;
     padding: 0;
 }
-
 .emailbutton {
     height: 38px;
     background: #e71f1f;
@@ -43,21 +58,7 @@ header li {
     display: inline;
     padding: 0 20px 0 20px;
 }
-header #branding {
-    float: left;
-}
-header #branding h1 {
-    margin: 0;
-}
-header nav {
-    float: right;
-    margin-top: 10px;
-}
-header .highlight, header .current {
-    color: #e44a4a;
-    font-weight: bold;
-}
-header a:hover{
+header a:hover {
     color:#e71f1f;
     font-weight: bold;
 }
@@ -106,6 +107,12 @@ header a:hover{
 }
 #boxes .box img{
     width: 90px;
+}
+
+
+article#main-col{
+    float: left;
+    width: 65%;
 }
 footer {
     padding: 20px;
