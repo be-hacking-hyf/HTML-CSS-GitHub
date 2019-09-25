@@ -26,7 +26,7 @@
      <tbody>
         <tr>
           <td><a href="https://mert1980.github.io/HTML-CSS-GitHub/homework/week-2-project/Step2/home.html">Step-2</a> </td>
-          <td style=color:red>Write HTML File (header, showcase, newsletter, form, boxes and footer)</td>
+          <td><strong>Write HTML File (header, showcase, newsletter, form, boxes and footer)</strong></td>
           <td>(doesn't exist yet!)</td>
           <td>(doesn't exist yet!)</td>
           <td>Not CSS styling yet!</td>
