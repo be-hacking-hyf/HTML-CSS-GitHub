@@ -1,0 +1,35 @@
+body {
+    background-color: white;
+}
+h1 {
+    text-align: center;
+}
+.form__item {
+        
+        display: grid;
+        grid-gap: 1rem;
+        grid-template-columns: 1fr;
+        width: 100px;
+        height: 100px;
+    }
+.form__input {
+        text-align: left;
+        font-size: 20px;
+        color: red;
+        border: 1px solid gray;
+        padding: 0.5rem;
+      }
+#board {
+          border: 2px solid black;
+          margin-bottom: 30px;
+      }
+table {
+          border-collapse: collapse;
+          
+      }
+td {
+        border: 2px solid black;
+        width: 100px;
+        height: 100px;
+}
+ 
