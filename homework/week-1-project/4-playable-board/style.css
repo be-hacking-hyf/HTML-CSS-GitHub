@@ -1,0 +1,61 @@
+
+b
+ody {
+    text-align: center;
+  }
+  h1 {
+    color: blue;
+    text-align: center;
+    font-size: 300%;
+  }
+  #board {
+    display: flex;
+    justify-content: center;
+  }
+
+  .box {
+    display: grid;
+    grid-gap: 1rem;
+    grid-template-columns: 1fr;
+    width: 4rem;
+    height: 4rem;
+    font-size: 2rem;
+  }
+  .tooltip {
+    position: relative;
+    display: inline-block;
+  }
+
+  .tooltip h3 {
+    color: blue;
+    text-align: center;
+    font-size: 1rem;
+  }
+  .tooltip .tooltiptext {
+    visibility: hidden;
+    width: 100%;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 2rem;
+    padding: 1rem 0;
+    position: absolute;
+  }
+
+  .tooltip:hover .tooltiptext {
+    visibility: visible;
+  }
+
+  footer{
+    position:relative;
+    bottom:0;
+    width:100%;
+    margin:0rem;
+    text-align:center;
+    padding:0.5rem;
+
+  footer a {
+    color: blue;
+    font-size: 1.5rem;
+  }
+
