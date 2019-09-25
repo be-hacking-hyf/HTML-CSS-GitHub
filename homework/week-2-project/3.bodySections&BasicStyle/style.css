@@ -1,0 +1,132 @@
+/*body*/
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    padding:0;
+    margin:0;
+    background-color: rgb(63, 63, 60);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+/*apply to all*/
+
+.container{
+    width:%80;
+    margin:auto;
+    overflow:hidden;
+}
+
+/*showcase*/
+
+#showcase{
+    min-height: 400px;
+    background: #050000;
+    text-align: center;
+    color: antiquewhite;
+
+}
+
+#showcase h1{
+    margin-top: 100px;
+    margin-bottom: 10px;
+    font-size: 55px;
+}
+
+#showcase p{
+    font-size: 30px;
+}
+
+
+/* Newsletter */
+#newsletter{
+    padding:15px;
+    color:antiquewhite;
+    background:#07c020;
+  }
+  
+  #newsletter h1{
+    float:left;
+  }
+  
+  #newsletter form {
+    float:right;
+    margin-top:15px;
+  }
+  
+  #newsletter input[type="email"]{
+    padding:4px;
+    height:25px;
+    width:250px;
+  }
+
+
+/* Boxes */
+#boxes{
+    margin-top:20px;
+  }
+  
+  #boxes .box{
+    float:left;
+    text-align: center;
+    width:30%;
+    padding:10px;
+  }
+  
+  #boxes .box img{
+    width:90px;
+  }
+  
+
+/*header and nav*/
+header{
+    background:url("../images/pizza.jpg") no-repeat -50px -400px;
+    color:#050000;
+    padding-top:30px;
+    min-height;70px;
+    border-bottom: #e8491d 3px solid;
+
+}
+
+
+header a{
+    color:#181701;
+    text decoration:none;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+
+header ul{
+    margin:0;
+    padding:0;
+}
+header li{
+    float:left;
+    display:inline;
+    padding:0 20px 0 20px;  
+}
+
+header #branding{
+    float:left;
+}
+header #branding h1{
+    margin:0;
+}
+
+header nav{
+    float:right;
+    margin-top: 10px;
+}
+.highlight, header .current a{
+    color:#07c020;
+    font-weight: bold;
+
+
+header a:hover{
+    color:#cccccc;
+    font-weight:bold;
+}
+
