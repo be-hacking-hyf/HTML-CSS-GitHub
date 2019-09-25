@@ -9,7 +9,17 @@ We still expect your Week 3 project to be broken down into working steps with a 
 You'll get a chance in class next Sunday to discuss the different ways this project an be broken down into user stories.
 
 > Pay attention to how he uses HTML5 Semantic Tags to structure his web pages!
-
+<ul>
+<li><a href="./0-blank-page-setup/index.html">... (0-blank-page)open a website</a> </li>
+<li><a href="./1-HTML(title)/index.html">... (1-HTML(title))know what the site is about</a> </li>
+<li><a href="./2-HEADER/index.html">... (2-HEADER)title, banner title</li>
+<li><a href="./3-NAV/index.html">... (3-NAV)menu(css)/ pages created</li>
+<li><a href="./4-SECTION/index.html">... (4-SECTION)banner title+brief description, subsection title+brief desc.,  email-button added</li>
+<li><a href="./5-FOOTER/index.html">... (5-FOOTER)title of web design, date added </li>
+<li><a href="./6-ARTICLE/about.html">... (6-ARTICLE)information added in article  </li>
+<li><a href="./7-ASIDE/about.html">... (7-ASIDE)information added in aside(about.html)<br>
+                <a href="./7-ASIDE/services.html">... (7-ASIDE)information added in aside(services.html)</li>
+</ul>
 ---
 ---
 ### <a href="https://hackyourfuture.be" target="_blank"><img src="https://user-images.githubusercontent.com/18554853/63941625-4c7c3d00-ca6c-11e9-9a76-8d5e3632fe70.jpg" width="100" height="100" alt="Hack Your Future: Belgium"></img></a>
