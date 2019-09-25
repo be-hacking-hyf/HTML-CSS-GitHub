@@ -38,4 +38,13 @@ div {
     background-color: rgb(255, 255, 255);
     font-size: 18px;
 }
-
+a:link {
+    color: midnightblue;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  td {
+    border: 11px groove midnightblue;
+    height: 150px;
+    width: 150px;
+    }
