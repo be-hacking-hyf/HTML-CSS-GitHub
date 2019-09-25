@@ -38,16 +38,16 @@
           <td>HTML File (header, showcase, newsletter, form, boxes and footer)</td>
           <td>(doesn't exist yet!)</td>
           <td>(doesn't exist yet!)</td>
-          <td style=color:red>Style the HTML5 file with CSS3!</td>
+          <td><strong>Style the HTML5 file with CSS3!</strong></td>
         </tr>
     <tbody>
         <tbody>
             <tr>
               <td><a href="https://mert1980.github.io/HTML-CSS-GitHub/homework/week-2-project/Step4/home.html">Step-4</a></td>
               <td>HTML File (header, showcase, newsletter, form, boxes and footer)</td>
-              <td style=color:red >Write About.html file and link to Index.html!</td>
+              <td><strong>Write About.html file and link to Index.html!</strong></td>
               <td>(doesn't exist yet!)</td>
-              <td style=color:red>Style the About.html file!</td>
+              <td><strong>Style the About.html file!</strong></td>
             </tr>
         <tbody>
             <tbody>
@@ -55,8 +55,8 @@
                   <td><a href="https://mert1980.github.io/HTML-CSS-GitHub/homework/week-2-project/Step5/home.html">Step-5</a></td>
                   <td>HTML File (header, showcase, newsletter, form, boxes and footer)</td>
                   <td>About.html</td>
-                  <td style=color:red>Write Services.html file and link to Index.html!</td>
-                  <td style=color:red>Style the Services.html file!</td>
+                  <td><strong>Write Services.html file and link to Index.html!</strong></td>
+                  <td><strong>Style the Services.html file!</strong></td>
                 </tr>
             <tbody>
                 <tbody>
@@ -66,7 +66,7 @@
                           <td>HTML File (header, showcase, newsletter, form, boxes and footer)</td>
                           <td>About.html</td>
                           <td>Services.html</td>
-                          <td style=color:red>Make all the pages responsive</td>
+                          <td><strong>Make all the pages responsive</strong></td>
                         </tr>
                 <tbody>
   </table>
