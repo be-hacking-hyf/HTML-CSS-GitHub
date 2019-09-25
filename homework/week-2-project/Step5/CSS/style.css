@@ -163,6 +163,7 @@ article#main-col {
     float:left;
     width:65%;
     margin-top:10px;
+    text-align:justify;
 }
 
 /*sidebar*/
@@ -170,6 +171,7 @@ aside#sidebar {
     float: right;
     width: 30%;
     margin-top: 10px;
+    text-align:justify;
 }
 
 aside#sidebar .quote input, aside#sidebar .quote textarea {
@@ -185,4 +187,5 @@ padding:20px;
 border:#cccccc solid 1px;
 margin-bottom: 5px;
 background: #e6e6e6;
+text-align:justify;
 }
