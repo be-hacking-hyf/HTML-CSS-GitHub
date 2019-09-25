@@ -1,4 +1,4 @@
-<p>If you want to see my project how looks like , click <p><br>
+<p>If you want to see my WEEK-1 project how looks like , click <p><br>
 <a href="
 https://u-uysal.github.io/HTML-CSS-GitHub/homework/week-1-project/0-blank-page-setup">0-blank-page-setup</a><br>
 <a href="https://u-uysal.github.io/HTML-CSS-GitHub/homework/week-1-project/1-head-and-header">/1-head-and-header</a><br>
@@ -7,4 +7,13 @@ https://u-uysal.github.io/HTML-CSS-GitHub/homework/week-1-project/0-blank-page-s
 <a href="https://u-uysal.github.io/HTML-CSS-GitHub/homework/week-1-project/4-playable-board">4-playable-board</a><br>
 <a href="https://u-uysal.github.io/HTML-CSS-GitHub/homework/week-1-project/5-up-to-you">5-up-to-you</a><br>
 
-https://u-uysal.github.io/HTML-CSS-GitHub/
+<p>If you want to see my WEEK-2 project how looks like , click <p><br>
+https://github.com/u-uysal/HTML-CSS-GitHub/tree/master/homework/week-2-project/step-1 
+  <a href="https://u-uysal.github.io/HTML-CSS-GitHub/homework/week-2-project/step-1">Creating a blank HTML page</a><br>
+  <a href="https://u-uysal.github.io/HTML-CSS-GitHub/homework/week-2-project/step-2">Creating header section</a><br>
+  <a href="https://u-uysal.github.io/HTML-CSS-GitHub/homework/week-2-project/step-3">Creating delivery section</a><br>
+  <a href="https://u-uysal.github.io/HTML-CSS-GitHub/homework/week-2-project/step-4">Creating besteller section</a><br>
+  <a href="https://u-uysal.github.io/HTML-CSS-GitHub/homework/week-2-project/step-5">Creating footer section</a><br>
+  <a href="https://u-uysal.github.io/HTML-CSS-GitHub/homework/week-2-project/step-6">Creating Order HTML file</a><br>
+  <a href="https://u-uysal.github.io/HTML-CSS-GitHub/homework/week-2-project/step-7">Responsive Website Section</a><br>
+  
