@@ -162,6 +162,7 @@ article#main-col {
     float:left;
     width:65%;
     margin-top:10px;
+    text-align:justify;
 }
 
 /*sidebar*/
@@ -169,4 +170,5 @@ aside#sidebar {
     float: right;
     width: 30%;
     margin-top: 10px;
+    text-align:justify;
 }
