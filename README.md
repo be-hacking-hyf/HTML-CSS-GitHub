@@ -42,7 +42,7 @@
     <tbody>
     <tbody>
         <tr>
-          <td><a href="https://mert1980.github.io/HTML-CSS-GitHub/homework/week-2-project/Step3/home.html">Step-3</a></td>
+          <td><a href="https://mert1980.github.io/HTML-CSS-GitHub/homework/week-2-project/Step2/home.html">Step-3</a></td>
           <td>HTML File (header, showcase, newsletter, form, boxes and footer)</td>
           <td>(doesn't exist yet!)</td>
           <td>(doesn't exist yet!)</td>
