@@ -143,10 +143,24 @@ aside#sidebar {
     margin-top:10px;
 }
 
+aside#sidebar .quote input, aside#sidebar .quote textarea{
+width:90%;
+padding: 5px;
+}
+
 /* Mai-col*/
 article#main-col {
     float:left;
     width: 65%;  
+}
+
+/* Services*/
+ul#services li{
+    list-style:none;
+    padding: 20px;
+    border: #cccccc solid 1px;
+    margin-bottom : 5px;
+    background : #e6e6e6;
 }
 
 footer{
@@ -155,4 +169,39 @@ footer{
     color: #ffffff;
     background-color: #e8491d;
     text-align: center;
+}
+
+/* Media Queries */
+@media(max-width:768px) {
+    header #branding,
+    header nav,
+    header nav li,
+    #newsletter h1,
+    #newsletter form,
+    #boxes .box,
+    article #main-col,
+    aside#sidebar{
+        float: none;
+        text-align: center;
+        width:100%;
+    }
+    
+header {
+    padding-bottom:20px;
+}
+
+#showcase h1 {
+    margin-top:40px;
+}
+
+#newsletter button, .quote button{
+    display:block;
+    width:100%;
+}
+
+#newsletter form input [ type="email"], .quote input, .quote textarea{
+    width: 100%;
+    margin-bottom:5px;
+
+}
 }
