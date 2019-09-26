@@ -105,9 +105,9 @@ ul {
 
    /* Showcase */
 
-#showcase {
+   #showcase {
     min-height: 400px;
-    background: url(/home/hyfbe28/Documents/hacking-my-future/module-1/HTML-CSS-GitHub/homework/week-2-project/img/journo.jpeg) no-repeat;
+    background: url(https://images.unsplash.com/photo-1485056981035-7a565c03c6aa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1352&q=80) no-repeat;
     text-align: center;
     color: white;
 
