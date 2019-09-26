@@ -1,0 +1,31 @@
+body {
+    font: 15px/1.5 Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+    background-color: #EBEDEE;
+    }
+    
+    /* Global */
+    .container {
+        width: 80%;
+        margin: auto;
+        overflow:hidden;
+    }
+
+    #showcase{
+        min-height: 400px;
+        background: url('gambar.jpg') no repeat 0 -400px;
+        text-align: center;
+        color: #ffffff;
+    }
+   
+    #showcase h1{
+        margin-top:100px;
+        font-size:55px;
+        margin-bottom:10px;  
+    }
+   
+    #showcase p{
+        font-size:20px;
+    }
+   

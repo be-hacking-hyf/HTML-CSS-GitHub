@@ -1,0 +1,21 @@
+body {
+    font: 15px/1.5 Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+    background-color: #EBEDEE;
+    }
+    
+    /* Global */
+    .container {
+        width: 80%;
+        margin: auto;
+        overflow:hidden;}
+
+footer{
+    padding:20px;
+    margin-top:20px;
+    color: #ffffff;
+    background-color: #e8491d;
+    text-align: center;
+}
+

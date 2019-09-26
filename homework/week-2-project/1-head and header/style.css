@@ -1,0 +1,44 @@
+/* Header **/
+Header {
+    Background: #2F586D;
+    color: #ffffff;
+    padding-top : 30px;
+    min-height: 70px;
+    border-bottom: #E94181 3px solid ;
+
+}
+
+header a {
+    color: #ffffff;
+    text-decoration:none;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+
+header li{
+    display: inline;
+    padding: 0 20px 0 20px;
+}
+
+header #branding {
+    float:left;
+}
+
+header #branding h1{
+    margin: 0;
+}
+
+header nav {
+    float:right;
+    margin-top: 10px;
+}
+
+header .highlight, header .current a{
+    color: #e8491d;
+    font-weight: bold;
+
+}
+ header a:hover{
+     color: #cccccc;
+     font-weight:bold;
+ }
