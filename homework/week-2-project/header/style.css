@@ -19,6 +19,10 @@ ul{
 .button_1{
     height: 38px;
     background: #e8491d;
+    border: 0;
+    padding-right: 20px;
+    padding-left: 20px;
+    color: #ffffff;
 }
 
 /* Header **/
@@ -91,6 +95,8 @@ header .highlight, header .current a{
      background: #35424a;
  }
 
+ /* Newsletter */
+
  #newsletter h1 {
      float: left;
  }
@@ -106,5 +112,26 @@ header .highlight, header .current a{
      width: 250px;
  }
 
+/* Boxes */ 
+#boxes {
+    margin-top: 20px;
+}
 
+#boxes .box{
+    float:left;
+    width: 30%;
+    padding:10px;
+    text-align: center;
+}
 
+#boxes .box img{
+    width:90px;
+}
+
+footer{
+    padding:20px;
+    margin-top:20px;
+    color: #ffffff;
+    background-color: #e8491d;
+    text-align: center;
+}
