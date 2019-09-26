@@ -1,0 +1,288 @@
+/* GENEL KAPSAYICILAR */
+*{
+    margin:0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+header{
+    width: 100%;
+    height: 60px;
+    margin:0px auto;
+    background-color: #95a5a6;
+    }
+nav{
+    width: 100%;
+    height: 60px;
+    margin: 0px auto;
+}
+nav ul li {
+    float: left;
+}
+nav ul li a {
+    display: block;
+    width: 140px;
+    height: 60px;
+    text-align: center;
+    padding: 0 15px;
+    color:rgb(7, 31, 51);
+    font-size: 22px;
+    font-family: 'Acme', sans-serif;
+    transition: all 0.5s ease-in-out;
+    line-height: 60px;
+    
+}
+nav ul li a:hover{
+    background-color: rgb(7, 31, 51);
+    color: white;
+}
+nav ul li:nth-child(1){
+    background-image: url("icons8-pizza-48.png"); 
+    background-repeat: no-repeat;
+    background-position: center right;
+}
+nav ul li:nth-child(3){
+    color: white; 
+    background-color:rgb(214, 236, 17);
+    margin-left: 5%;
+}
+#logo {
+    display: block;
+    width: 64px;
+    height: 60px;
+    background-image: url("icons8-phone-64.png") ; 
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat; 
+    margin-left: 90%;     
+
+}
+#info{
+    display: block;
+    width: 150px;
+    height: 60px;
+    text-decoration: underline;
+    font-size: 15px;  
+    color: blue;
+    margin-left: 80%;
+}
+main{
+    width: 100%;
+    height: 600px;
+    position: relative;
+    margin:20px auto;
+    padding-top: 50px;
+    background-image: url("pizza-1.jpg");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+main form{
+    margin: 30px auto;
+    width: 40%;
+    height: 75px;
+}
+
+main input{
+    width: 100%;
+    height: 75px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Rokkitt', serif;
+    
+}
+
+#order{
+    width: 35%;
+    height: 150px;
+    margin: 0 auto;  
+}
+
+#order ul li{
+    float: left;
+}
+
+#order ul li a{
+    display: block;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+    color: rgb(7, 31, 51);
+    font-size: 22px;
+    font-family: 'Acme', sans-serif;
+    transition: all 0.5s ease-in-out;
+    background-color:rgba(255, 255, 255,0.5);
+    border-radius: 25px;
+    margin: 35px 0 0 30%; 
+}
+
+#order ul li a:hover {
+    background-color: white;
+    color:rgb(7, 31, 51);
+}
+
+main p {
+    text-align: center;
+    width: 80%;
+    height: 120px;
+    clear: both;
+    margin: 60px auto;
+    font-family: 'Rokkitt', serif;
+    font-size: 22px;
+    line-height: 30px;
+    padding-top: 30px;
+    border-radius: 25px;
+    transition: all 0.5s ease-in-out;
+    background-color: white;
+    color:rgb(7, 31, 51);
+}
+main p:hover{
+    background-color: darkgrey;
+}
+
+h1 {
+    background-color: rgb(7, 31, 51);
+    color: white;
+    margin-top: 30px;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+    font-family: 'Acme', sans-serif;
+}
+
+aside {
+    width: 100%;
+    height: 760px;
+    margin: 50px auto 50px;
+}
+
+aside ul li {
+    float: left;
+    width: 400px;
+    height: 800px;
+    margin-left: 3%;
+    
+}
+
+#p1 {
+    display: block;
+    width: 400px;
+    height: 600px;
+    background-image: url("1.jpg");
+    background-size: cover;
+    background-position: center center;
+}
+
+#p2 {
+    display: block;
+    width: 400px;
+    height: 600px;
+    background-image: url("2.jpg");
+    background-size: cover;
+    background-position: center center;
+}
+
+#p3 {
+    display: block;
+    width: 400px;
+    height: 600px;
+    background-image: url("3.jpg");
+    background-size: cover;
+    background-position: center center;
+}
+aside ul li p{
+    width:100%;
+    height: 100px;
+    text-align: center;
+    font-family: 'Rokkitt', serif;
+    font-size: 22px;
+    line-height: 30px;
+    padding-top: 10px;
+    transition: all 0.5s ease-in-out;
+    color:rgb(7, 31, 51);
+}
+aside ul li input{
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    font-family: 'Rokkitt', serif;
+    font-size: 22px;
+    transition: all 0.5s ease-in-out;
+    color:rgb(7, 31, 51);
+}
+aside ul li input:hover {
+    background-color: rgb(7, 31, 51);
+    color: white;
+
+}
+footer {
+    width: 100%;
+    height: 250px;
+    background-color: #34495e;
+    color: white;
+    
+}
+.connect{
+    width: 50%;
+    height: 40px;
+    
+    margin:0 auto;
+}
+.connect ul li {
+    float: left;
+}
+.connect ul li a{
+    display: block;
+    width: 130px;
+    height: 40px;
+    font-family: 'Rokkitt', serif;
+    font-size: 22px;
+    text-decoration: underline;
+    color: white;
+    line-height: 30px;
+}
+.social{
+    width: 50%;
+    height: 60px;
+    margin:20px auto;
+}
+.social img{
+    margin-left: 20%;
+}
+.download{
+    width: 30%;
+    height: 50px;
+    margin:20px auto;
+   
+    
+}
+.download div{
+   
+    width: 20%;
+    height: 90px;
+    float: left;
+    color: white;
+    margin-left: 7%;
+    font-family: 'Rokkitt', serif;
+    font-size: 15px;
+    text-align: center;
+    line-height: 30px;
+    border: 1px solid white;
+    border-radius: 10px;
+    transition: all 1s ease-in-out;
+   
+    }
+.download div:hover{
+    background-color: #e7eaec;
+}
+h2{
+    color: white;
+    font-family: 'Rokkitt', serif;
+    font-size: 12px;
+    margin-left: 70%;
+    padding-top: 30px;
+}

@@ -1,0 +1,144 @@
+/* GENEL KAPSAYICILAR */
+*{
+    margin:0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+header{
+    width: 100%;
+    height: 60px;
+    margin:0px auto;
+    background-color: #95a5a6;
+    }
+nav{
+    width: 100%;
+    height: 60px;
+    margin: 0px auto;
+}
+nav ul li {
+    float: left;
+}
+nav ul li a {
+    display: block;
+    width: 140px;
+    height: 60px;
+    text-align: center;
+    padding: 0 15px;
+    color:rgb(7, 31, 51);
+    font-size: 22px;
+    font-family: 'Acme', sans-serif;
+    transition: all 0.5s ease-in-out;
+    line-height: 60px;
+    
+}
+nav ul li a:hover{
+    background-color: rgb(7, 31, 51);
+    color: white;
+}
+nav ul li:nth-child(1){
+    background-image: url("icons8-pizza-48.png"); 
+    background-repeat: no-repeat;
+    background-position: center right;
+}
+nav ul li:nth-child(3){
+    color: white; 
+    background-color:rgb(214, 236, 17);
+    margin-left: 5%;
+}
+#logo {
+    display: block;
+    width: 64px;
+    height: 60px;
+    background-image: url("icons8-phone-64.png") ; 
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat; 
+    margin-left: 90%;     
+
+}
+#info{
+    display: block;
+    width: 150px;
+    height: 60px;
+    text-decoration: underline;
+    font-size: 15px;  
+    color: blue;
+    margin-left: 80%;
+}
+main{
+    width: 100%;
+    height: 600px;
+    position: relative;
+    margin:20px auto;
+    padding-top: 50px;
+    background-image: url("pizza-1.jpg");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+main form{
+    margin: 30px auto;
+    width: 40%;
+    height: 75px;
+}
+
+main input{
+    width: 100%;
+    height: 75px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Rokkitt', serif;
+    
+}
+
+#order{
+    width: 35%;
+    height: 150px;
+    margin: 0 auto;  
+}
+
+#order ul li{
+    float: left;
+}
+
+#order ul li a{
+    display: block;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+    color: rgb(7, 31, 51);
+    font-size: 22px;
+    font-family: 'Acme', sans-serif;
+    transition: all 0.5s ease-in-out;
+    background-color:rgba(255, 255, 255,0.5);
+    border-radius: 25px;
+    margin: 35px 0 0 30%; 
+}
+
+#order ul li a:hover {
+    background-color: white;
+    color:rgb(7, 31, 51);
+}
+
+main p {
+    text-align: center;
+    width: 80%;
+    height: 120px;
+    clear: both;
+    margin: 60px auto;
+    font-family: 'Rokkitt', serif;
+    font-size: 22px;
+    line-height: 30px;
+    padding-top: 30px;
+    border-radius: 25px;
+    transition: all 0.5s ease-in-out;
+    background-color: white;
+    color:rgb(7, 31, 51);
+}
+main p:hover{
+    background-color: darkgrey;
+}
