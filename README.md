@@ -40,7 +40,7 @@
         <td>empty CSS file</td>
       </tr>
       <tr>
-        <td><a href="https://elifsancak.github.io/HTML-CSS-GitHub/homework/week-2-project/ 	1-HTML(title)/">1-HTML(title)</a> </td>
+        <td><a href="https://elifsancak.github.io/HTML-CSS-GitHub/homework/week-2-project/1-HTML(title)/">1-HTML(title)</a> </td>
         <td>HTML adding (title, link and meta tag)</td>
         <td>(doesn't exist yet!)</td>
         <td>(doesn't exist yet!)</td>
