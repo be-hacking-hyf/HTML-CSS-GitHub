@@ -10,7 +10,7 @@ body {
 /*global*/
 
 .container {
-    width:80%; /*responsive*/
+    width:100%; /*responsive*/
     margin:auto;
     overflow: hidden;
 }
@@ -54,23 +54,27 @@ header a {
 }
 
 header li {
-    float:left;
+    /* float:left; */
     display:inline;
     padding: 0 20px 0 20px;
 }
 
-header #branding {
+header #branding { 
     float:left;
+    text-align: center;
+    margin:auto;
+    /* display:inline-block; */
 }
 
 header #branding h1 {
     margin:0;
-    margin-left:100px;
+    margin-left:10px;
 }
 
 header nav {
     float:right;
-    margin-top:10px;
+    /* margin-top:10px; */
+    margin:10px auto  
 }
 
 header .highlight, header .current a {
@@ -88,15 +92,17 @@ header a:hover {
 #showcase {
     min-height: 600px; /*responsive*/
     background: url('../IMG/showcase.jpg') no-repeat 100% -10px;
-    
+    background-position: center;
+    color:white;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
 
 #showcase .container {
-    float: left;
+    /* float: left; */
     width: 40%;
     text-align: center;
     margin-top: 0;
-    padding-left: 5%;
+    /* padding-left: 5%; */
 }
 
 #showcase h1 {
@@ -105,12 +111,12 @@ header a:hover {
 
 #showcase p {
     font-size:20px;
+    
 }
 
-.box img {
-width: 200px;
-height: 200px;
-}
+#boxes .box img{
+    width:90px;
+  }
 
 /*newsletter*/
 
@@ -132,7 +138,7 @@ height: 200px;
 #newsletter input[type="email"] {
     padding: 4px;
     height:25px;
-    width: 250px;
+    width: 200px;
 }
 
 /*boxes*/
@@ -198,10 +204,10 @@ footer {
     header nav,
     header nav li,
     #newsletter h1,
-    #newsletter form
-    #boxes .box 
-    #main-col;   
-    #sidebar{
+    #newsletter form,
+    #boxes .box,
+    article#main-col,   
+    aside#sidebar{
         float:none;
         text-align: center;
         width:100%;
@@ -213,7 +219,7 @@ footer {
     
     #showcase h1{
         margin-top:40px;
-        text-align:center;
+        /* text-align:center; */
     }
     
     #newsletter button, .quote button{
