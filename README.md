@@ -10,14 +10,11 @@
 <head>
   <meta charset="utf-8">
 
-  <title>HTML/CSS Week 2 Project Table</title>
+  ## HTML/CSS Week 2 Project Table
 </head>
 
 <body>
-  <h2>Traversy Media: Build An HTML5 Website With A Responsive Layout</h2>
-  <p>
-
-  </p>
+ 
 
 
   <table width="75%" border="1">
@@ -40,21 +37,21 @@
       </tr>
       <tr>
         <td><a href="https://elifsancak.github.io/HTML-CSS-GitHub/homework/week-2-project/1-HTML(title)/">1-HTML(title)</a> </td>
-        <td>HTML adding (title, link and meta tag)</td>
+        <td>HTML adding <br>(title, link and meta tag)</td>
         <td>(doesn't exist yet!)</td>
         <td>(doesn't exist yet!)</td>
         <td>css page created(body css added)</td>
       </tr>
       <tr>
         <td><a href="https://elifsancak.github.io/HTML-CSS-GitHub/homework/week-2-project/2-HEADER/">(2-HEADER)</td>
-        <td>HTML adding (HEADER (div, h, span tag))</td>
+        <td>HTML adding <br>(HEADER (div, h, span tag))</td>
         <td>(doesn't exist yet!)</td>
         <td>(doesn't exist yet!)</td>
         <td>css adding (header id/class)</td>
       </tr>
       <tr>
         <td><a href="https://elifsancak.github.io/HTML-CSS-GitHub/homework/week-2-project/3-NAV/">(3-NAV)</td>
-        <td>HTML adding (NAV (div, list, tag))</td>
+        <td>HTML adding <br>(NAV (div, list, tag))</td>
         <td>about page created</td>
         <td>services page created</td>
         <td>css adding (header a/ul/li/nav/a:hover)</td>
@@ -68,7 +65,7 @@
         </tr>
         <tr>
             <td><a href="https://elifsancak.github.io/HTML-CSS-GitHub/homework/week-2-project/5-FOOTER/">(5-FOOTER)</td>
-            <td>HTML adding (FOOTER (p tag))</td>
+            <td>HTML adding <br>(FOOTER (p tag))</td>
             <td>empty about page</td>
             <td>empty services page</td>
             <td>css adding (footer style changed)</td>
