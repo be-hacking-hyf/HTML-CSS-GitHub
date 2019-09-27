@@ -1,0 +1,91 @@
+nav {
+    width:100%;
+    height: 80px;
+    position:relative;
+    background: rgba(0,0,0,0.5);
+    top:0;
+}
+
+div#navContainer {
+    width: 1346px;
+    height: 80px;
+    position: relative;
+    margin: auto;
+}
+
+div#navLogo {
+    font-family: 'Bungee', cursive;
+    color:White;
+    line-height: 80px;
+    display: inline;
+    float: left;
+    
+}
+
+ul#ukuleKukule {
+    list-style: none;
+    display: inline-block;
+    float: right;
+}
+
+ul#ukuleKukule li {
+    display: inline-block;
+    line-height:80px;
+}
+
+ul#ukuleKukule li a {
+    text-decoration: none;
+    color: white;
+}
+
+ul#ukuleKukule li a:hover {
+    color:#973838;
+}
+
+div#headerText {
+    margin-top: 100px;
+}
+
+#special {
+    color:whitesmoke;
+}
+div#first {
+
+    background: transparent;
+    float:left;
+    width: 30%;
+    margin-right: 10px;
+    color:#ffffff;
+}
+
+section.limitedSection {
+    width:1346px;
+    height:600px;
+    position: relative;
+    margin:auto;
+    margin-top: 50px;
+}
+  
+section.limitedSection h2, section.limitedSection p, section.limitedSection h3 {
+    text-align: center;
+
+}
+
+section.limitedSection img {
+    width:663px;
+    margin-top: 50px;
+    border:1px splid #973838;
+    padding:7px;
+    box-sizing: border-box;
+    float: left;
+}
+
+section.limitedSection article {
+    width: 600px;
+    float: right;
+    margin-top: 50px;
+}
+
+section.limitedSection article p {
+    margin-top: 20px;
+}
