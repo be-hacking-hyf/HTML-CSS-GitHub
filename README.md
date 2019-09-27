@@ -50,21 +50,21 @@
         <td>HTML adding (HEADER (div, h, span tag))</td>
         <td>(doesn't exist yet!)</td>
         <td>(doesn't exist yet!)</td>
-        <td>css adding (class-(all), header, (header id/class) for banner)</td>
+        <td>css adding (header id/class)</td>
       </tr>
       <tr>
         <td><a href="https://elifsancak.github.io/HTML-CSS-GitHub/homework/week-2-project/3-NAV/">(3-NAV)</td>
         <td>HTML adding (NAV (div, list, tag))</td>
         <td>about page created</td>
         <td>services page created</td>
-        <td>css adding ((header a/ul/li/nav/a:hover) for menu)</td>
+        <td>css adding (header a/ul/li/nav/a:hover)</td>
       </tr>
       <tr>
           <td><a href="https://elifsancak.github.io/HTML-CSS-GitHub/homework/week-2-project/4-SECTION/">(4-SECTION)</td>
           <td>HTML adding (SECTION (div, h, p, form, img tag))</td>
           <td>empty about page</td>
           <td>empty services page</td>
-          <td>css adding (class,id,h,href,form,p,input) and style changed(id/class) for title+brief desc., email-button and subsection</td>
+          <td>css adding (class,id,h,href,form,p,input)</td>
         </tr>
         <tr>
             <td><a href="https://elifsancak.github.io/HTML-CSS-GitHub/homework/week-2-project/5-FOOTER/">(5-FOOTER)</td>
