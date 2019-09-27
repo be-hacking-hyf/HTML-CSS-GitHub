@@ -20,7 +20,7 @@
   </p>
 
 
-  <table width="70%" border="1">
+  <table width="65%" border="1">
     <thead>
       <tr>
         <th>a user can ...</th>
