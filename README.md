@@ -10,7 +10,6 @@
 <head>
   <meta charset="utf-8">
 
-  ## HTML/CSS Week 2 Project Table
 </head>
 
 <body>
