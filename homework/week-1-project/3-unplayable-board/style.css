@@ -118,6 +118,10 @@ Repeat and read again W3SCHOOL Pseudo-Class and Pseudo-Element Section
     max-height: 100vh; /*suddenly we change height then it will be visible because overflow now open*/
   }
 
+  .board_square:hover{
+    background:rgba(37, 19, 87, 0.7);
+	border-radius:3px;
+}
   
   /*TicTacToe board*/
 @media (min-width:900px) {
