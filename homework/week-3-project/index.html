@@ -1,70 +1,38 @@
-<!doctype html>
-
-<html lang="en">
-
 <head>
-  <meta charset="utf-8">
-
-  <title>HTML/CSS Week 3 Project Table</title>
+  <title>Duck Duck Go</title>
+  <link rel="stylesheet" href="styles.css" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet"> 
+  <script type="text/javascript">
+    function redirectTo(){
+      var text = document.getElementById('searchterm').value;
+      var link = "http://duckduckgo.com/"+text;
+      window.location.href = link;
+      return false;
+    }
+  </script>
 </head>
-
 <body>
-  <h2>DuckDuckGo</h2>
-  <p>
-    Replicate <a href="https://duckduckgo.com/" target="_blank">DuckDuckGo</a> using just HTML & CSS. Users should be
-    able to type into the search bar, but nothing needs to happen when they hit "enter".</p>
-  </p>
+  <div class="container">
+    <div class="nav">
+      <ul>
+        <li><a href="#menu" id="menu"></a></li>
+        <li><a href="https://twitter.com/duckduckgo" id="twitter"></a></li>
+        <li><a href="https://duckduckgo.com/about" id="privacy">Privacy, simplified.</a></li>
+      </ul>
+    </div>
 
-  <p> Be sure to use <a
-      href="https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Inspect_and_select_colors"
-      target="_blank">the same colors</a>, <a href="https://www.lifewire.com/copy-image-web-address-url-1174175"
-      target="_blank">the same images</a>, and <a
-      href="https://wpshout.com/quick-guides/how-to-see-what-fonts-a-website-is-using/" target="_blank">the same
-      font</a> as DuckDuckGo.
-  </p>
+    <div class="main">
+        <img src="images/logo.png" id="logo"><br>
+        <form class="bar" id="search-bar">
+          <input type="text" name="search-field" id="searchterm">
+          <input type="submit" name="search-icon" value="" onclick="return redirectTo();">
+        </form>
+        The search engine that doesn't track you. <a href="https://duckduckgo.com/about" id="learn">Learn more.</a>
+        
+    </div>
 
-
-  <table border="1" width="70%">
-    <thead>
-      <tr>
-        <th>a user can ...</th>
-        <th>HTML</th>
-        <th>CSS</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><a href="./0-blank-page-setup/index.html">... open a website</a> </td>
-        <td>empty HTML template, requiring CSS file, title tag</td>
-        <td>empty CSS file</td>
-      </tr>
-      <tr>
-        <td><a href="./1-first-section/index.html">... type into the search bar</a></td>
-        <td>a section structured like the top of DuckDuckGo</td>
-        <td>some styling to make it visually match DuckDuckGo</td>
-      </tr>
-      <tr>
-        <td><a href="./1-second-section/index.html">... know DuckDuckGo doesn't store personal data</a></td>
-        <td>a section based off the second section of DuckDuckGo</td>
-        <td>some styling to make it visually match DuckDuckGo</td>
-      </tr>
-      <tr>
-        <td><a href="./1-third-section/index.html">... be assured they won't be targeted for ads</a></td>
-        <td>a section based off the third section of DuckDuckGo</td>
-        <td>some styling to make it visually match DuckDuckGo</td>
-      </tr>
-      <tr>
-        <td><a href="./1-fourth-section/index.html">... be assured they won't be tracked</a></td>
-        <td>a section based off the fourth section of DuckDuckGo</td>
-        <td>some styling to make it visually match DuckDuckGo</td>
-      </tr>
-      <tr>
-        <td><a href="./1-fifth-section/index.html">... read the call to action</a></td>
-        <td>a section based off the fifth section of DuckDuckGo</td>
-        <td>some styling to make it visually match DuckDuckGo</td>
-      </tr>
-    <tbody>
-  </table>
+  </div>
 </body>
 
-</html>
+<footer>
+</footer>
