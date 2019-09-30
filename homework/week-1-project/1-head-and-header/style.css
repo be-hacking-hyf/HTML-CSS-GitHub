@@ -1,0 +1,16 @@
+body {
+    font-style:halvetica;
+    color:#08252b;
+    background:#c2f0ec;
+
+}
+h2 {
+    background-color:c9cf74;
+    text-align:center;
+    font-size:27px;
+}
+img {
+    width: 200px;
+    height:200px;
+    float:left;
+}

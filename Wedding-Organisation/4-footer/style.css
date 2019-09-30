@@ -1,0 +1,23 @@
+footer {
+    widows: 100%;
+    height:500px;
+    position: relative;
+    background: url(../Pictures/wedding-photography-singapore-darren-and-jade-feature-e1545615005648.jpg);
+    
+}
+
+footer div#footerContainer {
+    width: 1200px;
+    position: relative;
+    margin:0px;
+}
+
+footer div#footerContainer div.footerBox {
+    width: 400px;
+    position: relative;
+    float:left;
+}
+
+footer div#footerContainer div.footerBox img {
+    width:80px;
+}

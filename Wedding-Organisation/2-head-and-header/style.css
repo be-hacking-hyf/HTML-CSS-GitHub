@@ -1,0 +1,71 @@
+#mainHeader {
+    width: 100%;
+    height:1300px;
+    position: static;
+    background-image: url(../Pictures/bethanyspencer-wedding-01.jpg);
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-position: center;
+ }
+ 
+ #ulTopLeft {
+     list-style-type: none;
+     display: inline-block;
+     float: left;
+     text-decoration: none;
+ 
+ }
+ 
+ div#headerContainer {
+     width: 1346px;
+     height: 750px;
+     margin: auto;
+     position: relative;
+ }
+ 
+ div#headerTop {
+     width: 1346px;
+     height: 50px;
+     position: relative;
+ }
+ 
+ ul#ulTopLeft li {
+     display:inline-block;
+     line-height: 50px;
+     border-right: 1px solid white;
+     padding: 0 10px;
+ }
+ 
+ ul#ulTopLeft li:first-child {
+     padding-left: 0;
+ }
+ 
+ ul#ulTopLeft li:last-child {
+     border-right: 0px;
+ }
+ 
+ ul#ulTopLeft li a {
+       text-decoration: none;
+        color: White;
+ 
+ }
+ 
+ ul#ulTopLeft li a:hover {
+       color:#973838;
+ }
+ 
+ div#topRight {
+     height: 50px;
+     position: relative;
+     float: right;
+ }
+ 
+ div.topContactText {
+     height:50px;
+     line-height: 50px;
+     float:right;
+     margin-left: 20px;
+     color:white;
+     margin-right:20px;
+ }
+ 

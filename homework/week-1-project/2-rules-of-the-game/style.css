@@ -1,0 +1,10 @@
+body {
+    margin:0px;
+    padding:0px;
+    list-style:none;
+}
+p {
+    color:#233523;
+    background-color:rgb(166, 233, 166);
+    font-family:sans-serif;
+}
