@@ -1,37 +1,37 @@
 <head>
-  <title>Duck Duck Go</title>
-  <link rel="stylesheet" href="styles.css" type="text/css">
-  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet"> 
-  <script type="text/javascript">
-    function redirectTo(){
-      var text = document.getElementById('searchterm').value;
-      var link = "http://duckduckgo.com/"+text;
-      window.location.href = link;
-      return false;
-    }
-  </script>
+	<title>Duck Duck Go</title>
+	<link rel="stylesheet" href="styles.css" type="text/css">
+	<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet"> 
+	<script type="text/javascript">
+		function redirectTo(){
+			var text = document.getElementById('searchterm').value;
+			var link = "http://duckduckgo.com/"+text;
+			window.location.href = link;
+			return false;
+		}
+	</script>
 </head>
 <body>
-  <div class="container">
-    <div class="nav">
-      <ul>
-        <li><a href="#menu" id="menu"></a></li>
-        <li><a href="https://twitter.com/duckduckgo" id="twitter"></a></li>
-        <li><a href="https://duckduckgo.com/about" id="privacy">Privacy, simplified.</a></li>
-      </ul>
-    </div>
+	<div class="container">
+		<div class="nav">
+			<ul>
+				<li><a href="#menu" id="menu"></a></li>
+				<li><a href="https://twitter.com/duckduckgo" id="twitter"></a></li>
+				<li><a href="https://duckduckgo.com/about" id="privacy">Privacy, simplified.</a></li>
+			</ul>
+		</div>
 
-    <div class="main">
-        <img src="images/logo.png" id="logo"><br>
-        <form class="bar" id="search-bar">
-          <input type="text" name="search-field" id="searchterm">
-          <input type="submit" name="search-icon" value="" onclick="return redirectTo();">
-        </form>
-        The search engine that doesn't track you. <a href="https://duckduckgo.com/about" id="learn">Learn more.</a>
-        
-    </div>
+		<div class="main">
+				<img src="images/logo.png" id="logo"><br>
+				<form class="bar" id="search-bar">
+					<input type="text" name="search-field" id="searchterm">
+					<input type="submit" name="search-icon" value="" onclick="return redirectTo();">
+				</form>
+				The search engine that doesn't track you. <a href="https://duckduckgo.com/about" id="learn">Learn more.</a>
+				
+		</div>
 
-  </div>
+	</div>
 </body>
 
 <footer>
