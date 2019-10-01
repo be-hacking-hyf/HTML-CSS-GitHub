@@ -1,0 +1,81 @@
+body {
+    background-color: #f7f7f7;
+    font-family: "Montserrat", "sans-serif";
+	color: #9a9a9a;
+}
+
+/* Header */
+
+.nav {
+    display: block;
+    margin: 22px auto auto 16px;
+    margin-top: 22px;
+    height: 44px;
+    right: 7px;
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    z-index: 199;
+   }
+ul {
+	list-style-type: none;
+	align-items: center;
+	justify-content: end;
+	margin: 20px;
+}
+
+li { 
+	float: right;
+    margin-left: 20px;
+    font-size: 100%;
+ }
+#privacy:hover, #privacy:focus {
+
+    color: #6d6d6d;
+}
+#privacy {
+
+    cursor: pointer;
+    font-size: 12px;
+    margin:3px 0 0 20px;
+}
+#menu {
+    background-image: url("../IMG/Menu.png");
+    background-repeat: no-repeat;
+    background-size: 40px;
+    margin-top: -10px;
+    width: 40px;
+    height: 40px;
+    background-color: aqua;
+}
+#menu:hover {
+	background-image: url("../IMG/Menu_hover.png");
+	border-radius: 3px;
+}
+#twitter {
+    background-image: url("../IMG/Tweeter.png");
+    background-repeat: no-repeat;
+    background-size: 40px;
+    margin-top: -10px;
+    width: 40px;
+    height: 40px;
+    background-color: aqua;
+}
+#twitter:hover {
+	background-image: url("../IMG/Tweeter_hover.png");
+	border-radius: 3px;
+} 
+
+/* homepage */
+
+
+#logo_homepage {
+    width: 205px;
+    height: 200px;
+    display: block;
+    position: relative;
+    margin: 20% auto;
+
+}
+
+

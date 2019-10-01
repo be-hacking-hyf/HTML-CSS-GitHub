@@ -1,0 +1,67 @@
+body{
+    font-style: cursive;
+    }
+
+h1 {
+    background-color: aliceblue;
+    color:brown;
+    font-size: 30px;
+    text-align: center;
+    }
+    
+img {
+    width: 20%;
+    height: 10%;
+    }
+    
+.description {
+      font-family: cursive;
+      font-size:150%;
+      text-align: justify;
+      float: right;
+      width: 74%;
+      margin-top:5%;
+      margin-right:4%;
+    }
+
+      input.MyButton {
+        width: 10%;
+        margin-left: 5%;
+        margin-top:2%;
+        position: absolute;
+        padding: 1%;
+        cursor: pointer;
+        font-weight: bold;
+        font-size: 100%;
+        background:black;
+        color: #fff;
+        border: 1% solid #111213;
+        border-radius: 8%;
+    
+        }
+
+        input.MyButton:hover {
+        color: #fff;
+        background:brown;
+        border: 1% solid #fff;
+        }
+
+        .grid-container {
+            display: grid;
+            height: 30%;
+            width: 30%;
+            margin-left:35%;
+            margin-top: 0;    
+            align-content: center;
+            grid-template-columns: auto auto auto;
+            grid-gap: 1%;
+            background-color: #111213;;
+            padding: 2%;
+          }
+          
+          .grid-container > div {
+            background-color: white;
+            text-align: center;
+            padding: 50%;
+            font-size: 400%;
+          }
