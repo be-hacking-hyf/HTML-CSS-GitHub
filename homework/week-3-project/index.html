@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <!--[if IEMobile 7 ]> <html lang="en_US" class="no-js iem7"> <![endif]-->
 <!--[if lt IE 7]> <html class="ie6 lt-ie10 lt-ie9 lt-ie8 lt-ie7 no-js" lang="en_US"> <![endif]-->
@@ -131,10 +132,48 @@ var settings_js_version = "/s2474.js",
 
 <iframe id="iframe_hidden" src="/post2.html"></iframe>
 
+=======
+<head>
+	<title>Duck Duck Go</title>
+	<link rel="stylesheet" href="styles.css" type="text/css">
+	<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet"> 
+	<script type="text/javascript">
+		function redirectTo(){
+			var text = document.getElementById('searchterm').value;
+			var link = "http://duckduckgo.com/"+text;
+			window.location.href = link;
+			return false;
+		}
+	</script>
+</head>
+<body>
+	<div class="container">
+		<div class="nav">
+			<ul>
+				<li><a href="#menu" id="menu"></a></li>
+				<li><a href="https://twitter.com/duckduckgo" id="twitter"></a></li>
+				<li><a href="https://duckduckgo.com/about" id="privacy">Privacy, simplified.</a></li>
+			</ul>
+		</div>
+
+		<div class="main">
+				<img src="images/logo.png" id="logo"><br>
+				<form class="bar" id="search-bar">
+					<input type="text" name="search-field" id="searchterm">
+					<input type="submit" name="search-icon" value="" onclick="return redirectTo();">
+				</form>
+				The search engine that doesn't track you. <a href="https://duckduckgo.com/about" id="learn">Learn more.</a>
+				
+		</div>
+
+	</div>
+>>>>>>> 634ca56f01b8f8b831352a7b13f8c465333e1a57
 </body>
 <footer>
   <p>by Akader Ibrahim</p> 
 
 </footer>
 
-</html>
+<footer>
+<p>Created by Akader Ibrahim 2019</p>
+</footer>

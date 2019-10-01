@@ -1,0 +1,164 @@
+input {
+ outline:none;
+}
+
+body {
+	background-color: #f7f7f7;	
+	font-family: "Montserrat", "sans-serif";
+	color: #9a9a9a;
+}
+
+ul {
+	list-style-type: none;
+	align-items: center;
+	justify-content: end;
+	margin: 20px;
+}
+
+li { 
+	float: right;
+	margin-left: 20px;
+ }
+
+li a {
+	display: block;
+	width: 120px;
+	height: 100px;
+}
+
+input[type="submit"] {
+	box-shadow: 3px 2px 3px rgba(0,0,0,0.06);
+	background-image: url(images/search_icon.png);
+	background-repeat: no-repeat;
+	background-size: 50px;
+	width: 50px;
+	height: 50px;
+	border: 1px solid rgba(0,0,0,0.15);
+	border-left: 0px;
+	border-radius: 3px;
+	border-top-left-radius: 0px;
+	border-bottom-left-radius: 0px;
+	margin-top: -10px;
+	position: absolute;
+	transform: translateY(10px);
+
+}
+
+input[type="submit"]:hover {
+	background-image: url(images/search_hover.png);
+	border: 0px;
+	border-top-left-radius: 0px;
+	border-bottom-left-radius: 0px;
+}
+
+
+.container {
+	display: grid;
+	height: 720px;
+	grid-template-rows: 1fr 2fr 1fr;
+	grid-template-columns: 1fr 600px 1fr;
+	grid-template-areas: "nav nav nav"
+						 "left search right"
+						 "footer footer footer";
+	align-items: center;
+	justify-content: center;	
+	text-align: center;	
+	vertical-align: center; 
+}
+
+.nav {
+	grid-area: nav;
+	display: block;
+	justify-content: end;
+	align-items: center;
+	vertical-align: center;
+	text-align: right;
+	height: 180px;
+}
+
+
+#privacy {
+	font-size: 12px;
+	color: #aaa;
+	text-decoration: none;
+	vertical-align: center;
+}
+
+#privacy:hover {
+	color: rgb(109, 109, 109);
+}
+
+#menu {
+	background-image: url("images/menu.png");
+	background-repeat: no-repeat;
+	background-size: 40px;
+	margin-top: -10px;
+	width: 40px;
+	height: 40px;
+}
+
+#menu:hover {
+	background-image: url("images/menu_hover.png");
+	border-radius: 3px;
+}
+
+#twitter {
+	background-image: url("images/tweet.png");
+	background-color: #f7f7f7;	
+	background-repeat: no-repeat;
+	background-size: 40px;
+	margin-top: -10px;
+	width: 40px;
+	height: 40px;
+}
+
+#twitter:hover {
+	background-image: url("images/tweet_hover.png");
+}
+
+.main {
+	grid-area: search;
+}
+
+#logo { 
+	margin-bottom: 20px;
+}
+
+#search-bar {
+	align-items: center;
+	padding: 20px;
+	margin:10px;
+	width: 600px;
+	position: relative;
+
+}
+
+#searchterm {
+	height: 50px;
+	padding: 20px;
+	width: 100%;
+	font-size: 12;
+	box-shadow: 0px 2px 3px rgba(0,0,0,0.06);
+	border: 1px solid rgba(0,0,0,0.15);
+	box-sizing: border-box;
+	border-radius: 3px;
+	margin-right: -50px;
+	margin-left: -100px;
+
+}
+
+#learn { 
+	color: #4495d4;
+	text-decoration: none;
+}
+
+#learn:hover {
+	text-decoration: underline;
+}
+
+
+.footer {
+	grid-area: footer;
+}
+
+

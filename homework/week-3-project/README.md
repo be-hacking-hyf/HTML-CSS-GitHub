@@ -1,1 +1,2 @@
-See the assignment [live on GitHub Pages](https://be-hacking-hyf.github.io/html-css-github/week-3-project)
+## Akadar Ibrahim's week 3 Project DuckDcuck Go
+please visit my DuckDuckgo webpage live on github https://akadarakku.github.io/HTML-CSS-GitHub/homework/week-3-project
