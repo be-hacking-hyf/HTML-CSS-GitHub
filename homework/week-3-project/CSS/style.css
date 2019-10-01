@@ -16,8 +16,7 @@ body {
     bottom: 0;
     top: 0;
     z-index: 199;
-    
-}
+   }
 ul {
 	list-style-type: none;
 	align-items: center;
@@ -30,18 +29,15 @@ li {
     margin-left: 20px;
     font-size: 100%;
  }
-
 #privacy:hover, #privacy:focus {
 
     color: #6d6d6d;
-
 }
 #privacy {
 
     cursor: pointer;
     font-size: 12px;
     margin:3px 0 0 20px;
-    
 }
 #menu {
     background-image: url("../IMG/Menu.png");
@@ -52,12 +48,10 @@ li {
     height: 40px;
     background-color: aqua;
 }
-
 #menu:hover {
 	background-image: url("../IMG/Menu_hover.png");
 	border-radius: 3px;
 }
-
 #twitter {
     background-image: url("../IMG/Tweeter.png");
     background-repeat: no-repeat;
@@ -67,9 +61,21 @@ li {
     height: 40px;
     background-color: aqua;
 }
-
 #twitter:hover {
 	background-image: url("../IMG/Tweeter_hover.png");
 	border-radius: 3px;
 } 
+
+/* homepage */
+
+
+#logo_homepage {
+    width: 205px;
+    height: 200px;
+    display: block;
+    position: relative;
+    margin: 20% auto;
+
+}
+
 
