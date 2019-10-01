@@ -1,135 +1,932 @@
-<!DOCTYPE html>
-<!--[if IEMobile 7 ]> <html lang="en_US" class="no-js iem7"> <![endif]-->
-<!--[if lt IE 7]> <html class="ie6 lt-ie10 lt-ie9 lt-ie8 lt-ie7 no-js" lang="en_US"> <![endif]-->
-<!--[if IE 7]>    <html class="ie7 lt-ie10 lt-ie9 lt-ie8 no-js" lang="en_US"> <![endif]-->
-<!--[if IE 8]>    <html class="ie8 lt-ie10 lt-ie9 no-js" lang="en_US"> <![endif]-->
-<!--[if IE 9]>    <html class="ie9 lt-ie10 no-js" lang="en_US"> <![endif]-->
-<!--[if (gte IE 9)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!-->
-<html class="js no-touch opacity csstransforms3d csstransitions svg cssfilters is-not-mobile-device full-urls" lang="en_US"><!--<![endif]--><head>
-<meta http-equiv="X-UA-Compatible" content="IE=Edge">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8;charset=utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=1">
-<meta name="HandheldFriendly" content="true">
-
-<link rel="canonical" href="">
-
-<link rel="stylesheet" href="s1824.css" type="text/css">
-
-<link rel="stylesheet" href="o1824.css" type="text/css">
-
-
- 
-	<title>DuckDuckGo — Privacy, simplified.</title>
-<meta property="og:title" content="DuckDuckGo — Privacy, simplified.">
-
-
-<meta property="og:description" content="The Internet privacy company that empowers you to seamlessly take control of your personal information online, without any tradeoffs.">
-<meta name="description" content="The Internet privacy company that empowers you to seamlessly take control of your personal information online, without any tradeoffs.">
-
-
-<link title="DuckDuckGo" type="application/opensearchdescription+xml" rel="search" href="https://duckduckgo.com/opensearch.xml?atb=v188-7__"></head>
-<body id="pg-index" class="page-index body--home body--onboarding">
-	<script type="text/javascript">
-var settings_js_version = "/s2474.js",
-    locale = "en_US";
-</script>
-<script type="text/javascript" src="/lib/l113.js"></script>
-<script type="text/javascript" src="/locale/en_US/duckduckgo14.js"></script>
-<script type="text/javascript" src="/util/u394.js"></script>
-<script type="text/javascript" src="/d2695.js"></script>
-
-
-
-<script type="text/javascript">
-    DDG.page = new DDG.Pages.Home();
-</script>
-
-
-
-	<div class="site-wrapper  site-wrapper--home  js-site-wrapper">
-	
-		
-			<div class="header-wrap--home  js-header-wrap">
-	<div class="header--aside js-header-aside"><a class="header__button--menu  js-side-menu-open" href="#">⇶</a><div class="header--aside__item showcase header__label"><span class="header__clickable js-hl-button" data-type="showcase"><span class="js-popout-trig" aria-haspopup="true" aria-label="Check out the list of things that we've also made." role="button" aria-pressed="false"><span id="wedonttrack">Privacy, simplified.</span></span><span class="popout-trig  js-popout"><span class="js-popout-link js-showcase-popout ddgsi ddgsi-down" aria-hidden="true" data-type="showcase"></span><div class="modal modal--popout modal--popout--bottom-left modal--popout--sm  js-popout-main" data-type="showcase"><div class="modal__box"><div class="modal__body"><nav aria-labelledby="wedonttrack"><section class="showcase__dropdown-top"><ul aria-label="Here are some things that we made that you might like."><li class="fix showcase__dropdown__list"><a href="/app" class="eighteen js-hl-item" aria-hidden="true" data-type="showcase" data-id="app"><div class="woman-icon"></div></a><a href="/app" class="text-left showcase__link eighty js-hl-item" data-type="showcase" data-id="app"><h1 class="showcase__heading">Get Our App &amp; Extension</h1><p class="showcase__subheading">Protect your data on every device.</p></a></li><li class="fix showcase__dropdown__list"><a href="/newsletter" class="eighteen js-hl-item" aria-hidden="true" data-type="showcase" data-id="newsletter"><div class="mailbox-icon"></div></a><a href="/newsletter" class="text-left showcase__link eighty js-hl-item" data-type="showcase" data-id="newsletter"><h1 class="showcase__heading">Privacy in Your Inbox</h1><p class="showcase__subheading">Stay protected and informed with our privacy newsletters.</p></a></li><li class="fix showcase__dropdown__list"><a href="https://spreadprivacy.com/tag/device-privacy-tips/" class="eighteen js-hl-item" aria-hidden="true" data-type="showcase" data-id="blog" saprocessedanchor="true"><div class="privacy-simplified-icon"></div></a><a href="https://spreadprivacy.com/tag/device-privacy-tips/" class="text-left showcase__link eighty js-hl-item" data-type="showcase" data-id="blog" saprocessedanchor="true"><h1 class="showcase__heading">Protect Your Devices</h1><p class="showcase__subheading">Check out our privacy device guides.</p></a></li><li class="fix showcase__dropdown__list"><a href="https://duckduckgo.com/spread" class="eighteen js-hl-item" aria-hidden="true" data-type="showcase" data-id="spread" saprocessedanchor="true"><div class="spread-icon"></div></a><a href="https://duckduckgo.com/spread" class="text-left showcase__link eighty js-hl-item" data-type="showcase" data-id="spread" saprocessedanchor="true"><h1 class="showcase__heading">Spread DuckDuckGo</h1><p class="showcase__subheading">Help your friends and family join the Duck Side!</p></a></li></ul></section><section class="showcase__dropdown-bottom"><ul class="text-left" aria-label="We've got even more things for you."><li class="fix showcase__dropdown__list"><a href="https://duckduckgo.com/donations" class="eighteen showcase__icon js-hl-item" aria-hidden="true" data-type="showcase" data-id="donations" saprocessedanchor="true"><div class="donations-icon"></div></a><a href="https://duckduckgo.com/donations" class="text-left showcase__link eighty showcase__text js-hl-item" data-type="showcase" data-id="donations" saprocessedanchor="true">$1,900,000 in privacy donations!</a></li><li class="fix showcase__dropdown__list"><a href="https://duckduckgo.com/traffic" class="eighteen showcase__icon js-hl-item" aria-hidden="true" data-type="showcase" data-id="traffic" saprocessedanchor="true"><div class="traffic-icon"></div></a><a href="https://duckduckgo.com/traffic" class="text-left showcase__link eighty showcase__text js-hl-item" data-type="showcase" data-id="traffic" saprocessedanchor="true">Over 33 Billion anonymous searches.</a></li><li class="fix showcase__dropdown__list"><a href="https://donttrack.us/" class="eighteen showcase__icon js-hl-item" aria-hidden="true" data-type="showcase" data-id="dnt" saprocessedanchor="true"><div class="privacy-tips-icon"></div></a><a href="https://donttrack.us/" class="text-left showcase__link eighty showcase__text js-hl-item" data-type="showcase" data-id="dnt" saprocessedanchor="true">Learn why reducing tracking is important.</a></li></ul></section></nav></div></div></div></span></span></div><div class="header--aside__item social"><a aria-label="Twitter" class="header--aside__item header--aside__twitter js-hl-twitter header__clickable header__link" href="https://twitter.com/duckduckgo" saprocessedanchor="true"></a><span class="popout-trig  js-popout header__clickable header__label js-hl-button" data-type="social"><span class="js-popout-link ddgsi ddgsi-down" aria-hidden="true" data-type="social"></span><div class="modal modal--popout modal--popout--bottom-left modal--popout--sm  js-popout-main" data-type="social"><div class="modal__box"><div class="modal__body"><div class="social__link"><a href="https://twitter.com/duckduckgo" class="js-hl-item" aria-hidden="true" data-type="social" data-id="twitter" saprocessedanchor="true"><img class="social__icon js-lazysvg" data-src="/assets/icons/header/twitter-color.svg"></a><a href="https://twitter.com/duckduckgo" class="js-hl-item social__link__text" data-type="social" data-id="twitter" saprocessedanchor="true">Twitter</a></div><div class="social__link"><a href="https://reddit.com/r/duckduckgo" class="js-hl-item" aria-hidden="true" data-type="social" data-id="reddit" saprocessedanchor="true"><img class="social__icon--light js-lazysvg" data-src="/assets/icons/header/reddit-color.svg"><img class="social__icon--dark js-lazysvg" data-src="/assets/icons/header/reddit-dark.svg"></a><a href="https://reddit.com/r/duckduckgo" class="js-hl-item social__link__text" data-type="social" data-id="reddit" saprocessedanchor="true">Reddit</a></div><div class="social__link"><a href="https://spreadprivacy.com" class="js-hl-item" aria-hidden="true" data-type="social" data-id="blog" saprocessedanchor="true"><img class="social__icon--light js-lazysvg" data-src="/assets/icons/header/globe-alt.svg"><img class="social__icon--dark js-lazysvg" data-src="/assets/icons/header/globe-dark.svg"></a><a href="https://spreadprivacy.com" class="js-hl-item social__link__text" data-type="social" data-id="blog" saprocessedanchor="true">Blog</a></div></div></div></div></span></div></div>
-	<div class="js-header-home-search header-wrap--home__search" style="display:none;">
-				<div class="logo-wrap--home">
-			<a id="logo_homepage_link" class="logo_homepage" href="/about">
-				About DuckDuckGo
-				<span class="logo_homepage__tt">Learn More</span>
-			</a>
-		</div>
-
-		<form id="search_form_homepage_top" class="search  search--home  js-search-form-top" name="x" method="GET" action="/">
-			<input class="search__input  js-search-input" type="text" autocomplete="off" name="q" tabindex="1" value="">
-			<input class="search__button  js-search-button" type="submit" tabindex="2" value="S">
-			<input class="search__clear  empty  js-search-clear" type="button" tabindex="3" value="X">
-			<div class="search__hidden  js-search-hidden"></div>
-		</form>
-	</div>
-</div>
-			<div id="" class="content-wrap--home">
-				<div id="content_homepage" class="content--home">
-					<div class="cw--c">
-								<div class="logo-wrap--home">
-			<a id="logo_homepage_link" class="logo_homepage" href="/about">
-				About DuckDuckGo
-				<span class="logo_homepage__tt">Learn More</span>
-			</a>
-		</div>
-
-						<div class="search-wrap--home">
-									<form id="search_form_homepage" class="search--home  js-search-form search--adv" name="x" method="GET" action="/">
-			<input id="search_form_input_homepage" class="js-search-input search__input--adv" type="text" autocomplete="off" name="q" tabindex="1" value="" autocapitalize="off" autocorrect="off">
-			<input id="search_button_homepage" class="search__button  js-search-button" type="submit" tabindex="2" value="S">
-			<input id="search_form_input_clear" class="search__clear  empty  js-search-clear" type="button" tabindex="3" value="X">
-			<div id="search_elements_hidden" class="search__hidden  js-search-hidden"></div>
-		<div class="search__autocomplete" style="position: absolute; display: none;"><div class="acp-wrap js-acp-wrap"></div><div class="acp-footer is-hidden js-acp-footer"><span class="acp-footer__instructions">Shortcuts to other sites to search off DuckDuckGo</span><span class="acp-footer__link"><a class="no-visited js-acp-footer-link" href="/bang">Learn More</a></span></div></div></form>
-
-						</div>
-		
-	
-
-						<!-- en_US All Settings -->
-<noscript>
-    <div class="tag-home">
-        <div class="tag-home__wrapper">
-            <div class="tag-home__item">
-                The search engine that doesn't track you.
-                <span class="hide--screen-xs"><a href="/about" class="tag-home__link">Learn More</a>.</span>
-            </div>
-        </div>
-    </div>
-</noscript>
-<div class="tag-home  tag-home--slide  no-js__hide  js-tag-home"><div class="tag-home__wrapper"><div class="tag-home__item">The search engine that doesn't track you.<span class="hide--screen-xs"> <a class="tag-home__link js-tag-item-link" href="/spread">Help Spread DuckDuckGo!</a></span></div></div></div>
-        <div id="error_homepage"></div>
-
-
-	
-		
-					</div> <!-- cw -->
-				</div> <!-- content_homepage //-->
-			</div> <!-- content_wrapper_homepage //-->
-			<div id="footer_homepage" class="foot-home  js-foot-home"></div>
-
-<script type="text/javascript">
-	{function seterr(str) {
-		var error=document.getElementById('error_homepage');
-		error.innerHTML=str;
-		$(error).css('display','block');
-	}
-	var err=new RegExp('[\?\&]e=([^\&]+)');var errm=new Array();errm['2']='no search';errm['3']='search too long';errm['4']='not UTF\u002d8 encoding';errm['6']='too many search terms';if (err.test(window.location.href)) seterr('Oops, '+(errm[RegExp.$1]?errm[RegExp.$1]:'there was an error.')+' &nbsp;Please try again');};
-	
-	if (kurl) {
-	  document.getElementById("logo_homepage_link").href += (document.getElementById("logo_homepage_link").href.indexOf('?')==-1 ? '?t=i' : '') + kurl;
-	}
-</script>
-
-		
-	
-	<div class="nav-menu--slideout"><ul class="nav-menu__list"><i class="nav-menu__close  js-side-menu-close">X</i><ul class="nav-menu--theme"><li class="nav-menu__heading"><span>Settings</span></li><li class="nav-menu__item clear"><a href="/settings#theme" data-settings="1">Themes</a></li><li class="nav-menu__item"><a href="/settings" tabindex="-1" data-settings="1">Other Settings</a></li><li class="nav-menu__item"><a href="/bangs">!Bang Search Shortcuts</a></li></ul><ul><li class="nav-menu__heading"><span>Privacy Essentials</span></li><li class="nav-menu__item"><a href="https://duckduckgo.com/" saprocessedanchor="true">Private Search</a></li><li class="nav-menu__item"><a href="/app">App and Extension</a></li></ul><ul><li class="nav-menu__heading"><span>Why Privacy</span></li><li class="nav-menu__item"><a href="https://spreadprivacy.com/" saprocessedanchor="true">Privacy Blog</a></li><li class="nav-menu__item"><a href="https://duckduckgo.com/newsletter" saprocessedanchor="true">Privacy Crash Course</a></li><li class="nav-menu__item"><a href="/spread">Help Spread Privacy</a></li></ul><ul><li class="nav-menu__heading"><span>Who We Are</span></li><li class="nav-menu__item"><a href="/about">About Us</a></li><li class="nav-menu__item"><a href="/privacy">Privacy Policy</a></li><li class="nav-menu__item"><a href="/hiring">Careers</a></li><li class="nav-menu__item"><a href="/press">Press Kit</a></li></ul><ul><li class="nav-menu__heading"><span>Keep in Touch</span></li><li class="nav-menu__item"><a href="https://twitter.com/duckduckgo" saprocessedanchor="true">Twitter</a></li><li class="nav-menu__item"><a href="https://duckduckgo.merchmadeeasy.com/" saprocessedanchor="true">Store</a></li><li class="nav-menu__item"><a href="https://reddit.com/r/duckduckgo" saprocessedanchor="true">Reddit</a></li><li class="nav-menu__item"><a href="https://help.duckduckgo.com/" saprocessedanchor="true">Help</a></li></ul></ul></div><div class="onboarding-ed js-onboarding-ed"> <a class="onboarding-ed__arrow-teaser js-onboarding-ed-teaser" style="display: inline;"><img class="onboarding-ed__arrow-teaser__alpinist" src="images/teaser-2@2x.png"><div class="onboarding-ed__arrow-teaser__arrow-wrapper"><img class="onboarding-ed__arrow-teaser__arrow" src="images/arrow.svg"></div></a><a class="onboarding-ed__arrow js-onboarding-ed-arrow" style="display: none;"><img src="/assets/onboarding/arrow.svg"></a><div class="onboarding-ed__slide onboarding-ed__slide-1 js-onboarding-ed-slide js-onboarding-ed-slide-1"><div class="onboarding-ed__content"><h1 class="onboarding-ed__title js-onboarding-ed-balance-text" style="">We don’t store your<br data-owner="balance-text">personal information. Ever.</h1><p class="onboarding-ed__subtitle js-onboarding-ed-balance-text" style="">Our privacy policy is simple: we don’t collect<br data-owner="balance-text">or share any of your personal information.</p><div class="js-onboarding-ed-button-small-1"></div></div><div class="onboarding-ed__image-container js-onboarding-ed-image-container-1"><img src="images/1-monster-v2--pre-animation.svg" class="onboarding-ed__image--placeholder" width="1200" height="460"></div></div><div class="onboarding-ed__slide onboarding-ed__slide-2 js-onboarding-ed-slide js-onboarding-ed-slide-2"><div class="onboarding-ed__content onboarding-ed__content--more-shadow"><h1 class="onboarding-ed__title js-onboarding-ed-balance-text" style="">We don’t follow you<br data-owner="balance-text">around with ads.</h1><p class="onboarding-ed__subtitle js-onboarding-ed-balance-text" style="">We don’t store your search history. We therefore have nothing<br data-owner="balance-text">to sell to advertisers that track you across the Internet.</p><div class="js-onboarding-ed-button-small-2"></div></div><div class="onboarding-ed__image-container js-onboarding-ed-image-container-2"><img src="images/2-ghost-v2.svg" class="onboarding-ed__image--placeholder" width="1200" height="460"></div></div><div class="onboarding-ed__slide onboarding-ed__slide-3 js-onboarding-ed-slide js-onboarding-ed-slide-3"><div class="onboarding-ed__content"><h1 class="onboarding-ed__title js-onboarding-ed-balance-text" style="">We don’t track you in or out<br data-owner="balance-text">of private browsing mode.</h1><p class="onboarding-ed__subtitle js-onboarding-ed-balance-text" style="">Other search engines track your searches even when you’re<br data-owner="balance-text">in private browsing mode. We don’t track you — period.</p><div class="js-onboarding-ed-button-small-3"></div></div><div class="onboarding-ed__image-container js-onboarding-ed-image-container-3"><img src="images/3-bathtub-v2--pre-animation.svg" class="onboarding-ed__image--placeholder" width="1200" height="460"> </div></div><div class="onboarding-ed__slide onboarding-ed__slide-4 js-onboarding-ed-slide js-onboarding-ed-slide-4"><div class="onboarding-ed__close"><span class="js-onboarding-ed-dismiss onboarding-ed__close-dismiss">Dismiss forever</span><span class="ddgsi onboarding-ed__close-divider">|</span> <span class="onboarding-ed__close-back js-onboarding-ed-back-to-search">Back to search</span> </div><div class="onboarding-ed__content js-onboarding-ed-install" style="display: none;"><h1 class="onboarding-ed__title js-onboarding-ed-balance-text" style="">Switch to DuckDuckGo and take back your privacy!</h1><p class="onboarding-ed__subtitle js-onboarding-ed-balance-text" style="">No tracking, no ad targeting, just searching.</p><div class="js-onboarding-ed-button"></div></div><div class="onboarding-ed__content js-onboarding-ed-spread" style=""><h1 class="onboarding-ed__title js-onboarding-ed-balance-text" style="">Already a fan?<br>Invite friends to the Duck Side!</h1><p class="onboarding-ed__subtitle js-onboarding-ed-balance-text" style="">Share DuckDuckGo and help<br data-owner="balance-text">friends take their privacy back!</p><div><a class="btn onboarding-ed__button onboarding-ed__tweet-button js-onboarding-ed-tweet-button" target="_blank" href="https://twitter.com/?status=DuckDuckGo%20is%20my%20search%20engine%20of%20choice.%20%23ComeToTheDuckSide%20-%20we%20have%20privacy.%20https%3A%2F%2Fduckduckgo.com%2F%231" saprocessedanchor="true">Tweet #ComeToTheDuckSide</a></div></div><div class="onboarding-ed__image-container js-onboarding-ed-image-container-4"><img src="images/4-alpinist-v2.svg" class="onboarding-ed__image--placeholder" width="1200" height="460"></div></div></div></div> <!-- site-wrapper -->
-
-
-<iframe id="iframe_hidden" src="/post2.html"></iframe>
-
-</body>
-</html>
+.body--home,
+.site-wrapper--home {
+ background:#f7f7f7
+}
+.site-wrapper--home {
+ height:100%
+}
+.site-wrapper--home:before {
+ display:none !important
+}
+.content-wrap--home {
+ position:absolute;
+ margin:auto;
+ width:100%;
+ top:24%;
+ left:0;
+ right:0;
+ z-index:12
+}
+.logo-wrap--home {
+ position:relative;
+ display:block;
+ max-width:300px;
+ margin:auto;
+ margin-bottom:.8em;
+ margin-top:-1.25em
+}
+@media only screen and (max-width: 425px) {
+ .logo-wrap--home {
+  margin-bottom:1.25em;
+  margin-top:0
+ }
+}
+@media only screen and (max-height: 425px) {
+ .logo-wrap--home {
+  margin-bottom:0;
+  margin-top:0
+ }
+}
+.search-wrap--home {
+ padding:1.3em .8em 1em;
+ max-width:590px;
+ margin-left:auto;
+ margin-right:auto;
+ display:block;
+ float:none;
+ width:70%
+}
+@media only screen and (max-width: 590px) {
+ .search-wrap--home {
+  width:80%
+ }
+ .has-search-focus .search-wrap--home {
+  width:auto
+ }
+}
+@media only screen and (max-width: 425px) {
+ .search-wrap--home {
+  width:auto
+ }
+}
+.tag-home {
+ position:relative;
+ line-height:1.4;
+ font-size:1.25em;
+ padding:0;
+ margin:.5em auto;
+ text-align:center;
+ color:#9a9a9a
+}
+@media only screen and (max-width: 590px) {
+ .tag-home {
+  font-size:1em
+ }
+}
+.tag-home__link,
+.tag-home__link:hover,
+.tag-home__link:visited,
+.tag-home__link:active {
+ color:#4495d4
+}
+.foot-home {
+ position:absolute;
+ bottom:14%;
+ left:0;
+ right:0;
+ width:100%;
+ padding:1em 0;
+ text-align:center
+}
+.lt-ie9 .foot-home {
+ display:none
+}
+.foot-home.show-on-small-screens {
+ display:block
+}
+.foot-home.fix-to-bottom {
+ display:block;
+ bottom:0;
+ padding:0;
+ height:auto !important;
+ right:0
+}
+@media only screen and (max-width: 590px) {
+ .foot-home {
+  font-size:.9176em
+ }
+}
+@media only screen and (max-height: 425px) {
+ .foot-home {
+  display:none
+ }
+}
+@media only screen and (max-height: 425px) {
+ .foot-home,
+ .foot-home.show-on-small-screens {
+  display:none
+ }
+}
+.blurred-animation .header--aside,
+.blurred-animation .header-wrap--hero,
+.blurred-animation .content-wrap--home,
+.blurred-animation .onboarding-ed,
+.blurred-animation .onboarding-scroll-teaser,
+.blurred-animation .foot-home {
+ -webkit-transition:all .3s ease-in-out;
+ -webkit-transition-delay:0s;
+ -moz-transition:all .3s ease-in-out 0s;
+ -o-transition:all .3s ease-in-out 0s;
+ transition:all .3s ease-in-out 0s;
+ -webkit-transform:translate3d(0, 0, 0);
+ -moz-transform:translate3d(0, 0, 0);
+ -ms-transform:translate3d(0, 0, 0);
+ -o-transform:translate3d(0, 0, 0);
+ transform:translate3d(0, 0, 0);
+ opacity:1
+}
+.is-blurred .header--aside,
+.is-blurred .header-wrap--hero,
+.is-blurred .content-wrap--home,
+.is-blurred .onboarding-ed,
+.is-blurred .onboarding-scroll-teaser,
+.is-blurred .foot-home {
+ opacity:0.5
+}
+.is-blurred.cssfilters .header--aside,
+.is-blurred.cssfilters .header-wrap--hero,
+.is-blurred.cssfilters .content-wrap--home,
+.is-blurred.cssfilters .onboarding-ed,
+.is-blurred.cssfilters .onboarding-scroll-teaser,
+.is-blurred.cssfilters .foot-home {
+ -webkit-filter:blur(5px);
+ -moz-filter:blur(5px);
+ filter:blur(5px);
+ opacity:1
+}
+@media only screen and (max-height: 361.25px) and (min-width: 864px) {
+ .content-wrap--home {
+  margin-bottom:3em;
+  text-align:center
+ }
+ .content--home {
+  padding-bottom:2em;
+  display:inline-table
+ }
+ .content--home .cw--c {
+  display:table-row
+ }
+ .logo-wrap--home,
+ .search-wrap--home {
+  display:table-cell;
+  vertical-align:middle
+ }
+ .search-wrap--home {
+  text-align:left
+ }
+ .search--home {
+  margin-left:1em;
+  margin-top:-.25em
+ }
+ .logo_homepage {
+  margin-left:-22px;
+  margin-right:-22px
+ }
+ .tag-home {
+  display:none
+ }
+}
+@media only screen and (max-height: 590px) {
+ .content-wrap--home {
+  top:20%
+ }
+}
+@media only screen and (min-height: 700px) {
+ .foot-home {
+  bottom:20%
+ }
+}
+@media only screen and (max-height: 520px) {
+ .tag-home {
+  display:none
+ }
+}
+@media only screen and (max-height: 650px) {
+ .is-firefox-focus .tag-home {
+  display:none
+ }
+}
+@media only screen and (max-height: 560px) and (min-width: 320px) {
+ .is-firefox-focus .fix-to-bottom {
+  display:none !important
+ }
+}
+@media only screen and (max-height: 455px) {
+ .fix-to-bottom {
+  display:none !important
+ }
+}
+@media only screen and (max-height: 480px) and (min-width: 360px) {
+ .fix-to-bottom {
+  display:none !important
+ }
+}
+@media only screen and (max-height: 540px) {
+ .foot-home {
+  display:none
+ }
+ .fix-to-bottom {
+  top:auto !important
+ }
+}
+@media only screen and (max-height: 540px) and (min-width: 590px) {
+ .foot-home {
+  padding-top:21px;
+  right:90px
+ }
+}
+@media only screen and (max-height: 595px) and (min-width: 590px) {
+ .content-wrap--home {
+  top:7em;
+  padding-bottom:4em;
+  margin-bottom:0
+ }
+}
+@media only screen and (max-height: 318.75px) and (min-width: 590px) {
+ .content-wrap--home {
+  top:4em
+ }
+}
+@media only screen and (max-height: 276.25px) and (min-width: 590px) {
+ .content-wrap--home {
+  position:absolute;
+  top:30%
+ }
+}
+@media only screen and (max-width: 799px) {
+ .is-vsplit-landing-page .badge-link.badge-link--half,
+ .is-vsplit-landing-page .badge-link.badge-link--full,
+ .is-vsplit-landing-page .badge-link-background,
+ .is-vsplit-landing-page .content-info,
+ .is-fullbleed-landing-page .badge-link.badge-link--half,
+ .is-fullbleed-landing-page .badge-link.badge-link--full,
+ .is-fullbleed-landing-page .badge-link-background,
+ .is-fullbleed-landing-page .content-info {
+  display:none !important
+ }
+}
+@media only screen and (max-height: 599px) {
+ .is-vsplit-landing-page .badge-link.badge-link--half,
+ .is-vsplit-landing-page .badge-link.badge-link--full,
+ .is-vsplit-landing-page .badge-link-background,
+ .is-vsplit-landing-page .content-info,
+ .is-fullbleed-landing-page .badge-link.badge-link--half,
+ .is-fullbleed-landing-page .badge-link.badge-link--full,
+ .is-fullbleed-landing-page .badge-link-background,
+ .is-fullbleed-landing-page .content-info {
+  display:none !important
+ }
+}
+.is-vsplit-landing-page .badge-link__btn-wrap,
+.is-vsplit-landing-page .badge-link__btn-wrap:hover,
+.is-fullbleed-landing-page .badge-link__btn-wrap,
+.is-fullbleed-landing-page .badge-link__btn-wrap:hover {
+ text-decoration:none
+}
+@media only screen and (min-width: 800px) and (min-height: 600px) {
+ .is-vsplit-landing-page .content-wrap--home,
+ .is-fullbleed-landing-page .content-wrap--home {
+  display:flex;
+  top:0;
+  bottom:0;
+  width:auto;
+  padding:0 2.5%
+ }
+}
+.is-vsplit-landing-page .badge-link__wrap,
+.is-fullbleed-landing-page .badge-link__wrap {
+ box-sizing:border-box;
+ display:flex;
+ max-width:none;
+ justify-content:center;
+ align-items:center;
+ padding:30px
+}
+.is-vsplit-landing-page .badge-link,
+.is-fullbleed-landing-page .badge-link {
+ color:#333;
+ cursor:initial
+}
+.is-vsplit-landing-page .badge-link__wrap.badge-link__wrap--hidden,
+.is-fullbleed-landing-page .badge-link__wrap.badge-link__wrap--hidden {
+ display:none
+}
+.is-vsplit-landing-page .badge-link__wrap--flex,
+.is-fullbleed-landing-page .badge-link__wrap--flex {
+ width:100%;
+ max-width:100%;
+ padding:60px 64px
+}
+.is-vsplit-landing-page .badge-link__wrap-inner,
+.is-fullbleed-landing-page .badge-link__wrap-inner {
+ display:flex;
+ text-align:center;
+ margin:0 auto
+}
+.is-vsplit-landing-page .badge-link__img-wrap,
+.is-fullbleed-landing-page .badge-link__img-wrap {
+ flex:1 1 auto;
+ height:calc(95vh - 215px);
+ min-width:0;
+ min-height:0
+}
+.is-vsplit-landing-page .badge-link__img,
+.is-fullbleed-landing-page .badge-link__img {
+ max-width:100%;
+ height:100%
+}
+.is-vsplit-landing-page .badge-link__title,
+.is-fullbleed-landing-page .badge-link__title {
+ font-size:36px;
+ font-weight:bold;
+ margin-bottom:30px;
+ padding:0
+}
+.is-vsplit-landing-page .badge-link__subtitle,
+.is-fullbleed-landing-page .badge-link__subtitle {
+ font-size:16px;
+ margin-bottom:50px;
+ padding:0
+}
+.is-vsplit-landing-page .badge-link__btn-wrap,
+.is-fullbleed-landing-page .badge-link__btn-wrap {
+ margin-top:auto;
+ width:100%
+}
+.is-vsplit-landing-page .badge-link__btn,
+.is-fullbleed-landing-page .badge-link__btn {
+ display:flex;
+ align-items:center;
+ justify-content:center;
+ height:56px;
+ font-size:16px;
+ background-color:#678fff;
+ box-sizing:border-box;
+ margin:auto auto 0;
+ font-weight:600
+}
+@media only screen and (min-width: 800px) and (min-height: 600px) {
+ .is-vsplit-landing-page .content--home {
+  flex:1 1 auto;
+  width:50%;
+  margin:0;
+  height:100%
+ }
+ .is-vsplit-landing-page .content--home .cw--c {
+  top:24%
+ }
+}
+.is-vsplit-landing-page .badge-link.badge-link--half {
+ flex:0 1 auto;
+ box-sizing:border-box;
+ width:50%;
+ max-width:700px;
+ margin:auto;
+ top:2.5vh
+}
+.is-vsplit-landing-page .badge-link__wrap--flex {
+ height:90vh
+}
+.is-vsplit-landing-page .badge-link__wrap-inner {
+ flex-direction:column;
+ max-width:643px;
+ max-height:820px;
+ height:100%
+}
+.is-vsplit-landing-page .badge-link__img-wrap {
+ margin-bottom:5vh
+}
+.is-vsplit-landing-page .badge-link__img {
+ max-height:505px
+}
+.is-vsplit-landing-page .badge-link__content {
+ display:flex;
+ flex-direction:column;
+ flex:1 0 auto
+}
+@media only screen and (max-height: 800px) {
+ .is-vsplit-landing-page .badge-link.badge-link--half {
+  top:5vh
+ }
+ .is-vsplit-landing-page .badge-link__wrap--flex {
+  height:85vh
+ }
+}
+@media only screen and (max-width: 1440px) {
+ .is-vsplit-landing-page .badge-link__title {
+  font-size:2vw
+ }
+}
+@media only screen and (min-width: 800px) and (min-height: 600px) {
+ .is-fullbleed-landing-page .site-wrapper--home {
+  display:flex;
+  flex-direction:column;
+  height:auto
+ }
+ .is-fullbleed-landing-page .header-wrap--home {
+  display:block;
+  width:100%;
+  max-width:1400px;
+  box-sizing:border-box;
+  padding:23px;
+  margin:0 auto;
+  height:auto
+ }
+ .is-fullbleed-landing-page .header-wrap--home__search {
+  display:flex !important;
+  flex-direction:column;
+  align-items:center;
+  margin:0 auto
+ }
+ .is-fullbleed-landing-page .header-wrap--home__search .logo-wrap--home {
+  display:flex;
+  align-items:center;
+  flex:1;
+  margin:0 0 20px
+ }
+ .is-fullbleed-landing-page .header-wrap--home__search .logo_homepage {
+  margin:0;
+  width:200px;
+  height:56px;
+  background-image:url(assets/logo_homepage_mobile.normal.v108.unoptimized.svg);
+  background-size:contain
+ }
+ .is-fullbleed-landing-page .header-wrap--home__search .search--home {
+  width:100%;
+  flex:1;
+  max-width:665px;
+  margin:0 auto
+ }
+ .is-fullbleed-landing-page .header-wrap--home__search .search--adv:hover,
+ .is-fullbleed-landing-page .header-wrap--home__search .search--adv.search--header.has-text.search--hover,
+ .is-fullbleed-landing-page .header-wrap--home__search .search--adv.search--header.has-text.search--focus,
+ .is-fullbleed-landing-page .header-wrap--home__search .search--adv.search--home.has-text {
+  padding-right:3.5em
+ }
+ .is-fullbleed-landing-page .header--aside {
+  display:flex;
+  align-items:center;
+  line-height:normal;
+  height:auto
+ }
+ .is-fullbleed-landing-page .header--aside {
+  margin:0;
+  justify-content:flex-end;
+  position:static
+ }
+ .is-fullbleed-landing-page .header--aside .header--aside__item {
+  display:flex;
+  align-items:center;
+  line-height:normal;
+  height:auto
+ }
+ .is-fullbleed-landing-page .header--aside .header--aside__item.showcase {
+  display:none
+ }
+ .is-fullbleed-landing-page .header--aside .header__button--menu {
+  order:1;
+  position:static;
+  top:0;
+  height:auto;
+  width:auto;
+  padding:8px;
+  line-height:normal;
+  margin-right:-8px
+ }
+ .is-fullbleed-landing-page .content-wrap--home {
+  position:relative;
+  flex-direction:column;
+  flex:1;
+  width:100%;
+  padding:0;
+  min-height:700px
+ }
+ .is-fullbleed-landing-page .content--home {
+  flex:0 1 auto;
+  height:auto
+ }
+ .is-fullbleed-landing-page .content--home .cw--c {
+  position:static
+ }
+ .is-fullbleed-landing-page .content--home .logo-wrap--home,
+ .is-fullbleed-landing-page .content--home .search-wrap--home,
+ .is-fullbleed-landing-page .content--home .tag-home {
+  display:none
+ }
+ .is-fullbleed-landing-page .onboarding-ed {
+  position:static;
+  height:400vh;
+  top:100vh
+ }
+ .is-fullbleed-landing-page .onboarding-ed__slide {
+  height:100vh
+ }
+}
+.is-fullbleed-landing-page .badge-link-background {
+ position:absolute;
+ min-height:750px;
+ max-height:1200px;
+ width:100%;
+ min-width:100vw;
+ background:url("/assets/home/landing/background.svg") no-repeat;
+ background-size:auto;
+ background-position:center -25px
+}
+.is-fullbleed-landing-page .badge-link.badge-link--full {
+ display:flex;
+ flex:none;
+ margin:150px auto 0;
+ border:none;
+ background:none;
+ width:100%;
+ max-width:950px;
+ height:520px;
+ align-items:start
+}
+.is-fullbleed-landing-page .badge-link__wrap--flex {
+ margin:0;
+ padding:0
+}
+.is-fullbleed-landing-page .badge-link__wrap {
+ margin:0;
+ justify-content:flex-start
+}
+.is-fullbleed-landing-page .badge-link__content {
+ flex:none;
+ max-width:470px;
+ text-align:left
+}
+.is-fullbleed-landing-page .badge-link__title {
+ font-size:40px;
+ text-align:left;
+ line-height:1.1;
+ margin-bottom:auto;
+ padding-bottom:2vh;
+ color:#353748
+}
+.is-fullbleed-landing-page .badge-link__subtitle {
+ font-size:20px;
+ line-height:1.5;
+ margin-bottom:auto;
+ padding-bottom:2vh;
+ color:#353748
+}
+.is-fullbleed-landing-page .badge-link__btn {
+ height:50px;
+ font-size:14px;
+ margin-top:0px;
+ max-width:270px;
+ font-weight:normal;
+ margin:0
+}
+.is-fullbleed-landing-page .badge-link__rating {
+ font-size:13px;
+ margin-top:15px;
+ color:#65676a
+}
+.is-fullbleed-landing-page .badge-link__rating p {
+ padding:0
+}
+.is-fullbleed-landing-page .badge-link__rating-wrap {
+ display:flex
+}
+.is-fullbleed-landing-page .badge-link__rating__star,
+.is-fullbleed-landing-page .badge-link__rating__star--empty {
+ margin-right:2px;
+ font-family:sans-serif
+}
+.is-fullbleed-landing-page .badge-link__rating__star--empty {
+ color:#d7d7d7;
+ position:relative
+}
+.is-fullbleed-landing-page .badge-link__rating__star--third::before,
+.is-fullbleed-landing-page .badge-link__rating__star--half::before {
+ content:'★';
+ color:#65676a;
+ position:absolute;
+ overflow:hidden;
+ font-family:sans-serif
+}
+.is-fullbleed-landing-page .badge-link__rating__star--third::before {
+ width:40%
+}
+.is-fullbleed-landing-page .badge-link__rating__star--half::before {
+ width:50%
+}
+@media only screen and (min-width: 800px) and (max-width: 1100px) {
+ .is-fullbleed-landing-page .site-wrapper--home {
+  min-height:100vh;
+  height:auto
+ }
+ .is-fullbleed-landing-page .badge-link-background {
+  order:2;
+  position:static;
+  background-position:calc(50% - 320px) top
+ }
+ .is-fullbleed-landing-page .badge-link.badge-link--full {
+  margin:0 auto;
+  justify-content:center;
+  order:1;
+  transform:none;
+  height:auto
+ }
+ .is-fullbleed-landing-page .badge-link__wrap {
+  justify-content:center
+ }
+ .is-fullbleed-landing-page .badge-link__title,
+ .is-fullbleed-landing-page .badge-link__content {
+  text-align:center
+ }
+ .is-fullbleed-landing-page .badge-link__title {
+  margin-top:44px
+ }
+ .is-fullbleed-landing-page .badge-link__content {
+  max-width:410px
+ }
+ .is-fullbleed-landing-page .badge-link__rating-wrap {
+  justify-content:center
+ }
+ .is-fullbleed-landing-page .badge-link__btn {
+  margin:0 auto
+ }
+}
+.is-fullbleed-landing-page.fb-iso .header-wrap--home,
+.is-fullbleed-landing-page.fb-hero .header-wrap--home {
+ padding-bottom:0
+}
+.is-fullbleed-landing-page.fb-iso .badge-link.badge-link--full,
+.is-fullbleed-landing-page.fb-hero .badge-link.badge-link--full {
+ margin:0px 0 0 auto;
+ max-width:none;
+ min-height:585px;
+ border-radius:0
+}
+.is-fullbleed-landing-page.fb-iso .badge-link-background,
+.is-fullbleed-landing-page.fb-hero .badge-link-background {
+ min-height:unset;
+ max-height:unset;
+ height:585px;
+ background-position:bottom
+}
+.is-fullbleed-landing-page.fb-iso .badge-link-background__browser,
+.is-fullbleed-landing-page.fb-hero .badge-link-background__browser {
+ display:block;
+ position:relative;
+ max-width:none
+}
+.is-fullbleed-landing-page.fb-iso .badge-link__wrap,
+.is-fullbleed-landing-page.fb-hero .badge-link__wrap {
+ margin-left:50%;
+ margin-top:100px
+}
+.is-fullbleed-landing-page.fb-iso .badge-link__content,
+.is-fullbleed-landing-page.fb-hero .badge-link__content {
+ box-sizing:border-box;
+ padding-left:100px
+}
+.is-fullbleed-landing-page.fb-iso .badge-link__title,
+.is-fullbleed-landing-page.fb-hero .badge-link__title {
+ padding-bottom:21px
+}
+.is-fullbleed-landing-page.fb-iso .badge-link__subtitle,
+.is-fullbleed-landing-page.fb-hero .badge-link__subtitle {
+ padding-bottom:30px
+}
+.is-fullbleed-landing-page.fb-iso .content-info,
+.is-fullbleed-landing-page.fb-hero .content-info {
+ text-align:center;
+ padding:100px 0 120px;
+ order:4;
+ background-color:#f4f5f9
+}
+.is-fullbleed-landing-page.fb-iso .content-info__title,
+.is-fullbleed-landing-page.fb-hero .content-info__title {
+ font-weight:bold;
+ font-size:36px
+}
+.is-fullbleed-landing-page.fb-iso .content-info__items,
+.is-fullbleed-landing-page.fb-hero .content-info__items {
+ display:flex;
+ justify-content:center;
+ align-items:center;
+ max-width:1440px;
+ margin:55px auto 0
+}
+.is-fullbleed-landing-page.fb-iso .content-info__item,
+.is-fullbleed-landing-page.fb-hero .content-info__item {
+ display:flex;
+ flex-direction:column;
+ align-items:center;
+ margin:0 45px auto
+}
+.is-fullbleed-landing-page.fb-iso .content-info__item__icon,
+.is-fullbleed-landing-page.fb-hero .content-info__item__icon {
+ width:150px;
+ height:150px;
+ display:block
+}
+.is-fullbleed-landing-page.fb-iso .content-info__item__title,
+.is-fullbleed-landing-page.fb-hero .content-info__item__title {
+ font-weight:bold;
+ font-size:24px;
+ margin-bottom:10px
+}
+.is-fullbleed-landing-page.fb-iso .content-info__item__subtitle,
+.is-fullbleed-landing-page.fb-hero .content-info__item__subtitle {
+ font-size:17px;
+ line-height:1.5
+}
+@media only screen and (min-width: 800px) and (max-width: 1100px) {
+ .is-fullbleed-landing-page.fb-iso .badge-link.badge-link--full,
+ .is-fullbleed-landing-page.fb-hero .badge-link.badge-link--full {
+  flex-direction:column
+ }
+ .is-fullbleed-landing-page.fb-iso .badge-link-background,
+ .is-fullbleed-landing-page.fb-hero .badge-link-background {
+  min-height:unset;
+  height:610px
+ }
+ .is-fullbleed-landing-page.fb-iso .badge-link__content,
+ .is-fullbleed-landing-page.fb-hero .badge-link__content {
+  padding-left:0px
+ }
+ .is-fullbleed-landing-page.fb-iso .badge-link__wrap,
+ .is-fullbleed-landing-page.fb-hero .badge-link__wrap {
+  margin-left:0;
+  margin-top:60px
+ }
+ .is-fullbleed-landing-page.fb-iso .badge-link__title,
+ .is-fullbleed-landing-page.fb-hero .badge-link__title {
+  margin-top:0
+ }
+ .is-fullbleed-landing-page.fb-iso .content-info__items,
+ .is-fullbleed-landing-page.fb-hero .content-info__items {
+  flex-direction:column
+ }
+ .is-fullbleed-landing-page.fb-iso .content-info__item,
+ .is-fullbleed-landing-page.fb-hero .content-info__item {
+  margin:40px 0
+ }
+ .is-fullbleed-landing-page.fb-iso .content-info__item:first-of-type,
+ .is-fullbleed-landing-page.fb-hero .content-info__item:first-of-type {
+  margin-top:0
+ }
+ .is-fullbleed-landing-page.fb-iso .content-info__item:last-of-type,
+ .is-fullbleed-landing-page.fb-hero .content-info__item:last-of-type {
+  margin-bottom:0
+ }
+}
+.is-fullbleed-landing-page.fb-iso .badge-link.badge-link--full {
+ overflow:hidden
+}
+.is-fullbleed-landing-page.fb-iso .badge-link-background {
+ background-image:url("/assets/home/landing/iso-background.svg")
+}
+.is-fullbleed-landing-page.fb-iso .badge-link-background__browser {
+ height:850px;
+ transform:translate(-89%, 0%);
+ left:33%
+}
+@media only screen and (min-width: 800px) and (max-width: 1100px) {
+ .is-fullbleed-landing-page.fb-iso .badge-link-background {
+  background-image:url("/assets/home/landing/iso-background-small.svg");
+  order:2;
+  position:static
+ }
+ .is-fullbleed-landing-page.fb-iso .badge-link-background__browser {
+  height:760px;
+  transform:translate(-74%, 0%)
+ }
+}
+.is-fullbleed-landing-page.fb-hero .header-wrap--home {
+ z-index:20
+}
+.is-fullbleed-landing-page.fb-hero .badge-link-background {
+ height:610px;
+ margin-top:-25px;
+ background-image:url("/assets/home/landing/hero-background.svg");
+ display:flex;
+ justify-content:center;
+ align-items:flex-end
+}
+.is-fullbleed-landing-page.fb-hero .badge-link-background__browser {
+ transform:translateX(-48%)
+}
+@media only screen and (min-width: 800px) and (max-width: 1100px) {
+ .is-fullbleed-landing-page.fb-hero .badge-link-background {
+  position:static;
+  margin-top:-200px;
+  order:2;
+  background-image:url("/assets/home/landing/hero-background-small.svg")
+ }
+ .is-fullbleed-landing-page.fb-hero .badge-link-background__browser {
+  transform:translateX(0);
+  height:414px
+ }
+}
+.modal--duck-dot-com {
+ display:flex;
+ padding:1em 0;
+ overflow:scroll;
+ box-sizing:border-box
+}
+.modal--duck-dot-com.is-showing {
+ background-color:#808080
+}
+.modal--duck-dot-com .modal__overlay {
+ cursor:pointer
+}
+.modal--duck-dot-com .modal__box {
+ width:374px
+}
+@media only screen and (max-width: 590px) {
+ .modal--duck-dot-com .modal__box {
+  width:304px
+ }
+}
+.modal--duck-dot-com .modal__close {
+ color:#fff;
+ background:rgba(0,0,0,0.6);
+ padding:6px;
+ border-radius:15px;
+ font-size:12px;
+ font-weight:bold !important;
+ cursor:pointer
+}
+.modal--duck-dot-com .duck-dot-com__image-header {
+ height:145px;
+ position:relative;
+ background-image:url(assets/home/landing/duckdotcom-header.jpg);
+ background-size:cover;
+ background-repeat:no-repeat
+}
+.modal--duck-dot-com .duck-dot-com__logo {
+ position:absolute;
+ bottom:-22px;
+ left:0;
+ right:0;
+ height:62px;
+ width:62px;
+ margin:0 auto
+}
+.modal--duck-dot-com .duck-dot-com__modal-content {
+ padding:42px 54px 34px
+}
+@media only screen and (max-width: 590px) {
+ .modal--duck-dot-com .duck-dot-com__modal-content {
+  padding:42px 29px 34px
+ }
+}
+.modal--duck-dot-com .duck-dot-com__title {
+ font-size:17px;
+ font-weight:bold
+}
+@media only screen and (max-width: 590px) {
+ .modal--duck-dot-com .duck-dot-com__title {
+  font-size:16px
+ }
+}
+.modal--duck-dot-com .badge-link__bullets {
+ text-align:left;
+ padding:20px 0 16px;
+ line-height:1.3;
+ color:#333
+}
+@media only screen and (max-width: 590px) {
+ .modal--duck-dot-com .badge-link__bullets {
+  font-size:13px
+ }
+}
+.modal--duck-dot-com .badge-link__bullets .badge-link__bullet {
+ padding-left:15px
+}
+.modal--duck-dot-com .badge-link__btn {
+ margin:10px 0 22px;
+ padding:6px 0 5px;
+ background:#66abff
+}
+@media only screen and (max-width: 590px) {
+ .modal--duck-dot-com .badge-link__btn {
+  font-size:13px
+ }
+}
+.modal--duck-dot-com .badge-link__skip {
+ font-weight:bold;
+ font-size:13px;
+ color:#66abff;
+ cursor:pointer
+}
+.is-aggressive-landing-page .duck-dot-com__image-header {
+ height:135px;
+ background:url("/assets/about/hiker.svg") no-repeat center;
+ background-size:cover;
+ background-size:239%;
+ background-position:47% 42%
+}
+.is-aggressive-landing-page .badge-link__bullet {
+ color:#666666
+}
+.is-aggressive-landing-page .badge-link__skip {
+ color:#888888;
+ font-weight:normal
+}
