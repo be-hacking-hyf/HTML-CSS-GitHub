@@ -1,0 +1,82 @@
+body {
+    font-family: "DDG_ProximaNova", "DDG_ProximaNova_UI_0", "DDG_ProximaNova_UI_1", "DDG_ProximaNova_UI_2", 
+    "DDG_ProximaNova_UI_3", "DDG_ProximaNova_UI_4", "DDG_ProximaNova_UI_5", "DDG_ProximaNova_UI_6", 
+    "Proxima Nova", "Helvetica Neue", "Helvetica", "Segoe UI", 
+    "Nimbus Sans L", "Liberation Sans", "Open Sans", FreeSans, Arial, sans-serif;
+    
+    
+    padding: 0;
+    margin: 0;
+    
+}
+.graypage {
+    background-color: #f7f7f7;
+    height: 550px;
+    width: auto;
+    border: 3px solid black;
+    color: #aaaaaa;
+    font-size: 18px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+
+    color: #aaaaaa;
+
+    text-align: center;
+
+    padding: 14px 16px;
+
+    text-decoration: none;
+}
+#newsletter{
+    padding: 10px;
+    color: black;
+    border-bottom: 3px solid #e44a4a;
+    border-top: 1px solid #e44a4a;
+    margin-top: 20px;
+    height: 220px;
+}
+
+#newsletter form{
+    
+    margin-top: 15px;
+}
+#newsletter input[type="search"]{
+    padding: 4px;
+    height: 30px;
+    width: 350px;
+}
+.searchbutton {
+    height: 30px;
+    
+    background: #e71f1f;
+    border: 2px solid black;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #ffffff;
+    font-weight: bold;
+    
+}
+.container {
+    width:80%;
+    margin: auto;
+    overflow: hidden;
+    text-align: center;
+}
+#duck{
+    font-size: 26px;
+}
+#duckimage {
+    border: #e71f1f;
+}
