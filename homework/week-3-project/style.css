@@ -87,3 +87,51 @@ span a:visited, a:active {
     padding-top: 20px;
     padding-right: 10px;
 }
+.greenpage {
+    background-color: rgb(88, 183, 146);
+    height: 563px;
+    line-height: 23.0333px;
+    color: rgb(255, 255, 255);
+    font-size: 14.4px;
+}
+.searchbuttongreen {
+    height: 45px;
+    width: 300px;
+    background: rgba(34, 34, 34, 0.5);   
+    padding-left: 10px;
+    padding-right: 10px; 
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    border: none;
+}
+.containergreen {
+    width:80%;
+    margin: auto;
+    overflow: hidden;
+    text-align: center;
+}
+
+#duckimagegreen {
+    width: 600px;
+    height: 250px;
+    margin-left: 250px;
+    
+}
+.textgreen{
+    padding-top: 120px;
+    color: rgb(255, 255, 255);
+}
+button:hover {
+    color: rgb(255, 255, 255);
+    background: rgba(34, 34, 34, 0.8); 
+}
+button:link {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    
+}
+button:visited, a:active {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    
+}
