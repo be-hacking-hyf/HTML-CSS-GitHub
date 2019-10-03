@@ -25,7 +25,7 @@
         <td>empty CSS file</td>
       </tr>
       <tr>
-        <td><a href="https://elifsancak.github.io/HTML-CSS-GitHub/homework/week-3-project/1-first-section.html/">1-first-section.html</a></td>
+        <td><a href="https://elifsancak.github.io/HTML-CSS-GitHub/homework/week-3-project/master/1-first-section.html/">1-first-section.html</a></td>
         <td>a section structured like the top of DuckDuckGo</td>
         <td>some styling to make it visually match DuckDuckGo</td>
       </tr>
