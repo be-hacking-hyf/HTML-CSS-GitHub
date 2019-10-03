@@ -1,9 +1,6 @@
-
 ## HTML-CSS-GitHub - Elif Sancak
 
-## Week 2 Project 
-  
-  
+## Week 3 Project 
 
 <html lang="en">
 
@@ -13,6 +10,55 @@
 </head>
 
 <body>
+<table border="1" width="70%">
+    <thead>
+      <tr>
+        <th>a user can ...</th>
+        <th>HTML</th>
+        <th>CSS</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="./0-blank-page-setup/index.html">... open a website</a> </td>
+        <td>empty HTML template, requiring CSS file, title tag</td>
+        <td>empty CSS file</td>
+      </tr>
+      <tr>
+        <td><a href="https://elifsancak.github.io/HTML-CSS-GitHub/homework/week-3-project/1-first-section.html/">1-first-section.html</a></td>
+        <td>a section structured like the top of DuckDuckGo</td>
+        <td>some styling to make it visually match DuckDuckGo</td>
+      </tr>
+      <tr>
+        <td><a href="./1-second-section/index.html">... know DuckDuckGo doesn't store personal data</a></td>
+        <td>a section based off the second section of DuckDuckGo</td>
+        <td>some styling to make it visually match DuckDuckGo</td>
+      </tr>
+      <tr>
+        <td><a href="./1-third-section/index.html">... be assured they won't be targeted for ads</a></td>
+        <td>a section based off the third section of DuckDuckGo</td>
+        <td>some styling to make it visually match DuckDuckGo</td>
+      </tr>
+      <tr>
+        <td><a href="./1-fourth-section/index.html">... be assured they won't be tracked</a></td>
+        <td>a section based off the fourth section of DuckDuckGo</td>
+        <td>some styling to make it visually match DuckDuckGo</td>
+      </tr>
+      <tr>
+        <td><a href="./1-fifth-section/index.html">... read the call to action</a></td>
+        <td>a section based off the fifth section of DuckDuckGo</td>
+        <td>some styling to make it visually match DuckDuckGo</td>
+      </tr>
+    <tbody>
+  </table>
+
+## HTML-CSS-GitHub - Elif Sancak
+
+## Week 2 Project 
+  
+  
+
+
  
 
 
