@@ -1,1 +1,22 @@
+<style>
+table {
+    border: 1px solid;
+    border-top: 10px solid blue;
+    padding: 10px;
+}
+}
+.type {
+    bacground-color: blue;
+    color: white;
+}
+.name {
+    color: brown;
+}
+.percentage {
+    background-color: green;
+    color: white;
+}
+</style>
+style.css
+
 style.css
