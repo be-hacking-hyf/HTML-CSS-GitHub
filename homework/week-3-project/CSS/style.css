@@ -70,7 +70,7 @@ li {
 
 /* homepage */
 
-/* section */
+/* searchbar */
 
 .logo {
     margin-top: 10%;
@@ -112,7 +112,34 @@ li {
 
 }
 
+/* Homepage Footer Logo */
   
- 
-  
-  
+.footer_logo {
+    display: flex;
+    margin-top: 70px;
+    justify-content: space-around;
+    /* background-color: aqua; */
+}
+
+#image_footer {
+    height: 84px;
+    width: 100px;
+    opacity: 0.85;
+    transition: opacity .25s ease;
+    }
+
+#image_footer:hover {
+opacity:1;
+}
+
+#arrow {
+    height: 28px;
+    width: 28px;
+    top: 90%;
+    left: 50%;
+    margin:-10px;
+    position: absolute;
+    background-color: black;
+    border-radius: 100%;
+}
+
