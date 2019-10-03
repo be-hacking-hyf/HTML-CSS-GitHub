@@ -1,1 +1,43 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  <meta charset="utf-8">
+
+  <title>HTML/CSS Week 2 Project Table</title>
+</head>
+<body>
+<h2>Religions in Burundi according to the 2019 census.</h2>
+
+  <table>
+    <thead>
+      <tr>
+        <th class="type">Religion</th>
+        <th class="type">Population</th>
+        <th class="type">Percentage</th>
+        </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="name"><Catholic</td>
+        <td class="name">Protestant</td>
+        <td class="name">Muslim</td>
+        <td class="name">Adventist</td>
+        <td class="name">Traditional</td>
+      </tr>
+      <tr>
+       <td class="percentage"><62.05%</td>
+        <td class="percentage">21.62%</td>
+        <td class="percentage">2.52%</td>
+        <td class="percentage">2.33%</td>
+        <td class="percentage">0.03%</td>   
+      </tr>
+    </tbody>
+  </table>
+</body>
+</html>
+
+index.html step2
+
 index.html step2
