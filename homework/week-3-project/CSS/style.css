@@ -15,8 +15,9 @@ body {
     position: absolute;
     bottom: 0;
     top: 0;
-    z-index: 199;
+    /* z-index: 199; */
    }
+
 ul {
 	list-style-type: none;
 	align-items: center;
@@ -66,16 +67,52 @@ li {
 	border-radius: 3px;
 } 
 
+
 /* homepage */
 
+/* section */
 
-#logo_homepage {
-    width: 205px;
-    height: 200px;
-    display: block;
+.logo {
+    margin-top: 10%;
+    /* background-color: #6d6d6d; */
+    display: flex;
+    justify-content: space-around;
+    }
+
+.search_input {
+    display: flex;
+    /* background-color: aqua; */
+    justify-content: center;
+    flex-direction: row;
     position: relative;
-    margin: 20% auto;
+    margin-top: 20px;
+}
+#input_box {
+    width: 600px;
+    height: 40px;
+    /* border-style: none; */
+    border-width: 1px;
+   border-color: #f7f7f7;   
+}
+#search_icon {
+    height: 46px;
+    width: 45px;
+    
+}
+
+#search_icon:hover {
+  background-image: url("../IMG/Search_hover.png");
+  height: 46px;
+  width: 45px;
+} 
+
+.homepage_text {
+    /* background-color: royalblue; */
+    text-align: center;
 
 }
 
-
+  
+ 
+  
+  
