@@ -1,0 +1,129 @@
+/*Fonts*/
+@font-face {
+  font-family: "ddg-serp-icons";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/ddg-serp-icons.woff") format("woff");
+}
+
+@font-face {
+  font-family: "ProximaNova";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/ProximaNova-Reg-webfont.woff") format("woff");
+}
+
+/*Global*/
+body {
+  background: #f7f7f7;
+  font-family: "ProximaNova";
+  color: #aaa;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+/*Header*/
+
+header nav{
+    float:right;
+    margin-top:12px;
+}
+
+header a{
+    text-decoration: none;
+}
+
+header li{
+    float:left;
+    display:inline;
+    padding: 5px 10px 0 10px;
+}
+
+#nav-statement, #nav-social-link{
+    padding-top:10px;
+}
+
+/*#nav-social-link div:hover{
+    color: #6d6d6d;
+}*/
+
+#nav-statement {
+    font-size: 95%;
+  }
+  
+#Privacy::after, #social-dropdown-menu::before {
+    /*font-size: 90%;*/
+    font-family: "ddg-serp-icons";
+    content: "\76";
+    color: #aaa;
+  }
+
+#navbar-twitter-icon::after{
+    font-family: "ddg-serp-icons";
+    content: "\74";
+    color: #aaa;
+    font-size:110%;
+}
+
+/*#menu-symbol span::after{
+    font-family: "ddg-serp-icons";
+    content: "\74";
+    color: #aaa;
+    font-size:110%;
+}*/
+
+#menu-symbol img{
+    width:15px;
+    margin:7px 6px 4px 6px;
+}
+
+#navbar-twitter-icon:hover::after,
+#nav-statement:hover,
+#Privacy:hover::after
+
+{
+    color:#6d6d6d;
+}
+
+#social-dropdown-menu:hover::before{
+    color:#6d6d6d;
+}
+
+#menu-symbol:hover{
+    margin:0;
+    background-color: #6d6d6d;
+}
+
+
+/*
+span::before {
+  font-family: "ddg-serp-icons";
+  speak: none;
+  content: "\74";
+  /*color: #6d6d6d;*/
+ /* color: #aaa;
+}
+span::after {
+  font-family: "ddg-serp-icons";
+  speak: none;
+  content: "\76";
+  /*color: #6d6d6d;*/
+ /* color: #aaa;
+}
+p span::before {
+  font-family: "ddg-serp-icons";
+  speak: none;
+  content: "\63";
+  /*color: #6d6d6d;*/
+ /* color: #aaa;
+}
+p span::after {
+  font-family: "ddg-serp-icons";
+  speak: none;
+  content: "\76";
+  /*color: #6d6d6d;*/
+/*  color: #aaa;
+}*/
