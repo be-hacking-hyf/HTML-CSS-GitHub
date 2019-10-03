@@ -135,11 +135,93 @@ opacity:1;
 #arrow {
     height: 28px;
     width: 28px;
-    top: 90%;
+    top: 83%;
     left: 50%;
     margin:-10px;
     position: absolute;
     background-color: black;
     border-radius: 100%;
 }
+
+/* Second Page */
+
+.secondpage {
+    height: 50%;
+    width: 100%;
+    border: 1px solid steelblue;
+    margin: 0 auto;
+    background-color:  #58b792;
+    text-align: center;
+    position: relative;
+    font: inherit;
+    font-size: 14px;
+    font-weight: 400;
+    vertical-align: baseline;
+    margin-top: 10%;
+}
+
+.secondpage h1 {
+    
+    width: 50%;
+    display: block;
+    margin: 25px auto;
+    margin-top: 100px;
+    /* border: 1px solid red; */
+    height: 100px;
+    font-size: 40px;
+    line-height: 50px;
+    text-align: center;
+    font-weight: 700;
+    color: #fff;
+    text-shadow: 0 1px 4px rgba(0,0,0,0.1);
+
+}
+.secondpage p {
+    width: 50%;
+    height: 70px;
+    /* border: 1px solid darkmagenta; */
+    margin: 10px auto;
+    text-align: center;
+    font-size: 22px;
+    line-height: 30px;
+    padding-top: .25em;
+    padding-bottom: .25em;
+    color: rgb(255, 255, 255);
+    text-shadow: 0 1px 4px rgba(0,0,0,0.25);
+}
+
+#secondpage_area{
+    width: 20%;
+    margin: 5px auto 0;
+    color:#fff;
+    background: rgba(0,0,0,0.4) !important;
+    font-size: 18px;
+    display: inline-block;
+    border-radius: 4px;
+    text-align: center;
+    position: relative;
+    text-shadow: 0 1px 1px rgba(255,255,255,0.1);
+    cursor: pointer;
+    white-space: nowrap;
+    padding: 12px 16px;
+    font-weight: 600;
+    box-sizing: content-box;
+    transition: all 0.5s ease-in-out;
+}
+#secondpage-area:hover{
+    background: rgba(0,0,0,0.6) !important;
+}
+#secondpage_image img {
+    position: relative;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    max-height: 100%;
+    height: 100%;
+    width: 50%;
+}
+
 
