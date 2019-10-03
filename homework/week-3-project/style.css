@@ -210,8 +210,6 @@ button:visited, a:active {
     color: #365374;
     font-size: 16px;
 }
-
-
 .searchbuttonturkuaz {
     height: 45px;
     width: 300px;
@@ -239,28 +237,25 @@ button:visited, a:active {
     padding-top: 120px;
     color: #365374;
 }
-
-ul {
+tr {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
+    color: #365374;
 }
 
-li {
+td {
     float: right;
    
 }
 
-li a {
+td a {
     display: block;
     text-decoration: none;
-}
-#backtosearch {
-    color: #365374;
     text-align: center;
-    
 }
+
 #line {
     padding-right: 10px;
     padding-left: 10px;
