@@ -1,0 +1,447 @@
+*{
+    margin: 0;
+    padding: 0%;
+    list-style: none;
+    box-sizing: border-box;
+    font-family: 'Lora', serif;
+}
+body{
+    width: 100%;
+    height: 1600px;
+    margin: 0 auto;
+    background-color: #f7f7f7;
+}
+header{
+    width: 100%;
+    height: 80px;
+    margin: 20px auto;
+}
+header ul li{
+    float: right;
+    position: relative;
+}
+
+.eleman{
+    display:block;
+    width:100px;
+    height:50px;
+    text-decoration:none;
+    text-align:center;
+    color: #a5a5a5;
+    line-height: 50px;
+    font-size: 10px;
+      
+ }
+header ul li ul{
+    display: none;
+    position: absolute;
+    
+}
+header ul li:hover #ooo{
+    width: 400%;
+    height: 550px;
+    display: inline-block;
+    top:47px;
+    right:60%;
+    transition: all 0.4s ease-in-out;
+    box-shadow: 0 2.5px 20px 0 rgba(0,0,0,0.15);
+    border-radius: 4px;
+    overflow: hidden;
+    min-width: 160px;
+}
+header ul li:hover #ooo li{
+    width: 100%;
+    height: 80px;
+    background-color: #f7f7f7;
+}
+header ul li:hover #ooo li:hover{
+    background-color:#ece8e8;
+    cursor: pointer;
+}
+header ul li:hover #ooo #p1 {
+    width: 20%;
+    height: 80px;
+    float: left;
+    background-image: url("https://duckduckgo.com/assets/icons/woman.svg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 50%;
+}
+header ul li:hover #ooo #p2 {
+    width: 20%;
+    height: 80px;
+    float: left;
+    background-image: url("https://duckduckgo.com/assets/icons/mailbox.svg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 50%;
+}
+header ul li:hover #ooo #p3 {
+    width: 20%;
+    height: 80px;
+    float: left;
+    background-image: url("https://duckduckgo.com/assets/icons/privacy-simplified.svg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 50%;
+}
+header ul li:hover #ooo #p4 {
+    width: 20%;
+    height: 80px;
+    float: left;
+    background-image: url("https://duckduckgo.com/assets/icons/spread.svg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 50%;
+}
+header ul li:hover #ooo #p5 {
+    width: 20%;
+    height: 80px;
+    float: left;
+    background-image: url("https://duckduckgo.com/assets/icons/donations.svg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 50%;
+}
+header ul li:hover #ooo #p6 {
+    width: 20%;
+    height: 80px;
+    float: left;
+    background-image: url("https://duckduckgo.com/assets/icons/traffic.svg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 50%;
+}
+header ul li:hover #ooo #p7 {
+    width: 20%;
+    height: 80px;
+    float: left;
+    background-image: url("https://duckduckgo.com/assets/icons/privacy-tips.svg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 50%;
+}
+header ul li:hover #ooo li .ilk{
+    width: 80%;
+    height: 40px;
+    font-size: 17px;
+    font-weight: normal;
+    color: #222;
+    text-align: left;
+    line-height: 50px;
+    float: left;
+}
+header ul li:hover #ooo li .ilk:hover {
+    text-decoration: underline;
+}
+header ul li:hover #ooo li .iki{
+    width: 80%;
+    height: 40px;
+    font-size: 14px;
+    line-height: 1.35;
+    text-align: left;
+    float: left;
+    padding: 3px 0 0 0;
+    color: #888;
+    
+}
+header ul li:hover #ooo li .üç{
+    width: 80%;
+    height: 80px;
+    font-size: 14px;
+    line-height: 1.35;
+    text-align: left;
+    float: left;
+    line-height: 80px;
+    color: #222;    
+}
+header ul li:hover #ooo li .üç:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+header ul li:hover #bbb{
+    width: 100%;
+    height: 120px;
+    display: inline-block;
+    top:47px;
+    transition: all 0.4s ease-in-out;
+    box-shadow: 0 2.5px 20px 0 rgba(0,0,0,0.15);
+    border-radius: 4px;
+    overflow: hidden;
+    min-width: 160px;
+}
+header ul li:hover #bbb li{
+    width: 100%;
+    height: 40px;
+    background-color: #f7f7f7;
+}
+header ul li:hover #bbb li:hover{
+    background-color:#ece8e8;
+    cursor: pointer;
+}
+header ul li:hover #bbb li .dört{
+    width: 80%;
+    height: 40px;
+    font-size: 12px;
+    line-height: 1.35;
+    text-align: left;
+    line-height: 40px;
+    float: left;
+    position: relative;
+    color: #666; 
+}
+header ul li:hover #bbb #p8 {
+    width: 20%;
+    height: 40px;
+    float: left;
+    background-image: url("https://duckduckgo.com/assets/icons/header/twitter-color.svg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 50%;
+}
+header ul li:hover #bbb #p9 {
+    width: 20%;
+    height: 40px;
+    float: left;
+    background-image: url("https://duckduckgo.com/assets/icons/header/reddit-color.svg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 50%;
+}
+header ul li:hover #bbb #p10 {
+    width: 20%;
+    height: 40px;
+    float: left;
+    background-image: url("https://duckduckgo.com/assets/icons/header/globe-alt.svg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 50%;
+}
+header ul li:hover #ccc{
+    width: 150%;
+    height: 800px;
+    display: inline-block;
+    top:47px;
+    right: 20%;
+    transition: all 0.4s ease-in-out;
+    box-shadow: 0 2.5px 20px 0 rgba(0,0,0,0.15);
+    border-radius: 4px;
+    overflow: hidden;
+    min-width: 160px;
+}
+header ul li:hover #ccc li{
+    width: 100%;
+    height: 120px;
+    background-color: #f7f7f7;
+}
+
+header ul li:hover #ccc li h4 {
+    width: 100%;
+    height: 40px;
+    text-transform: uppercase;
+    font-size: 0.55em;
+    color: #888;
+    margin-top: 5px;
+    text-transform: uppercase;
+}
+header ul li:hover #ccc li .beş {
+    color: #333;
+    padding: 0;
+    display: block;
+    font-size: 80%;
+}
+header ul li:hover #ccc li .beş:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+.visual{
+    width: 70%;
+    height: 500px;
+    margin: 20% auto 0 auto;
+}
+.logo{
+    max-width: 50%;
+    margin: 0 auto;
+    height: 200px;
+    margin: 0 auto;
+    background-image: url("https://duckduckgo.com/assets/logo_homepage.normal.v108.svg");
+    background-position: center center;
+    background-size: 50%;
+    background-repeat: no-repeat;
+}
+.search{
+    width: 50%;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 25%;
+    float: left;
+    
+}
+.search input{
+    width: 100%;
+    height: 50px;
+    font-size: 18px;
+    font-weight: 400;
+    
+}
+.button{
+    width: 50px;
+    height: 50px;
+    float: right;
+    margin-top: 20px;
+    margin-right:19%;
+    background-image: url("icons8-search-50.png");
+    background-position: center center;
+    background-size: 50%;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    margin-bottom: 30px;
+
+}
+.button:hover  {
+    background-color: #2ecc71;
+}
+.visual p{
+    height: 40px;
+    width: 60%;
+    clear: both;
+    margin: 0 auto;
+    text-align: center;
+    color: #9a9a9a;
+    font-size: 15px;
+}
+.visual p:visited{
+    color: #2ecc71;
+}
+.visual p a{
+    text-align: center;
+    font-size: 16px;
+    text-decoration: none;
+}
+#pic{
+    width: 50%;
+    height: 100px;
+    clear: both;
+    margin: 0 auto;
+    background-image: url("https://duckduckgo.com/assets/onboarding/bathroomguy/teaser-2@2x.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 20%;
+
+}
+
+#second-area{
+    height: 40%;
+    width: 100%;
+    margin: 0 auto;
+    background-color:  #58b792;
+    text-align: center;
+    position: relative;
+    font: inherit;
+    font-size: 12px;
+    font-weight: 400;
+    vertical-align: baseline;
+}
+#fixed{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: -90px;
+    z-index: 111;
+    left:48%;
+}
+#picarea {
+    display: block;
+    height: 50px;
+    width: 50px;
+    margin: 0 0 25px -25px;
+    bottom: 0;
+    background: rgba(34,34,34,0.35);
+    visibility: visible;
+    position: fixed;
+    z-index: 100;
+    left: 50%;
+    cursor: pointer;
+    background-size: 24px;
+    border-radius: 100%;
+
+}
+#picarea img {
+    height: 24px;
+    width: 24px;
+    top: 50%;
+    left: 50%;
+    margin: -12px;
+    position: absolute;
+    border: none;
+    max-width: 100%;
+}
+.header-two {
+    width: 40%;
+    display: block;
+    margin: 50px auto;
+    height: 100px;
+    font-size: 35px;
+    line-height: 50px;
+    text-align: center;
+    font-weight: 700;
+    color: #fff;
+    text-shadow: 0 1px 4px rgba(0,0,0,0.1);
+}
+.paragraph{
+    width: 45%;
+    height: 70px;
+    margin: 15px auto;
+    text-align: center;
+    font-size: 18px;
+    line-height: 30px;
+    padding-top: .25em;
+    padding-bottom: .25em;
+    color: rgb(255, 255, 255);
+    text-shadow: 0 1px 4px rgba(0,0,0,0.25);
+}
+#content-area{
+    width: 20%;
+    margin: 25px auto 0;
+    color:#fff;
+    background: rgba(0,0,0,0.4) !important;
+    font-size: 18px;
+    display: inline-block;
+    border-radius: 4px;
+    text-align: center;
+    position: relative;
+    text-shadow: 0 1px 1px rgba(255,255,255,0.1);
+    cursor: pointer;
+    white-space: nowrap;
+    padding: 12px 16px;
+    font-weight: 600;
+    box-sizing: content-box;
+    transition: all 0.5s ease-in-out;
+}
+#content-area:hover{
+    background: rgba(0,0,0,0.6) !important;
+}
+#image-area img {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    max-height: 100%;
+    width: 50%;
+}
+#third-area{
+    height: 40%;
+    width: 100%;
+    margin: 0 auto;
+    background-color: #f5a339;
+    text-align: center;
+    position: relative;
+    font: inherit;
+    font-size: 14px;
+    font-weight: 400;
+    vertical-align: baseline;
+}
