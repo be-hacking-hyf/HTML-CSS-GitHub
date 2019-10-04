@@ -1,15 +1,10 @@
-<h1 align="center">HackYourFuture Belgium</h1>
+<h1 align="center">ilhan's HackYourFuture Belgium Forked Page.</h1>
 
-<div align="center">
-  <a href="https://hackyourfuture.be" target="_blank">
-    <img src="https://user-images.githubusercontent.com/18554853/63941625-4c7c3d00-ca6c-11e9-9a76-8d5e3632fe70.jpg" width="250" height="250"/>
-  </a>
-</div>
 
 # Getting started
 
-> Welcome to your first training at HYF. Please read completely this file and make sure you understand everything.
-Happy learning 😁
+> Welcome to my homework assignment page. Please find my first three week project below.
+
 
 This repo contains all the materials for the module 1: `HTML, CSS`.  The homework, exercises, and study code are in the main repository for you to fork and complete, all the lesson plans and weekly information are [in the wiki](https://github.com/be-hacking-hyf/HTML-CSS-GitHub/wiki) and the slides from class are [right here](https://be-hacking-hyf.github.io/HTML-CSS-GitHub/slides/).
 
