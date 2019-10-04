@@ -1,3 +1,7 @@
+<p><strong>Week3 Project</strong></p>
+
+<a href="https://mert1980.github.io/HTML-CSS-GitHub/homework/week-1-project/5-up-to-you">DuckDuckGo Replicate Using Branches</a><br><br>
+
 <p><strong>Week2 Project</strong></p>
 
 <body>
