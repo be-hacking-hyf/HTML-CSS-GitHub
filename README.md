@@ -25,27 +25,27 @@
         <td>empty CSS file</td>
       </tr>
       <tr>
-        <td><a href="https://elifsancak.github.io/HTML-CSS-GitHub/homework/week-3-project/master/1-first-section.html/">1-first-section.html</a></td>
-        <td>a section structured like the top of DuckDuckGo</td>
-        <td>some styling to make it visually match DuckDuckGo</td>
+        <td><a href="https://elifsancak.github.io/HTML-CSS-GitHub/homework/week-3-project/1-first-section/">1-first-section.html</a></td>
+        <td></td>
+        <td></td>
       </tr>
       <tr>
-        <td><a href="./1-second-section/index.html">... know DuckDuckGo doesn't store personal data</a></td>
+        <td><a href="https://elifsancak.github.io/HTML-CSS-GitHub/homework/week-3-project/1-second-section/">1-second-section</a></td>
         <td>a section based off the second section of DuckDuckGo</td>
         <td>some styling to make it visually match DuckDuckGo</td>
       </tr>
       <tr>
-        <td><a href="./1-third-section/index.html">... be assured they won't be targeted for ads</a></td>
+        <td><a href="https://elifsancak.github.io/HTML-CSS-GitHub/homework/week-3-project/1-third-section/">1-third-section</a></td>
         <td>a section based off the third section of DuckDuckGo</td>
         <td>some styling to make it visually match DuckDuckGo</td>
       </tr>
       <tr>
-        <td><a href="./1-fourth-section/index.html">... be assured they won't be tracked</a></td>
+        <td><a href="https://elifsancak.github.io/HTML-CSS-GitHub/homework/week-3-project/1-fourth-section/">1-fourth-section</a></td>
         <td>a section based off the fourth section of DuckDuckGo</td>
         <td>some styling to make it visually match DuckDuckGo</td>
       </tr>
       <tr>
-        <td><a href="./1-fifth-section/index.html">... read the call to action</a></td>
+        <td><a href="https://elifsancak.github.io/HTML-CSS-GitHub/homework/week-3-project/1-fifth-section/">1-fifth-section</a></td>
         <td>a section based off the fifth section of DuckDuckGo</td>
         <td>some styling to make it visually match DuckDuckGo</td>
       </tr>
