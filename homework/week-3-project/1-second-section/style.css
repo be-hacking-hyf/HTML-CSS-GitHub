@@ -1,0 +1,70 @@
+body {
+    font-family: "DDG_ProximaNova", "DDG_ProximaNova_UI_0", "DDG_ProximaNova_UI_1", 
+    "DDG_ProximaNova_UI_2", "DDG_ProximaNova_UI_3", "DDG_ProximaNova_UI_4", "DDG_ProximaNova_UI_5",
+     "DDG_ProximaNova_UI_6", "Proxima Nova", "Helvetica Neue", "Helvetica", "Segoe UI", "Nimbus Sans L", 
+    "Liberation Sans", "Open Sans", FreeSans, Arial, sans-serif;
+    
+    
+    padding: 0;
+    margin: 0;
+    
+}
+.greenpage {
+    background-color: rgb(88, 183, 146);
+    height: 563px;
+    line-height: 23.0333px;
+    color: rgb(255, 255, 255);
+    font-size: 14.4px;
+}
+
+form{
+    
+    margin-top: 15px;
+    vertical-align: baseline;
+}
+input[type="search"]{
+    padding: 4px;
+    height: 35px;
+    width: 350px;
+}
+.searchbuttongreen {
+    height: 45px;
+    width: 300px;
+    background: rgba(34, 34, 34, 0.5);   
+    padding-left: 10px;
+    padding-right: 10px; 
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    border: none;
+}
+.containergreen {
+    width:80%;
+    margin: auto;
+    overflow: hidden;
+    text-align: center;
+}
+
+#duckimagegreen {
+    width: 600px;
+    height: 250px;
+    margin-left: 250px;
+    
+}
+.textgreen{
+    padding-top: 120px;
+    color: rgb(255, 255, 255);
+}
+button:hover {
+    color: rgb(255, 255, 255);
+    background: rgba(34, 34, 34, 0.8); 
+}
+button:link {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    
+}
+button:visited, a:active {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    
+}

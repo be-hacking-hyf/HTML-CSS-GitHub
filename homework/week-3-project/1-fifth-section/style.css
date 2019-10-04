@@ -1,0 +1,103 @@
+body {
+    font-family: "DDG_ProximaNova", "DDG_ProximaNova_UI_0", "DDG_ProximaNova_UI_1", 
+    "DDG_ProximaNova_UI_2", "DDG_ProximaNova_UI_3", "DDG_ProximaNova_UI_4", "DDG_ProximaNova_UI_5",
+     "DDG_ProximaNova_UI_6", "Proxima Nova", "Helvetica Neue", "Helvetica", "Segoe UI", "Nimbus Sans L", 
+    "Liberation Sans", "Open Sans", FreeSans, Arial, sans-serif;
+    
+    
+    padding: 0;
+    margin: 0;
+    
+}
+.turkuazpage {
+    background-color: rgb(135, 206, 245);
+    height: 563px;
+    line-height: 23.0333px;
+    color: #365374;
+    font-size: 16px;
+}
+
+form{
+    
+    margin-top: 15px;
+    vertical-align: baseline;
+}
+input[type="search"]{
+    padding: 4px;
+    height: 35px;
+    width: 350px;
+}
+.searchbuttonturkuaz {
+    height: 45px;
+    width: 300px;
+    background: rgba(34, 34, 34, 0.5);   
+    padding-left: 10px;
+    padding-right: 10px; 
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    border: none;
+}
+.containerturkuaz {
+    width:80%;
+    margin: auto;
+    overflow: hidden;
+    text-align: center;
+}
+
+#duckimageturkuaz {
+    width: 600px;
+    height: 250px;
+    margin-left: 250px;
+    
+}
+.textturkuaz{
+    padding-top: 120px;
+    color: #365374;
+}
+button:hover {
+    color: rgb(255, 255, 255);
+    background: rgba(34, 34, 34, 0.8); 
+}
+button:link {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    
+}
+button:visited, a:active {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    
+}
+tr {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    color: #365374;
+}
+
+td {
+    float: right;
+   
+}
+
+td a {
+    display: block;
+    text-decoration: none;
+    text-align: center;
+}
+
+#line {
+    padding-right: 10px;
+    padding-left: 10px;
+}
+#menuturkuaz{
+    margin-left:auto;
+    margin-right:auto; 
+    height: 30px;
+    width: 260px;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-top: 20px;
+    text-align: center;
+}
