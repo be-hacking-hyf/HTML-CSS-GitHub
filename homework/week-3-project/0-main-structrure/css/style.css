@@ -126,6 +126,7 @@ header li{
     box-shadow: 0 2px 3px rgba(0,0,0,0.06);
     padding: 0;
     vertical-align: baseline;
+    margin-bottom:100px;
 }
 
 #search-text{
@@ -175,6 +176,67 @@ header li{
     background-repeat: no-repeat;
     background-size: 100%;
 }
+
+/*Sections*/
+
+.container{
+    display: block;
+    position: relative;
+    /*margin:auto;*/
+    overflow:hidden;
+}
+.container h1{
+color:#ffffff;
+font-size:35px;
+font-weight: 1000;
+margin-top:60px;
+}
+
+.container p{
+    color:#ffffff;
+    font-size:20px;
+    }
+
+#section-personal-info{
+    background-color: #58b792;
+}
+
+.box{
+    max-width: 600px;
+    margin:auto;
+    text-align: center;
+}
+
+.button {
+    font-size: 16px;
+    text-decoration: none; 
+    font-weight: 600;
+    border:none;
+    color: white; 
+    margin: 4px 2px;
+    padding: 10px 10px;
+    text-align: center;
+    vertical-align: middle;
+    /*display: inline-block;*/
+    
+    -webkit-transition-duration: 0.4s; /* Safari: source: I got this from w3school */
+    transition-duration: 0.4s;
+    /*cursor: pointer;*/
+    border-radius: 4px;
+  }
+
+.button-install{
+    background-color: #39755e;
+}
+  
+  .button:hover {
+    background-color: #264e3f;
+  }
+  .box img{
+      margin:auto;
+      margin-top:50px;
+      width:100%;
+  }
 
 /*
 span::before {
