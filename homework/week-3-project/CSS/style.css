@@ -2,6 +2,7 @@ body {
     background-color: #f7f7f7;
     font-family: "Montserrat", "sans-serif";
     color: #9a9a9a;
+    height: auto;
 
 }
 
@@ -96,6 +97,10 @@ li {
    border-color: #f7f7f7;   
 }
 #search_icon {
+    background-image:url("../IMG/Search_icon.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 100%;
     height: 46px;
     width: 45px;
     
@@ -239,7 +244,7 @@ opacity:1;
     font-size: 14px;
     font-weight: 400;
     vertical-align: baseline;
-    margin-top: 10%;
+    /* margin-top: 10%; */
 }
 
 .thirdpage h1 {
@@ -320,7 +325,7 @@ opacity:1;
     font-size: 14px;
     font-weight: 400;
     vertical-align: baseline;
-    margin-top: 10%;
+    /* margin-top: 10%; */
 }
 
 .fourthpage h1 {
@@ -390,7 +395,7 @@ opacity:1;
 /* Fifth Page */
 
 .fifthpage {
-    height: 50%;
+    height: 60%;
     width: 100%;
     border: 1px solid steelblue;
     margin: 0 auto;
@@ -401,7 +406,7 @@ opacity:1;
     font-size: 14px;
     font-weight: 400;
     vertical-align: baseline;
-    margin-top: 10%;
+    /* margin-top: 10%; */
 }
 
 .fifthpage h1 {
