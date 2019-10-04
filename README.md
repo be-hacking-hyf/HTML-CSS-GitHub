@@ -1,4 +1,5 @@
-<p><strong>Week3 Project</strong></p>
+<h1><strong>Week3 Project</strong></h1>
+<p>Please follow the link below to see the final version of my Week3 project</p> 
 
 <a href="https://mert1980.github.io/HTML-CSS-GitHub/homework/week-3-project/home.html">Replicated DuckDuckGo Using Branches</a><br><br>
 
