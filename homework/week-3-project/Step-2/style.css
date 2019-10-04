@@ -1,0 +1,257 @@
+*{
+    margin: 0;
+    padding: 0%;
+    list-style: none;
+    box-sizing: border-box;
+    font-family: 'Lora', serif;
+}
+body{
+    width: 100%;
+    height: 1600px;
+    margin: 0 auto;
+    background-color: #f7f7f7;
+}
+header{
+    width: 100%;
+    height: 80px;
+    margin: 20px auto;
+}
+header ul li{
+    float: right;
+    position: relative;
+}
+
+.eleman{
+    display:block;
+    width:100px;
+    height:50px;
+    text-decoration:none;
+    text-align:center;
+    color: #a5a5a5;
+    line-height: 50px;
+    font-size: 10px;
+      
+ }
+header ul li ul{
+    display: none;
+    position: absolute;
+    
+}
+header ul li:hover #ooo{
+    width: 400%;
+    height: 550px;
+    display: inline-block;
+    top:47px;
+    right:60%;
+    transition: all 0.4s ease-in-out;
+    box-shadow: 0 2.5px 20px 0 rgba(0,0,0,0.15);
+    border-radius: 4px;
+    overflow: hidden;
+    min-width: 160px;
+}
+header ul li:hover #ooo li{
+    width: 100%;
+    height: 80px;
+    background-color: #f7f7f7;
+}
+header ul li:hover #ooo li:hover{
+    background-color:#ece8e8;
+    cursor: pointer;
+}
+header ul li:hover #ooo #p1 {
+    width: 20%;
+    height: 80px;
+    float: left;
+    background-image: url("https://duckduckgo.com/assets/icons/woman.svg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 50%;
+}
+header ul li:hover #ooo #p2 {
+    width: 20%;
+    height: 80px;
+    float: left;
+    background-image: url("https://duckduckgo.com/assets/icons/mailbox.svg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 50%;
+}
+header ul li:hover #ooo #p3 {
+    width: 20%;
+    height: 80px;
+    float: left;
+    background-image: url("https://duckduckgo.com/assets/icons/privacy-simplified.svg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 50%;
+}
+header ul li:hover #ooo #p4 {
+    width: 20%;
+    height: 80px;
+    float: left;
+    background-image: url("https://duckduckgo.com/assets/icons/spread.svg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 50%;
+}
+header ul li:hover #ooo #p5 {
+    width: 20%;
+    height: 80px;
+    float: left;
+    background-image: url("https://duckduckgo.com/assets/icons/donations.svg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 50%;
+}
+header ul li:hover #ooo #p6 {
+    width: 20%;
+    height: 80px;
+    float: left;
+    background-image: url("https://duckduckgo.com/assets/icons/traffic.svg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 50%;
+}
+header ul li:hover #ooo #p7 {
+    width: 20%;
+    height: 80px;
+    float: left;
+    background-image: url("https://duckduckgo.com/assets/icons/privacy-tips.svg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 50%;
+}
+header ul li:hover #ooo li .ilk{
+    width: 80%;
+    height: 40px;
+    font-size: 17px;
+    font-weight: normal;
+    color: #222;
+    text-align: left;
+    line-height: 50px;
+    float: left;
+}
+header ul li:hover #ooo li .ilk:hover {
+    text-decoration: underline;
+}
+header ul li:hover #ooo li .iki{
+    width: 80%;
+    height: 40px;
+    font-size: 14px;
+    line-height: 1.35;
+    text-align: left;
+    float: left;
+    padding: 3px 0 0 0;
+    color: #888;
+    
+}
+header ul li:hover #ooo li .üç{
+    width: 80%;
+    height: 80px;
+    font-size: 14px;
+    line-height: 1.35;
+    text-align: left;
+    float: left;
+    line-height: 80px;
+    color: #222;    
+}
+header ul li:hover #ooo li .üç:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+header ul li:hover #bbb{
+    width: 100%;
+    height: 120px;
+    display: inline-block;
+    top:47px;
+    transition: all 0.4s ease-in-out;
+    box-shadow: 0 2.5px 20px 0 rgba(0,0,0,0.15);
+    border-radius: 4px;
+    overflow: hidden;
+    min-width: 160px;
+}
+header ul li:hover #bbb li{
+    width: 100%;
+    height: 40px;
+    background-color: #f7f7f7;
+}
+header ul li:hover #bbb li:hover{
+    background-color:#ece8e8;
+    cursor: pointer;
+}
+header ul li:hover #bbb li .dört{
+    width: 80%;
+    height: 40px;
+    font-size: 12px;
+    line-height: 1.35;
+    text-align: left;
+    line-height: 40px;
+    float: left;
+    position: relative;
+    color: #666; 
+}
+header ul li:hover #bbb #p8 {
+    width: 20%;
+    height: 40px;
+    float: left;
+    background-image: url("https://duckduckgo.com/assets/icons/header/twitter-color.svg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 50%;
+}
+header ul li:hover #bbb #p9 {
+    width: 20%;
+    height: 40px;
+    float: left;
+    background-image: url("https://duckduckgo.com/assets/icons/header/reddit-color.svg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 50%;
+}
+header ul li:hover #bbb #p10 {
+    width: 20%;
+    height: 40px;
+    float: left;
+    background-image: url("https://duckduckgo.com/assets/icons/header/globe-alt.svg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 50%;
+}
+header ul li:hover #ccc{
+    width: 150%;
+    height: 800px;
+    display: inline-block;
+    top:47px;
+    right: 20%;
+    transition: all 0.4s ease-in-out;
+    box-shadow: 0 2.5px 20px 0 rgba(0,0,0,0.15);
+    border-radius: 4px;
+    overflow: hidden;
+    min-width: 160px;
+}
+header ul li:hover #ccc li{
+    width: 100%;
+    height: 120px;
+    background-color: #f7f7f7;
+}
+
+header ul li:hover #ccc li h4 {
+    width: 100%;
+    height: 40px;
+    text-transform: uppercase;
+    font-size: 0.55em;
+    color: #888;
+    margin-top: 5px;
+    text-transform: uppercase;
+}
+header ul li:hover #ccc li .beş {
+    color: #333;
+    padding: 0;
+    display: block;
+    font-size: 80%;
+}
+header ul li:hover #ccc li .beş:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
