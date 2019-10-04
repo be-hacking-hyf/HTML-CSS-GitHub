@@ -1,0 +1,17 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: rgb(203, 233, 203);
+}
+
+a{
+    color: rgb(255, 255, 255);
+    background-color: rgb(41, 116, 58);
+    padding:5px 10px 5px 10px;
+    border-radius: 6px;
+    text-decoration: none;
+    
+}
+
+a:hover{
+    background-color: rgb(31, 87, 44);
+}

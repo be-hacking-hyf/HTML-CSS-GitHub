@@ -126,7 +126,7 @@ header li{
     box-shadow: 0 2px 3px rgba(0,0,0,0.06);
     padding: 0;
     vertical-align: baseline;
-    margin-bottom:100px;
+    
 }
 
 #search-text{
@@ -139,6 +139,20 @@ header li{
     border: none;
     padding: 0;
     height: 2.545455em;
+}
+
+#search-box-description{
+    margin-bottom:200px;
+    color: #6d6d6d;
+    font-size: 18px;
+}
+
+#search-box-description a{
+    color:rgb(27, 131, 228);
+    text-decoration: none;
+}
+#search-box-description a:hover{
+    text-decoration-line: underline;
 }
 
 #search-button{
@@ -187,7 +201,7 @@ header li{
 }
 .container h1{
 color:#ffffff;
-font-size:35px;
+font-size:40px;
 font-weight: 1000;
 margin-top:60px;
 }
