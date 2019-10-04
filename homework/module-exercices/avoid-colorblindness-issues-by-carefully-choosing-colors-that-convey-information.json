@@ -1,0 +1,1 @@
+{"index.html":"<head>\n  <style>\n  button {\n    color: #003366;\n    background-color: #FFFF33;\n    font-size: 14px;\n    padding: 10px;\n  }\n  </style>\n</head>\n<body>\n  <header>\n    <h1>Danger!</h1>\n  </header>\n  <button>Delete Internet</button>\n</body>"}
