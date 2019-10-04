@@ -347,9 +347,9 @@ header ul li:hover #ccc li .beş:hover {
     width: 40px;
     height: 40px;
     position: absolute;
-    top: -90px;
+    top: -140px;
     z-index: 111;
-    left:48%;
+    left:48.5%;
 }
 #picarea {
     display: block;
