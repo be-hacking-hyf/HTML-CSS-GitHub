@@ -98,6 +98,84 @@ header li{
 }
 
 
+/*Search*/
+
+.logo-wrap-home {
+    display: block;
+    min-width: 300px;
+    min-height: 200px;
+    margin: auto;
+    margin-bottom: .8em;
+    margin-top: -0.5em;
+    padding-top:120px;
+    padding-bottom: 20px;
+}
+.search-wrap-home{
+    display: block;
+    margin: auto;
+}
+
+#form-search{
+    margin:auto;
+    max-width:40%;
+    font-size: 1.14em;
+    position: relative;
+    height: 2.5em;
+    background-color: #fff;
+    border: 1px solid rgba(0,0,0,0.15);
+    box-shadow: 0 2px 3px rgba(0,0,0,0.06);
+    padding: 0;
+    vertical-align: baseline;
+}
+
+#search-text{
+    font-size: 1.1em;
+    font-weight: normal;
+    display: block;
+    width: 100%;
+    background: none;
+    outline: none;
+    border: none;
+    padding: 0;
+    height: 2.545455em;
+}
+
+#search-button{
+    width: 20px;
+    height: 2.545455em;
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: auto;
+    margin: auto;
+    padding-inline-start: 15px;
+
+    background-image: url(../img/magnifying-glass.svg);
+    background-position: 70% 50%;
+    background-repeat: no-repeat;
+    background-size: 80%;
+
+}
+
+#search-button:hover{
+    background-color: rgb(55, 158, 86);
+    background-image: url(../img/magnifying-glass-w.png);
+}
+
+#logo_home_link {
+    width: 205px;
+    height: 200px;
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    background-image: url(../img/logo_homepage.normal.v108.svg);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
 /*
 span::before {
   font-family: "ddg-serp-icons";
