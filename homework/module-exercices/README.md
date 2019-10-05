@@ -27,13 +27,13 @@ Please [__See my Live Demos__](https://ikoral.github.io/HTML-CSS-GitHub/homework
 1. [Add an Accessible Date Picker](./13-add-date-picker.html)
 1. [Standardize Times with the HTML5 datetime Attribute](./14-standardize-times.html)
 1. [Make Elements Only Visible to a Screen Reader by Using Custom CSS](./15-only-screen-reader-with-css.html)
-1. [Improve Readability with High Contrast Text](/.16-high-contrast-text.html)
-1. [Avoid Colorblindness Issues by Using Sufficient Contrast](/.17-avoid-color-blindess.html)
-1. [Avoid Colorblindness Issues by Carefully Choosing Colors that Convey Information](/.18-avoid-colorblind-chose-carefully-color.html)
-1. [Give Links Meaning by Using Descriptive Link Text](/.19-meaningful-link-name.html)
-1. [Make Links Navigatable with HTML Access Keys](/.20-give-accesskey.html)
-1. [Use tabindex to Add Keyboard Focus to an Element](/.21-use-tabindex.html)
-1. [Use tabindex to Specify the Order of Keyboard Focus for Several Elements](/.22-tabindex-order.html)
+1. [Improve Readability with High Contrast Text](./16-high-contrast-text.html)
+1. [Avoid Colorblindness Issues by Using Sufficient Contrast](./17-avoid-color-blindess.html)
+1. [Avoid Colorblindness Issues by Carefully Choosing Colors that Convey Information](./18-avoid-colorblind-chose-carefully-color.html)
+1. [Give Links Meaning by Using Descriptive Link Text](./19-meaningful-link-name.html)
+1. [Make Links Navigatable with HTML Access Keys](./20-give-accesskey.html)
+1. [Use tabindex to Add Keyboard Focus to an Element](./21-use-tabindex.html)
+1. [Use tabindex to Specify the Order of Keyboard Focus for Several Elements](./22-tabindex-order.html)
 
 ---
 ---
