@@ -1,22 +1,17 @@
-## HTML & CSS Exercises
+## HTML & CSS Exercises (ilhan koral)
 
-This folder is for your Module 1 exercises, which are all due at the end of the module.  We won't be checking your exercises every week but that doesn't mean you shouldn't be working on them every week!  It'll be a lot more work to finish all of this in 2 days than 3 weeks.
+This folder contains my Module 1 exercises, which I add HTML code and also styled as I like. I added particular code inside a dive which has class name "box". Because my own pages has header, time to time I intentionally ommit header element if challange has header element.
 
-But what's this all about with exercises?  Isn't a weekly project enough?  Not it's not!  The weekly project will help you learn to plan and build whole projects, but that's not the same thing as practicing all the little skills it takes to get there.
+Moreover you may want to check my **freeCodeCamp public profile** [right here](https://www.freecodecamp.org/ilhankoral).
 
-For this module, we expect you to complete the [Applied Accessiblity](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility) lessons from FreeCodeCamp then to copy your solutions into this folder.  We've completed the first exercise so you can see how we expect you to submit solutions.
-
-You can read more about Applied Accessibility [right here](https://guide.freecodecamp.org/accessibility).
+You can check my pages here and also please click below link ("See my Live Demos") to see live pages. 
 
 ---
 
 ### Live Demos
 
-Along with completing each example, we'd like you to put each one as a live web page on GitHub pages.  This will help us grade it, and help you see how much you've built so far!
+[__See my Live Demos__](https://ikoral.github.io/HTML-CSS-GitHub/homework/module-exercises):
 
-We've set up the first completed exercise as an example for you to see how this works. (ps. this will only run if you turn on GitHub pages for your repo!)
-
-[__See my Live Demos__](https://your user name.github.io/HTML-CSS-GitHub/homework/module-exercises):
 1. [Add an Accessible Date Picker](./1-add-an-accessible-date-picker.html)
 1. [Add a Text Alternative to Images for Visually Impaired Accessibility](fill this in!)
 1.
