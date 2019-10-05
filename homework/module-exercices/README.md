@@ -10,7 +10,7 @@ You can check my pages here and also please click below link ("See my Live Demos
 
 ### Live Demos
 
-[__See my Live Demos__](https://ikoral.github.io/HTML-CSS-GitHub/homework/module-exercises):
+[__See my Live Demos__](https://ikoral.github.io/HTML-CSS-GitHub/homework/module-exercices):
 
 1. [Add an Accessible Date Picker](./1-add-an-accessible-date-picker.html)
 1. [Add a Text Alternative to Images for Visually Impaired Accessibility](fill this in!)
