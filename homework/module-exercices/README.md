@@ -2,7 +2,7 @@
 
 This folder contains my Module 1 exercises, which I add HTML code and also styled as I like. I added particular code inside a dive which has class name "box". Because my own pages has header, time to time I intentionally ommit header element if challange has header element.
 
-Moreover you may want to check my ***freeCodeCamp public profile*** [right here](https://www.freecodecamp.org/ilhankoral).
+Moreover you may want to check my ***freeCodeCamp public profile*** **[right here](https://www.freecodecamp.org/ilhankoral)**.
 
 You can check my pages here and also please click below link ("See my Live Demos") to see live pages. 
 
