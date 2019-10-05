@@ -10,7 +10,7 @@ You can check my pages here and also please click below link ("See my Live Demos
 
 ### Live Demos
 
-[__See my Live Demos__](https://ikoral.github.io/HTML-CSS-GitHub/homework/module-exercices):
+Please [__See my Live Demos__](https://ikoral.github.io/HTML-CSS-GitHub/homework/module-exercices):
 
 1. [Add a Text Alternative to Images for Visually Impaired Accessibility](./01-add-a-text-alternative.html)
 1. [Know When Alt Text Should be Left Blank](./02-alt-text-should-be-left.html)
@@ -38,4 +38,4 @@ You can check my pages here and also please click below link ("See my Live Demos
 
 ---
 ---
-### <a href="https://hackyourfuture.be" target="_blank"><img src="https://user-images.githubusercontent.com/18554853/63941625-4c7c3d00-ca6c-11e9-9a76-8d5e3632fe70.jpg" width="100" height="100" alt="Hack Your Future: Belgium"></img></a>
+### <a href="https://hackyourfuture.be" target="_blank"><img src="https://user-images.githubusercontent.com/18554853/63941625-4c7c3d00-ca6c-11e9-9a76-8d5e3632fe70.jpg" width="100" height="100" alt="Hack Your Future: Belgium"></a>
