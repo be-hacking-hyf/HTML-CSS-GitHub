@@ -25,17 +25,16 @@ You can check my pages here and also please click below link ("See my Live Demos
 1. [Improve Form Field Accessibility with the label Element](./11-improve-form-with-label-using-for.html)
 1. [Wrap Radio Buttons in a fieldset Element for Better Accessibility](./12-wrap-radio-with-fieldset.html)
 1. [Add an Accessible Date Picker](./13-add-date-picker.html)
-1. [Standardize Times with the HTML5 datetime Attribute](./)
-1. [Make Elements Only Visible to a Screen Reader by Using Custom CSS](./)
-1. [Improve Readability with High Contrast Text](/.)
-1. [Avoid Colorblindness Issues by Using Sufficient Contrast](/.)
-1. [Avoid Colorblindness Issues by Carefully Choosing Colors that Convey Information](/.)
-1. [Give Links Meaning by Using Descriptive Link Text](/.)
-1. [Make Links Navigatable with HTML Access Keys](/.)
-1. [Use tabindex to Add Keyboard Focus to an Element](/.)
-1. [Use tabindex to Specify the Order of Keyboard Focus for Several Elements](/.)
-
+1. [Standardize Times with the HTML5 datetime Attribute](./14-standardize-times.html)
+1. [Make Elements Only Visible to a Screen Reader by Using Custom CSS](./15-only-screen-reader-with-css.html)
+1. [Improve Readability with High Contrast Text](/.16-high-contrast-text.html)
+1. [Avoid Colorblindness Issues by Using Sufficient Contrast](/.17-avoid-color-blindess.html)
+1. [Avoid Colorblindness Issues by Carefully Choosing Colors that Convey Information](/.18-avoid-colorblind-chose-carefully-color.html)
+1. [Give Links Meaning by Using Descriptive Link Text](/.19-meaningful-link-name.html)
+1. [Make Links Navigatable with HTML Access Keys](/.20-give-accesskey.html)
+1. [Use tabindex to Add Keyboard Focus to an Element](/.21-use-tabindex.html)
+1. [Use tabindex to Specify the Order of Keyboard Focus for Several Elements](/.22-tabindex-order.html)
 
 ---
 ---
-### <a href="https://hackyourfuture.be" target="_blank"><img src="https://user-images.githubusercontent.com/18554853/63941625-4c7c3d00-ca6c-11e9-9a76-8d5e3632fe70.jpg" width="100" height="100" alt="Hack Your Future: Belgium"></img></a>
+### <a href="https://hackyourfuture.be" target="_blank"><img src="https://user-images.githubusercontent.com/18554853/63941625-4c7c3d00-ca6c-11e9-9a76-8d5e3632fe70.jpg" width="100" height="100" alt="Hack Your Future: Belgium"></a>
