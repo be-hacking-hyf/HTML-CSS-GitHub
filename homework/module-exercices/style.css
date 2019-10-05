@@ -1,0 +1,47 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(224, 235, 207);
+    margin:0;
+}
+.container{
+    display: block;
+    overflow: hidden;
+    margin:0;
+}
+
+.box{
+    max-width:600px;
+    text-align: justify;
+    margin: auto;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+#header{
+    background-color: darkslategray;
+    min-height: 100px; 
+    color: #ffffff;
+}
+#header span{
+    color:rgb(185, 184, 184);
+    font-size: 0.8em;
+}
+#challenge-name{
+    color:rgb(130, 0, 80);
+}
+#header-content{
+    text-align: center;
+}
+
+@media (max-width:768px){
+    .box{
+        max-width:400px;
+        text-align: justify;
+        margin: auto;
+        margin-top:10px;
+        padding: 20px;
+    }
+    body{
+        font-size: 0.8em;
+    }
+}

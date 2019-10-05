@@ -1,0 +1,208 @@
+body {
+    color:#2c3e50;
+    background:#ecf0f1;
+    padding: 0 1em 1em;
+    font-family:'Dosis', sans-serif;
+}
+
+h1, h2{
+    font-family: 'Noto Sans TC', sans-serif;
+  }
+
+  main h3{
+      text-align:center;
+  }
+
+/*Class Selectors*/
+
+.row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start; /*Vertical align box inside row. Check your notes*/
+    justify-content:center;
+    width: 100%;
+  
+    /*background-repeat: no-repeat;
+    background-size:cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;*/
+  }
+
+/***********************************************************************
+****Just in case I added different size columns, I might use them*******
+************************************************************************/
+
+  .col-15{
+    flex:15%;
+    max-width:15%;
+    padding:10px;
+  }
+  .col-25{
+    flex:25%;
+    max-width:25%;
+  }
+  
+  .col-35{
+    flex:35%;
+    max-width:35%;
+    padding:10px;
+  }
+  
+  .col-50{
+    flex:40%;
+    max-width:40%;
+  }
+  .col-100{
+    flex:100%;
+    max-width:100%;
+  }
+  
+/* Below TicTacToe rules will be showed when only user check the checkbox.
+Some cosmetic change may be applied here later on*/
+
+/* Whole Accordion */
+.accordion {
+    position: relative;
+    margin: 2px;
+    max-width: 50vw;
+  }
+
+/* I try to change checkbox because it could be better.*/
+
+/*********************************************************************
+Repeat and read again W3SCHOOL Pseudo-Class and Pseudo-Element Section
+*********************************************************************/
+  
+  /* only checkbox-label*/
+  .accordion input {
+    display: none; /*regular checkbox will not be visible*/
+  }
+  .accordion label {
+    display: block;
+    background: #2c3e50;
+    color: #fff;
+    font-weight: bold;
+    padding: 10px;
+    cursor: pointer;
+  }
+  .accordion label::after {
+    content: "\25b6"; /*ASCII code, ths is small arrow*/
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    display: block;
+    transition: all 0.6s;
+  }
+  .accordion input[type=checkbox]:checked + label::after {
+    transform: rotate(90deg); /*Always start counter clock (first right)*/
+  }
+  
+  /* Description itself */
+  .accordion_content {
+    overflow: hidden; /*key line is here Be careful, Game Rules still there but overflow closed.*/
+    background: #ccdef9;
+    transition: max-height 0.6s; 
+    max-height: 0;
+  }
+  .accordion_content p {
+    margin: 20px;
+  }
+  .accordion_content img{
+      width: 90%;
+      padding-left: 10px;
+  }
+
+  .accordion input:checked ~ .accordion_content {
+    max-height: 100vh; /*suddenly we change height then it will be visible because overflow now open*/
+  }
+
+  .board_square:hover{
+    background:rgba(37, 19, 87, 0.7);
+	border-radius:3px;
+}
+  
+  /*TicTacToe board*/
+@media (min-width:900px) {
+
+    
+    .board-frame {
+        overflow:hidden;
+        margin:2rem 0 0 35vw;
+        width:100vw;
+        vertical-align: center;
+    }
+
+    .board {
+        float:left;
+        position:relative;
+    }
+
+    .board-inner {
+        width: 30vw;
+        height:30vw;
+    }
+    
+    /*board_square I thought flex is the best. But also another way possible. I tried to
+    get away from table as advised in many code school.*/
+    .board_square {
+        float:left;
+        display:flex;
+        padding:1px;
+        width:9vw;
+        height:9vw;
+        justify-content:center;
+        align-items:center;
+        background:#2c3e50;
+        background-clip:content-box;
+    }
+
+}
+
+@media screen and (max-width:900px) {
+
+    .accordion {
+        position: relative;
+        margin: 2px;
+        max-width: 70vw;
+      }
+
+      .accordion label{
+          font-size: 90%;
+      }
+    
+    .board-frame {
+        overflow:hidden;
+        margin:2rem 0 0 22vw;
+        width:100vw;
+        vertical-align: center;
+        text-align: center;
+    }
+
+    .board {
+        float:left;
+        position:relative;
+        vertical-align: center;
+    }
+
+    .board-inner {
+        width: 50vw;
+        height:50vw;
+    }
+    
+    /*board_square I thought flex is the best. But also another way possible. I tried to
+    get away from table as advised in many code school.*/
+    .board_square {
+        float:left;
+        display:flex;
+        padding:1px;
+        width:16vw;
+        height:16vw;
+        justify-content:center;
+        align-items:center;
+        background:#2c3e50;
+        background-clip:content-box;
+    }
+
+}
