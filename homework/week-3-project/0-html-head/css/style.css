@@ -1,0 +1,181 @@
+body,
+input,
+select,
+texarea{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #222;
+}
+
+body{
+    background-color: #fff;
+    line-height: 1.6;
+    overflow: hidden;
+    height: auto;
+    position: relative;
+}
+
+html, body{
+    height: 100%;
+    min-height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+div{
+    display: block;
+}
+
+a {
+    font-family: inherit;
+    text-decoration: none;
+}
+
+input{
+    text-align: start;
+    cursor: text;
+    margin: 0em;
+    font: 400 13.3333px Arial;
+}
+
+.body--home, .site-wrapper--home{
+    background: #f7f7f7;
+}
+.site-wrapper--home{
+    background: #f7f7f7;
+}
+
+.site-wrapper{
+    width: 100%;
+    overflow:hidden
+}
+
+.site-wrapper--home:before{
+    display:none
+}
+
+.header--aside{
+    display: block;
+    margin: 22px auto auto 16px;
+    height:44px;
+    right: 7px;
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    z-index: 199;
+}
+
+.header__button--menu{
+    color:#a5a5a5;
+    margin-left: 20px;
+    display:block;
+    float: right;
+    top: 1px;
+    z-index: 10;
+    }
+
+.header--aside__twitter{
+    font-size:  20px;
+    margin-left: 25px;
+}
+
+.header--aside__item{
+    height: 39px;
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    white-space: nowrap;
+    z-index: 1;
+    line-height: 37px;
+}
+
+.content-wrap--home{
+    position: absolute;
+    margin: auto;
+    width: 100%;
+    top: 24%;
+    left: 0;
+    right: 0;
+    z-index: 12;
+}
+
+.cw--c{
+    margin-left: auto;
+    position: relative;
+    padding: 0 7px;
+    max-width: 1270px;
+    margin-right: auto;
+}
+
+.logo-wrap--home{
+    position: relative;
+    display: block;
+    max-width: 300px;
+    margin: auto;
+    margin-bottom: .8em;
+    margin-top: -1.25em;
+}
+
+.logo_homepage{
+    width: 205px;
+    height: 200px;
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    background-image: url(https://duckduckgo.com/assets/logo_homepage.normal.v108.svg);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.search-wrap--home{
+    paddding: 1.3em .8em 1em;
+    max-width: 590px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    float: none;
+    width:70%;
+}
+
+#search_form_homepage{
+    font-size: 1.14em;
+    padding-right: 3.5em;
+    box-sizing: border-box;
+    border-radius: 4px;
+    display: block;
+    position: relative;
+    height: 2.8em;
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.06);
+    padding-left: .75em;
+}
+
+#search_form_input_homepage{
+    font-size: 1.1em;
+    display: block;
+    width: 100%;
+    border: none;
+    padding: 0;
+    height: 2.545455em;
+    z-index: 1;
+    position: relative;
+    top: -1px;
+}
+
+#search_button_homepage{
+    border-radius: 0 4px 4px 0;
+    min-width: 26px;
+    color: #999;
+    font-size:1.25em;
+    padding: 0 .64em;
+    height: auto;
+    min-height: 1.8em;
+    margin-top: -1px;
+    margin-bottom: -1px;
+    margin-right: -3px;
+    ilne-height: 1.5em;
+    background-color: transparent;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+}
