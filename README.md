@@ -25,7 +25,7 @@
         <td>empty CSS file</td>
       </tr>
       <tr>
-        <td><a href="https://elifsancak.github.io/HTML-CSS-GitHub/homework/week-3-project/1-first-section/">1-first-section.html</a></td>
+        <td><a href="https://elifsancak.github.io/HTML-CSS-GitHub/homework/week-3-project/1-first-section/index.html">1-first-section.html</a></td>
         <td></td>
         <td></td>
       </tr>
