@@ -1,0 +1,39 @@
+.lastpage {
+    background-color: rgb(135, 206, 245);
+    height: 563px;
+    line-height: 23.0333px;
+    color: #365374;
+    font-size: 16px;
+}
+
+
+.search_button {
+    height: 45px;
+    width: 300px;
+    background: rgba(34, 34, 34, 0.5);   
+    padding-left: 10px;
+    padding-right: 10px; 
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    border: none;
+}
+.lastcontainer {
+    width:80%;
+    margin: auto;
+    overflow: hidden;
+    text-align: center;
+}
+
+#duckimage {
+    width: 600px;
+    height: 250px;
+    margin-left: 250px;
+    
+}
+.lasttext{
+    padding-top: 120px;
+    color: #365374;
+}
+
+
+
