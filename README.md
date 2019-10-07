@@ -10,9 +10,6 @@
 </head>
 
 <body>
-  
-  <h1><strong>Week3 Project</strong></h1>
-<p>Week 3 project</p> 
 
 <a href="https://elifsancak.github.io/HTML-CSS-GitHub/homework/week-3-project/index.html">DuckDuckGo Website and Branches</a><br>
 ## HTML-CSS-GitHub - Elif Sancak
