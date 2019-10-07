@@ -1,0 +1,65 @@
+body {
+    font-family: "DDG_ProximaNova","DDG_ProximaNova_UI_0","DDG_ProximaNova_UI_1","DDG_ProximaNova_UI_2","DDG_ProximaNova_UI_3","DDG_ProximaNova_UI_4","DDG_ProximaNova_UI_5","DDG_ProximaNova_UI_6","Proxima Nova","Helvetica Neue","Helvetica","Segoe UI","Nimbus Sans L","Liberation Sans","Open Sans",FreeSans,Arial,sans-serif;
+    color: #222;
+    
+    
+    padding: 0;
+    margin: 0;
+    
+}
+.page1 {
+    background-color: #f7f7f7;
+    height: 563px;
+    width: auto;
+    color: #aaaaaa;
+    font-size: 18px;
+    line-height: 23.0333px;
+    
+}
+                                                                                                                                                                                                                                  
+form{
+    
+    margin-top: 15px;
+    vertical-align: baseline;
+}
+input[type="search"]{
+    padding: 4px;
+    height: 35px;
+    width: 350px;
+}
+.searchbutton {
+    height: 35px;
+    width: 20px;   
+    padding-left: 20px;
+    padding-right: 20px; 
+}
+.container {
+    width:80%;
+    margin: auto;
+    overflow: hidden;
+    text-align: center;
+}
+#duck{
+    font-size: 26px;
+    color: rgb(34, 34, 34);
+}
+#duckimage {
+    border: #e71f1f;
+}
+#spread {
+    color: #4fb6ad;
+}
+span a:hover {
+    color: #4fb6ad;
+    
+}
+span a:link {
+    color: #4fb6ad;
+    text-decoration: none;
+    
+}
+span a:visited, a:active {
+    color: #4fb6ad;
+    text-decoration: none;
+    
+}

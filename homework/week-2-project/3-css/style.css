@@ -1,0 +1,86 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1rem;
+    line-height: 1,5rem;
+    padding: 0;
+    margin: 0;
+    background-color: #f1f3ce;
+}
+
+
+.container{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+
+}
+header{
+    background: #00293c;
+    color: #f1f3ce;
+    padding: 2rem;
+    min-height: 4rem;
+    border-bottom: #f62a00 0.5rem solid;
+}
+header a{
+    color: #f1f3ce;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 1rem;
+
+}
+header ul{
+    margin: 0rem;
+    padding: 0rem;
+}
+
+header li{
+    display: inline;
+    float: left;
+    padding: 0 1.5rem 0 1.5rem;
+
+}
+header #dogs{
+    float: left;
+}
+header a:hover{
+    color: #f62a00;
+    font-weight: bold;
+
+}
+#info{
+    min-height: 25rem;
+    background: url('../dogs.jpeg') 0 -25rem;
+    text-align: center;
+    color:#f62a00;
+    font-weight: bold;
+}
+
+#info h1{
+    font-size: 2rem;
+    margin-top: 16rem;
+    margin-bottom: 1rem;
+
+}
+#boxes{
+    margin-top: 1rem;
+}
+#boxes .box{
+    float:left;
+    text-align: center;
+    width: 30%;
+    padding: 1rem;
+}
+
+#boxes .box img{
+    width: 6rem;
+}
+
+footer{
+    padding: 1.5rem;
+    margin-top: 1.5rem;
+    color: #f1f3ce;
+    background-color: #00293c;
+    text-align: center;
+
+}
+
