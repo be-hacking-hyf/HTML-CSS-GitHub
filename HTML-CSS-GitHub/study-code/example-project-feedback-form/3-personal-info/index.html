@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+  <link rel="stylesheet" href="./style.css">
+  <title>Survey Form</title>
+</head>
+
+<body class="body">
+  <div class="body-wrapper">
+    <header class="header">
+      <h1 class="title" id="title">Survey Form</h1>
+    </header>
+
+    <main class="main">
+      <p id="description">Let us know how to improve freecodecamp</p>
+      <section class="section">
+        <form id="survey-form" class="form">
+          <div class="form__item">
+            <label class="form__label" id="name-label" for="name">* Name:</label>
+            <input class="form__input" id="name" type="text" placeholder="John Snow" required />
+          </div>
+          <div class="form__item">
+            <label class="form__label" id="email-label" for="email">* Email:</label>
+            <input class="form__input" id="email" type="email" placeholder="john.snow@gmail.com" required />
+          </div>
+          <div class="form__item">
+            <label class="form__label" id="number-label" for="number">* Age:</label>
+            <input class="form__input" id="number" type="number" min="18" max="100" placeholder="20" required />
+          </div>
+          <div class="form__item">
+            <label class="form__label">Which option best describes your current role?</label>
+            <select class="form__input" id="dropdown" name="">
+              <option value="1">Student</option>
+              <option value="1">Full Time Job</option>
+              <option value="1">Full Time Learner</option>
+              <option value="1">Other</option>
+            </select>
+          </div>
+          <input class="form__submit" id="submit" type="submit" value="Submit" />
+        </form>
+      </section>
+    </main>
+  </div>
+</body>
+
+</html>
