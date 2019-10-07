@@ -1,0 +1,18 @@
+<style>
+h4 {
+    color: green;
+}
+.isgreen {
+    color: green;
+}
+.cool {
+    background-color: blue;
+    color: white;
+}
+.nice {
+    color: orange;
+}
+</style>
+style.css
+
+style.css

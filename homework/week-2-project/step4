@@ -1,0 +1,32 @@
+<style>
+body {
+    text-align: center;
+}
+.para1 {
+    font-size: 30pt;
+    font-style: normal;
+    font-weight: bold;
+    font-family: Garamond, sans-serif;
+}
+para2 {
+    font-size: 50%;
+    font-style: normal;
+    font-weight: bold;
+}
+h1 {
+    text-decoration: underline;
+    font-style: italic;
+    font-size: 20px;
+    text-tranform: uppercase;
+}
+h2 {
+    background-color: #0078BC;
+    text-decoration: underline;
+    font-size: 18px;
+    text-transform: capitalize;
+
+</style>
+style.css
+
+
+style.css
