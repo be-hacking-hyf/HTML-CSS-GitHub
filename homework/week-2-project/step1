@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  <meta charset="utf-8">
+
+  <title>HTML/CSS Week 2 Project Table</title>
+</head>
+
+<body>
+<header>
+
+  <h1>My country Burundi</h1>
+
+  <nav>
+  <ul>
+  <li>About Burundi</li>
+  <li>People</li>
+  <li>Culture</li>
+  </ul>
+  </nav>
+  </header>
+<div class="green">
+  <h1 class="country">My country Burundi</h1>
+  </div>
+  <div class="div1">
+  <p class="para1">Burundi is so called "Country of thousands hills"</p>
+  </div>
+  </section>
+  <section id="Newsletter">
+  <div class="newsletter">
+  <h1>Subscribe to Our newsletter</h1>
+  <form>
+  <input type="email" placeholder="Enter Email">
+  <button type="Submit" class="button_1"> Subscrfibe
+  </button>
+  </form>
+  </div>
+  <div class="para2">
+  <p class="para2">< a href="https://fr.wikipedia.org/wiki/Burundi">For more information clic here</a><br>
+  My country is called <strong>Burundi</strong>.<br>
+  It is an <em>East African</em> country without access to the sea, but with a large shoreline on Lake Tanganyika.<br>
+  it is located in the Great Lakes region and surrounded by the Democratic Republic of Congo to the west, Rwanda to the north, and Tanzania to the east and south.<br> 
+  Its capital is, since February 4, 2019, Gitega. Bujumbura, the former capital and the most populous city in the country, is the economic capital.
+Burundi's economy is predominantly rural and is based on agricultural exports and livestock.<br> 
+Agricultural production is divided between products for export, such as coffee, tea and cotton, and food crops.<br> 
+The coffee sector is the country's leading resource (80% of exports).<br> 
+Burundi is also the eighth in the list of African tea producers at the beginning of the decade 2010, dominated by Kenya.</p>
+</div>
+
+</html>
+
+step1 index.html 
+
+step1 index.html 
