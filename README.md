@@ -89,16 +89,7 @@
 ## HTML-CSS-GitHub - Elif Sancak
 
 ## Week 1 Project 
-  <table width="75%" border="1">
-    <thead>
-      <tr>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-      </tr>
-    </thead>
+  <table width="40%" border="1">
     <tbody>
       <tr>
         <td><a href="https://elifsancak.github.io/HTML-CSS-GitHub/homework/week-1-project/0-blank-page-setup/">0-blank-page-setup</a> </td>
