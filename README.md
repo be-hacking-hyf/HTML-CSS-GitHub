@@ -15,58 +15,9 @@
 <p>Week 3 project</p> 
 
 <a href="https://elifsancak.github.io/HTML-CSS-GitHub/homework/week-3-project/index.html">DuckDuckGo Website and Branches</a><br>
-<table border="1" width="70%">
-    <thead>
-      <tr>
-        <th>a user can ...</th>
-        <th>HTML</th>
-        <th>CSS</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><a href="./0-blank-page-setup/index.html">... open a website</a> </td>
-        <td>empty HTML template, requiring CSS file, title tag</td>
-        <td>empty CSS file</td>
-      </tr>
-      <tr>
-        <td><a href="https://elifsancak.github.io/HTML-CSS-GitHub/homework/week-3-project/1-first-section/index.html">1-first-section.html</a></td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td><a href="https://elifsancak.github.io/HTML-CSS-GitHub/homework/week-3-project/1-second-section/">1-second-section</a></td>
-        <td>a section based off the second section of DuckDuckGo</td>
-        <td>some styling to make it visually match DuckDuckGo</td>
-      </tr>
-      <tr>
-        <td><a href="https://elifsancak.github.io/HTML-CSS-GitHub/homework/week-3-project/1-third-section/">1-third-section</a></td>
-        <td>a section based off the third section of DuckDuckGo</td>
-        <td>some styling to make it visually match DuckDuckGo</td>
-      </tr>
-      <tr>
-        <td><a href="https://elifsancak.github.io/HTML-CSS-GitHub/homework/week-3-project/1-fourth-section/">1-fourth-section</a></td>
-        <td>a section based off the fourth section of DuckDuckGo</td>
-        <td>some styling to make it visually match DuckDuckGo</td>
-      </tr>
-      <tr>
-        <td><a href="https://elifsancak.github.io/HTML-CSS-GitHub/homework/week-3-project/1-fifth-section/">1-fifth-section</a></td>
-        <td>a section based off the fifth section of DuckDuckGo</td>
-        <td>some styling to make it visually match DuckDuckGo</td>
-      </tr>
-    <tbody>
-  </table>
-
 ## HTML-CSS-GitHub - Elif Sancak
 
 ## Week 2 Project 
-  
-  
-
-
- 
-
-
   <table width="75%" border="1">
     <thead>
       <tr>
