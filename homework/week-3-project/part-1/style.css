@@ -1,0 +1,61 @@
+/* PART-1 */
+
+.part-1 {
+
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    clear: both;
+    padding-top: 2%;
+    
+       }
+  
+  #logo {
+      
+      text-align: center;
+      display: block;
+      margin: 0 auto;
+      clear: both;
+      padding-top: 2%;
+      max-width: 360px;
+      height: auto;
+       }
+  
+  #form {
+      max-width: 518px;
+      line-height: auto;
+      padding: 20px 10px;
+      text-align: center;
+       }
+  
+  body {
+      margin: 0;
+      padding: 0;
+      background: #f7f7f7;
+       }
+    
+  
+  #slogan {
+      text-align: center;
+      color: #9a9a9a;
+      font-family: inherit;
+      font-size: 100%;
+       }
+  
+  .tag {
+      font-family: inherit;
+      color: #4495d4;
+      font-size: 100%;
+      text-decoration-line: none;
+       }
+  
+  #man1 {
+      max-width: 100px;
+      height: auto;
+      position: relative;
+      text-align: center;
+      padding-top: 13%;
+      padding-bottom: 5%;
+
+  
+  }
