@@ -100,7 +100,7 @@
 
 
   
-  ## Week 2 Project - Yavuz Ugurtas
+  ## Week 3 Project - Yavuz Ugurtas
 
 
 
@@ -118,32 +118,32 @@
     </thead>
     <tbody>
       <tr>
-        <td><a href=""> Part-0</a> </td>
+        <td><a href="https://yavuzugurtas.github.io/HTML-CSS-GitHub/homework/week-3-project/part-0"> Part-0</a> </td>
         <td>empty HTML template and CSS file</td>
         <td>Empty</td>
       </tr>
       <tr>
-        <td><a href=""> Part-1</a></td>
+        <td><a href="https://yavuzugurtas.github.io/HTML-CSS-GitHub/homework/week-3-project/part-1"> Part-1</a></td>
         <td>Search box and logo</td>
         <td> Main page, I couldnt manage the nav part, I think it is js</td>
       </tr>
       <tr>
-        <td><a href="">Part-2</a> </td>
+        <td><a href="https://yavuzugurtas.github.io/HTML-CSS-GitHub/homework/week-3-project/part-2">Part-2</a> </td>
         <td>second page -  info</td>
         <td>background changed, pic added</td>
       </tr>
       <tr>
-        <td> <a href="">Part-3</a> </td>
+        <td> <a href="https://yavuzugurtas.github.io/HTML-CSS-GitHub/homework/week-3-project/part-3">Part-3</a> </td>
         <td>3rd page - info </td>
         <td>background changed, pic added</td>
       </tr>
        <tr>
-        <td> <a href="">Part-4</a> </td>
+        <td> <a href="https://yavuzugurtas.github.io/HTML-CSS-GitHub/homework/week-3-project/part-4">Part-4</a> </td>
         <td>4th page - info </td>
         <td>background changed, pic added</td>
       </tr> 
       <tr>
-        <td><a href="">Part-5</a> </td>
+        <td><a href="https://yavuzugurtas.github.io/HTML-CSS-GitHub/homework/week-3-project/part-5">Part-5</a> </td>
         <td>Footer </td>
         <td>background changed, pic added, go to the top button added</td>
       </tr>
